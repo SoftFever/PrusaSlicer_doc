@@ -25,43 +25,6 @@
 var NAVTREE =
 [
   [ "Prusa Slicer", "index.html", [
-    [ "README", "df/d5b/readme.html", null ],
-    [ "README", "df/dd9/readme-1.html", null ],
-    [ "README", "d0/d9c/readme-2.html", null ],
-    [ "README", "d9/dbd/readme-3.html", null ],
-    [ "IGL copyleft subdirectory", "d7/dc7/md_src_2libigl_2igl_2copyleft_2_r_e_a_d_m_e.html", null ],
-    [ "Changelog", "df/da3/md_src_2miniz_2_change_log.html", null ],
-    [ "Miniz", "db/d0d/md_src_2miniz_2readme.html", [
-      [ "Usage", "db/d0d/md_src_2miniz_2readme.html#usage", null ],
-      [ "Features", "db/d0d/md_src_2miniz_2readme.html#features", null ],
-      [ "Known Problems", "db/d0d/md_src_2miniz_2readme.html#known-problems", null ],
-      [ "Special Thanks", "db/d0d/md_src_2miniz_2readme.html#special-thanks", null ],
-      [ "Patents", "db/d0d/md_src_2miniz_2readme.html#patents", null ]
-    ] ],
-    [ "README", "d8/da3/readme-4.html", [
-      [ "QOI - The “Quite OK Image Format” for fast, lossless image compression", "d8/da3/readme-4.html#qoi---the-quite-ok-image-format-for-fast-lossless-image-compression", [
-        [ "Why?", "d8/da3/readme-4.html#why", null ],
-        [ "Example Usage", "d8/da3/readme-4.html#example-usage", null ],
-        [ "Limitations", "d8/da3/readme-4.html#limitations", null ],
-        [ "Tools", "d8/da3/readme-4.html#tools", null ],
-        [ "Implementations & Bindings of QOI", "d8/da3/readme-4.html#implementations--bindings-of-qoi", null ],
-        [ "QOI Support in Other Software", "d8/da3/readme-4.html#qoi-support-in-other-software", null ],
-        [ "Packages", "d8/da3/readme-4.html#packages", null ],
-        [ "Implementations not yet conforming to the final specification", "d8/da3/readme-4.html#implementations-not-yet-conforming-to-the-final-specification", null ]
-      ] ]
-    ] ],
-    [ "README", "dc/d01/readme-5.html", [
-      [ "<tt>std::span</tt> implementation for C++11 and later", "dc/d01/readme-5.html#stdspan-implementation-for-c11-and-later", [
-        [ "Usage", "dc/d01/readme-5.html#usage-1", null ],
-        [ "Compatibility", "dc/d01/readme-5.html#compatibility", null ],
-        [ "Documentation", "dc/d01/readme-5.html#documentation", null ],
-        [ "Implementation Notes", "dc/d01/readme-5.html#implementation-notes", [
-          [ "Bounds Checking", "dc/d01/readme-5.html#bounds-checking", null ],
-          [ "<tt>constexpr</tt>", "dc/d01/readme-5.html#constexpr", null ]
-        ] ],
-        [ "Alternatives", "dc/d01/readme-5.html#alternatives", null ]
-      ] ]
-    ] ],
     [ "Modules", "modules.html", "modules" ],
     [ "Namespaces", "namespaces.html", [
       [ "Namespace List", "namespaces.html", "namespaces_dup" ],

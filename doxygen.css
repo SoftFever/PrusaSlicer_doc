@@ -1553,8 +1553,8 @@ dl.section dd {
 
 #projectlogo
 {
-	text-align: center;
-	vertical-align: bottom;
+	text-align: left;
+	vertical-align: middle;
 	border-collapse: separate;
 }
  
@@ -1565,6 +1565,7 @@ dl.section dd {
  
 #projectalign
 {
+		text-align: left;
         vertical-align: middle;
         padding-left: 0.5em;
 }
