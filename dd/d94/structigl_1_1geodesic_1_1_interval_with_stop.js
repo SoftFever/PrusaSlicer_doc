@@ -1,0 +1,37 @@
+var structigl_1_1geodesic_1_1_interval_with_stop =
+[
+    [ "DirectionType", "dd/d94/structigl_1_1geodesic_1_1_interval_with_stop.html#ae5bb0f8bb1219cbb3b1c283d9a9cd75c", [
+      [ "FROM_FACE_0", "dd/d94/structigl_1_1geodesic_1_1_interval_with_stop.html#ae5bb0f8bb1219cbb3b1c283d9a9cd75ca3fbea02f4026fefa9c776f4b2d29054c", null ],
+      [ "FROM_FACE_1", "dd/d94/structigl_1_1geodesic_1_1_interval_with_stop.html#ae5bb0f8bb1219cbb3b1c283d9a9cd75ca1605bbb78a9658dfd179525544b11803", null ],
+      [ "FROM_SOURCE", "dd/d94/structigl_1_1geodesic_1_1_interval_with_stop.html#ae5bb0f8bb1219cbb3b1c283d9a9cd75ca43dd6c0926f6154e3328550e7263d805", null ],
+      [ "UNDEFINED_DIRECTION", "dd/d94/structigl_1_1geodesic_1_1_interval_with_stop.html#ae5bb0f8bb1219cbb3b1c283d9a9cd75ca29a4900ee21a83660b2711e25ff41f49", null ]
+    ] ],
+    [ "compute_min_distance", "dd/d94/structigl_1_1geodesic_1_1_interval_with_stop.html#aa379988d3eddc1c7708323ae3c6e5729", null ],
+    [ "d", "dd/d94/structigl_1_1geodesic_1_1_interval_with_stop.html#affb6db0dace301a5cde2687275ad22ef", null ],
+    [ "direction", "dd/d94/structigl_1_1geodesic_1_1_interval_with_stop.html#a5abe0ce656e4576d55484df11c600e39", null ],
+    [ "edge", "dd/d94/structigl_1_1geodesic_1_1_interval_with_stop.html#a7e6d52a76e18c276a500957a431fa45c", null ],
+    [ "find_closest_point", "dd/d94/structigl_1_1geodesic_1_1_interval_with_stop.html#a5baac54fac2c4b45f3f842c3c163e9f7", null ],
+    [ "hypotenuse", "dd/d94/structigl_1_1geodesic_1_1_interval_with_stop.html#af14fda648a6318a370df99d1f5c93060", null ],
+    [ "initialize", "dd/d94/structigl_1_1geodesic_1_1_interval_with_stop.html#ad7826ce6b63c290d11c5210446b093e0", null ],
+    [ "max_distance", "dd/d94/structigl_1_1geodesic_1_1_interval_with_stop.html#a50c94a70119d8a74d024442c25242b33", null ],
+    [ "min", "dd/d94/structigl_1_1geodesic_1_1_interval_with_stop.html#a586e7f02339ba729534b599c001376b1", null ],
+    [ "next", "dd/d94/structigl_1_1geodesic_1_1_interval_with_stop.html#a1216c3c231a6b3cb3895e7d8f73fab74", null ],
+    [ "operator()", "dd/d94/structigl_1_1geodesic_1_1_interval_with_stop.html#a84aed89e17f094a6c99b59e0d206e92b", null ],
+    [ "pseudo_x", "dd/d94/structigl_1_1geodesic_1_1_interval_with_stop.html#afa8585c8b6c1dad26b46fa9c7d10ef1e", null ],
+    [ "pseudo_y", "dd/d94/structigl_1_1geodesic_1_1_interval_with_stop.html#adb301910e9132df24543de6dee6d9d08", null ],
+    [ "signal", "dd/d94/structigl_1_1geodesic_1_1_interval_with_stop.html#adff302458d384ff7b0bab602bc8647a6", null ],
+    [ "source_index", "dd/d94/structigl_1_1geodesic_1_1_interval_with_stop.html#a11fc67ed059bdf86a97ac8e6fea0df37", null ],
+    [ "start", "dd/d94/structigl_1_1geodesic_1_1_interval_with_stop.html#a5fd99aa75c32d4b00b41c482069b3a2b", null ],
+    [ "stop", "dd/d94/structigl_1_1geodesic_1_1_interval_with_stop.html#aebd29bf241a7f54aeaecc9aa1f72a689", null ],
+    [ "visible_from_source", "dd/d94/structigl_1_1geodesic_1_1_interval_with_stop.html#a3bd50e12ff40e242db53207db0631e91", null ],
+    [ "m_d", "dd/d94/structigl_1_1geodesic_1_1_interval_with_stop.html#a6bcf912948d8eb42505a229810688bce", null ],
+    [ "m_direction", "dd/d94/structigl_1_1geodesic_1_1_interval_with_stop.html#a725e49e42154b563f88efb936d0a4cfa", null ],
+    [ "m_edge", "dd/d94/structigl_1_1geodesic_1_1_interval_with_stop.html#aa84c2a5d9756551230e245dab3561e8c", null ],
+    [ "m_min", "dd/d94/structigl_1_1geodesic_1_1_interval_with_stop.html#a859c43c8bd36e2702fce45b35349efc5", null ],
+    [ "m_next", "dd/d94/structigl_1_1geodesic_1_1_interval_with_stop.html#ae6f253e6f21aa01042845b552b3e7de5", null ],
+    [ "m_pseudo_x", "dd/d94/structigl_1_1geodesic_1_1_interval_with_stop.html#a0b9966c703f8179f6cc8e2aaab85508f", null ],
+    [ "m_pseudo_y", "dd/d94/structigl_1_1geodesic_1_1_interval_with_stop.html#adc49845d014bf3ec20c3bd7700f98c36", null ],
+    [ "m_source_index", "dd/d94/structigl_1_1geodesic_1_1_interval_with_stop.html#a8246183e675327956f1762a1b427adda", null ],
+    [ "m_start", "dd/d94/structigl_1_1geodesic_1_1_interval_with_stop.html#ac6f30b5679ba1453c6aaaae75adc9ea6", null ],
+    [ "m_stop", "dd/d94/structigl_1_1geodesic_1_1_interval_with_stop.html#a96ab1b687981049876941932c59075bb", null ]
+];

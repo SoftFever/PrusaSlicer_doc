@@ -1,0 +1,20 @@
+<map id="Slic3r::NormalUtils::create_triangle_normal" name="Slic3r::NormalUtils::create_triangle_normal">
+<area shape="rect" id="Node000001" title="Create normal for triangle defined by indices from vertices." alt="" coords="830,133,990,174"/>
+<area shape="rect" id="Node000002" href="$d6/d6f/class_slic3r_1_1_normal_utils.html#a0ce883827bc22179bcfb5cf98a1724cc" title=" " alt="" coords="618,5,774,61"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="864,127,780,75,758,64,761,59,783,71,867,122"/>
+<area shape="rect" id="Node000006" href="$d6/d6f/class_slic3r_1_1_normal_utils.html#a7b70adf16b95e99e41f1ea8abd613b96" title=" " alt="" coords="610,85,782,141"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="815,138,782,132,783,127,816,133"/>
+<area shape="rect" id="Node000007" href="$d6/d6f/class_slic3r_1_1_normal_utils.html#a831a1110d823dee72a5db935898df92b" title=" " alt="" coords="614,165,778,221"/>
+<area shape="poly" id="edge8_Node000001_Node000007" title=" " alt="" coords="815,174,779,180,778,175,814,168"/>
+<area shape="rect" id="Node000008" href="$d6/d6f/class_slic3r_1_1_normal_utils.html#abf34c8d35068464e73b8de8a4497683c" title="Create normals for each vertices." alt="" coords="612,245,780,286"/>
+<area shape="poly" id="edge10_Node000001_Node000008" title=" " alt="" coords="869,184,783,236,758,247,756,242,780,231,866,180"/>
+<area shape="rect" id="Node000003" href="$d6/d6f/class_slic3r_1_1_normal_utils.html#aaae6ee0663bab6a467aed8acb8cc96f9" title="Create normals for each vertex by averaging neighbor triangles normal." alt="" coords="431,93,562,134"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="613,69,550,95,548,90,611,64"/>
+<area shape="rect" id="Node000004" href="$de/db8/namespace_slic3r.html#a9b98fdfba46cc062d34b807935cdb948" title=" " alt="" coords="236,93,383,134"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="416,116,383,116,383,111,416,111"/>
+<area shape="rect" id="Node000005" href="$dd/dc4/namespace_slic3r_1_1_seam_placer_impl.html#ac113e45bae9af289fad2b023e23a3afc" title=" " alt="" coords="5,93,188,134"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="221,116,188,116,188,111,221,111"/>
+<area shape="poly" id="edge5_Node000005_Node000005" title=" " alt="" coords="132,80,119,74,96,71,76,73,64,78,59,84,61,92,56,93,54,83,61,74,75,68,97,66,120,69,134,75"/>
+<area shape="poly" id="edge7_Node000006_Node000003" title=" " alt="" coords="596,116,563,116,563,111,596,111"/>
+<area shape="poly" id="edge9_Node000007_Node000003" title=" " alt="" coords="611,162,548,136,550,131,613,157"/>
+</map>

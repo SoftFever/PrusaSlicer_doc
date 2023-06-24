@@ -1,0 +1,28 @@
+var class_clipper_lib_1_1_poly_tree =
+[
+    [ "PolyTree", "d8/de9/class_clipper_lib_1_1_poly_tree.html#a46826f51115a7240880a965a87c6064f", null ],
+    [ "PolyTree", "d8/de9/class_clipper_lib_1_1_poly_tree.html#a9bc4930a334b4db90d8f9272f0839176", null ],
+    [ "~PolyTree", "d8/de9/class_clipper_lib_1_1_poly_tree.html#acf4d9bc679a66067903455b8c2dc3391", null ],
+    [ "PolyTree", "d8/de9/class_clipper_lib_1_1_poly_tree.html#a3c74316f8beb246f1ef72376ace5fc1d", null ],
+    [ "AddChild", "d8/de9/class_clipper_lib_1_1_poly_tree.html#a88b3923dabfc527b5eb28ca29005193d", null ],
+    [ "ChildCount", "d8/de9/class_clipper_lib_1_1_poly_tree.html#a19128db6fb2aca66555231edaffa7ade", null ],
+    [ "Clear", "d8/de9/class_clipper_lib_1_1_poly_tree.html#a8620ea631d478b3c43274ac084902ec4", null ],
+    [ "GetFirst", "d8/de9/class_clipper_lib_1_1_poly_tree.html#a8b88b8d6225281ee7d536902b0d04e9e", null ],
+    [ "GetNext", "d8/de9/class_clipper_lib_1_1_poly_tree.html#adbcb861001d8bfbd609c4ba4f4a19a58", null ],
+    [ "GetNextSiblingUp", "d8/de9/class_clipper_lib_1_1_poly_tree.html#afbe90ef4620c23bc69a182cdcdc13416", null ],
+    [ "IsHole", "d8/de9/class_clipper_lib_1_1_poly_tree.html#a0467801cae1b28ad8a4917b96e551536", null ],
+    [ "IsOpen", "d8/de9/class_clipper_lib_1_1_poly_tree.html#ac9ade640af2515976d337b65e8e84776", null ],
+    [ "operator=", "d8/de9/class_clipper_lib_1_1_poly_tree.html#aa6dac19128934048a2b243df720613db", null ],
+    [ "operator=", "d8/de9/class_clipper_lib_1_1_poly_tree.html#a2d356b27c612e09d17c2e76571d933ee", null ],
+    [ "RemoveOutermostPolygon", "d8/de9/class_clipper_lib_1_1_poly_tree.html#a01244c5662df5f630d627b4a41e8d55a", null ],
+    [ "Total", "d8/de9/class_clipper_lib_1_1_poly_tree.html#ad0d3c974bab5a30cc8c916da9fe14388", null ],
+    [ "Clipper", "d8/de9/class_clipper_lib_1_1_poly_tree.html#a4d39a09ecdddeeb85930dd4554a54b3c", null ],
+    [ "AllNodes", "d8/de9/class_clipper_lib_1_1_poly_tree.html#aad0a412d3fa7f66a7b85911e8c60db21", null ],
+    [ "Childs", "d8/de9/class_clipper_lib_1_1_poly_tree.html#a7ac59aea508951a4c979bfca8913261d", null ],
+    [ "Contour", "d8/de9/class_clipper_lib_1_1_poly_tree.html#a1d08b8a9499ff8cb89d5d63a12f881ea", null ],
+    [ "Index", "d8/de9/class_clipper_lib_1_1_poly_tree.html#afd6cbdb6ea29cdcc507cb7fa9c6add62", null ],
+    [ "m_endtype", "d8/de9/class_clipper_lib_1_1_poly_tree.html#aeb839354fbbc88cbc9bc874595d1f6a2", null ],
+    [ "m_IsOpen", "d8/de9/class_clipper_lib_1_1_poly_tree.html#a698701d730b274eba93efd237edbd3aa", null ],
+    [ "m_jointype", "d8/de9/class_clipper_lib_1_1_poly_tree.html#adb86401ee6a67b7d620a3ff672196775", null ],
+    [ "Parent", "d8/de9/class_clipper_lib_1_1_poly_tree.html#a9465bc02623316de2af3ab52c6f7041e", null ]
+];

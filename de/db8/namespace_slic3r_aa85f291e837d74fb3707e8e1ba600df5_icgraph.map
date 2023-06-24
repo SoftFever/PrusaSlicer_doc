@@ -1,0 +1,30 @@
+<map id="Slic3r::has_reflection" name="Slic3r::has_reflection">
+<area shape="rect" id="Node000001" title="Check whether transformation matrix contains odd number of mirroring. NOTE: In code is sometime funct..." alt="" coords="1182,136,1325,162"/>
+<area shape="rect" id="Node000002" href="$dc/db2/namespacepriv.html#a3bf69293faaa86a8d5e2b33736ef93a3" title="Cut surface into triangle mesh." alt="" coords="978,100,1097,126"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1167,137,1097,126,1097,120,1168,132"/>
+<area shape="rect" id="Node000005" href="$d4/dd8/class_slic3r_1_1_g_u_i_1_1_raycast_manager.html#af95065d1d6cc5f88ae11f1b06f6238b2" title="Unproject on mesh and return closest hit to point in given direction." alt="" coords="941,157,1134,198"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="1168,163,1135,167,1134,162,1167,158"/>
+<area shape="rect" id="Node000003" href="$da/d91/class_slic3r_1_1_g_u_i_1_1_emboss_1_1_create_surface_volume_job.html#a1806325bb403e4c1fa4be3a8b69dc7cf" title=" " alt="" coords="713,5,891,61"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="983,98,885,64,887,59,984,93"/>
+<area shape="rect" id="Node000004" href="$d7/db0/class_slic3r_1_1_g_u_i_1_1_emboss_1_1_update_surface_volume_job.html#a20bb84d082e82cefacfb54549f5624bf" title=" " alt="" coords="711,85,893,141"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="964,116,893,116,893,111,964,111"/>
+<area shape="rect" id="Node000006" href="$d9/d45/namespace_slic3r_1_1_g_u_i.html#af48dee98bb430edb3967a88b17529c81" title="Unproject on mesh by Mesh raycasters." alt="" coords="729,165,875,206"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="926,184,875,185,875,180,926,178"/>
+<area shape="rect" id="Node000007" href="$d9/d45/namespace_slic3r_1_1_g_u_i.html#aa6f05fa3968ab4640a169feb305cf01f" title="Mouse event handler, when move(drag&amp;drop) volume over model surface NOTE: Dragged volume has to be se..." alt="" coords="504,132,658,172"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="715,175,658,166,659,161,715,169"/>
+<area shape="rect" id="Node000010" href="$dc/db2/namespacepriv.html#aac311686267e18e74a8b0f6a71004968" title="Start job for add new volume on surface of object defined by screen coor." alt="" coords="498,197,663,238"/>
+<area shape="poly" id="edge9_Node000006_Node000010" title=" " alt="" coords="715,200,664,208,663,203,714,195"/>
+<area shape="rect" id="Node000008" href="$dd/df1/class_slic3r_1_1_g_u_i_1_1_g_l_gizmo_emboss.html#a314b6054822747e4007fb66ba117fe9b" title=" " alt="" coords="253,132,450,172"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="489,155,450,155,450,149,489,149"/>
+<area shape="rect" id="Node000009" href="$dd/df1/class_slic3r_1_1_g_u_i_1_1_g_l_gizmo_emboss.html#acac6ee7c40ce0415d7a14394ab672ea0" title="Rotate by text on dragging rotate grabers." alt="" coords="6,132,204,172"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="238,155,204,155,204,149,238,149"/>
+<area shape="rect" id="Node000011" href="$dd/df1/class_slic3r_1_1_g_u_i_1_1_g_l_gizmo_emboss.html#ae6b979894dbc29d468f7aa7e177ea59c" title="Create new text without given position." alt="" coords="253,197,450,238"/>
+<area shape="poly" id="edge10_Node000010_Node000011" title=" " alt="" coords="483,220,451,220,451,215,483,215"/>
+<area shape="rect" id="Node000012" href="$dd/df1/class_slic3r_1_1_g_u_i_1_1_g_l_gizmo_emboss.html#a1a7e40d8281af588c9e35726ef652f82" title="Create new embossed text volume by type on position of mouse." alt="" coords="253,286,450,327"/>
+<area shape="poly" id="edge11_Node000010_Node000012" title=" " alt="" coords="514,246,407,288,405,283,512,241"/>
+<area shape="poly" id="edge13_Node000012_Node000012" title=" " alt="" coords="389,273,375,267,351,265,329,267,316,271,311,277,313,285,308,286,306,276,313,267,328,262,351,260,377,262,391,269"/>
+<area shape="rect" id="Node000013" href="$de/de3/class_slic3r_1_1_g_u_i_1_1_menu_factory.html#abfabe5605b2e41ecced931f7959daac5" title=" " alt="" coords="5,253,205,294"/>
+<area shape="poly" id="edge12_Node000012_Node000013" title=" " alt="" coords="238,294,205,289,206,284,238,289"/>
+<area shape="rect" id="Node000014" href="$dd/df1/class_slic3r_1_1_g_u_i_1_1_g_l_gizmo_emboss.html#abfa868a330921a95a417bea1fe3f9120" title="Handle pressing of shortcut." alt="" coords="6,318,204,359"/>
+<area shape="poly" id="edge14_Node000012_Node000014" title=" " alt="" coords="238,324,204,328,204,323,238,319"/>
+</map>

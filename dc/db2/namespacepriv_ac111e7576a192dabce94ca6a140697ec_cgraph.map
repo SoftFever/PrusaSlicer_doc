@@ -1,0 +1,31 @@
+<map id="priv::cut_from_model" name="priv::cut_from_model">
+<area shape="rect" id="Node000001" title="Create AOIs(area of interest) on model surface." alt="" coords="5,132,149,158"/>
+<area shape="rect" id="Node000002" href="$dc/db2/namespacepriv.html#a5b612941ba1169bc1a3b6ea32a170fad" title="Create areas from mesh surface." alt="" coords="197,42,340,83"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="108,129,205,86,207,91,110,134"/>
+<area shape="rect" id="Node000007" href="$dc/db2/namespacepriv.html#a0b2a3034e5e845a948f9d296001d5461" title="Change FaceType from not_constrained to inside For neighbor(or neighbor of neighbor of ...." alt="" coords="407,107,540,132"/>
+<area shape="poly" id="edge7_Node000001_Node000007" title=" " alt="" coords="149,138,392,122,392,127,149,143"/>
+<area shape="rect" id="Node000008" href="$dc/db2/namespacepriv.html#ac4b6483b6a089d3ac57d0b39ef1cdeee" title=" " alt="" coords="221,157,316,183"/>
+<area shape="poly" id="edge9_Node000001_Node000008" title=" " alt="" coords="149,152,207,159,206,165,149,157"/>
+<area shape="rect" id="Node000009" href="$dc/db2/namespacepriv.html#aefd9267243878560db7d59155f90e17e" title="Face with constrained edge are inside/outside by type of intersection Other set to not_constrained(st..." alt="" coords="202,207,335,232"/>
+<area shape="poly" id="edge10_Node000001_Node000009" title=" " alt="" coords="109,156,198,193,213,199,211,204,196,198,107,161"/>
+<area shape="rect" id="Node000003" href="$dc/db2/namespacepriv.html#af86b72ac0bc6512bcfa072576274ba74" title="Collect connected inside faces Collect outline half edges." alt="" coords="388,5,558,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="340,44,395,32,397,37,341,49"/>
+<area shape="rect" id="Node000004" href="$dc/db2/namespacepriv.html#aa742e0f314bddf24f5723d9b7cf3d978" title=" " alt="" coords="658,56,755,82"/>
+<area shape="poly" id="edge6_Node000002_Node000004" title=" " alt="" coords="341,61,644,65,644,71,341,66"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="536,29,644,53,643,58,535,34"/>
+<area shape="rect" id="Node000005" href="$dc/db2/namespacepriv.html#a94d357124243b69a144f52c157a39a12" title=" " alt="" coords="855,56,1001,82"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="755,66,840,66,840,72,755,72"/>
+<area shape="rect" id="Node000006" href="$d9/d45/namespace_slic3r_1_1_g_u_i.html#a0bc89a10493a9b11b4462f72adacfa15" title=" " alt="" coords="1049,56,1207,82"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="1002,66,1034,66,1034,72,1002,72"/>
+<area shape="poly" id="edge8_Node000007_Node000004" title=" " alt="" coords="535,103,643,80,644,85,536,109"/>
+<area shape="rect" id="Node000010" href="$dc/db2/namespacepriv.html#a70998d4a566f8e3e5c04e06aee240258" title="Distiquish face type for half edge." alt="" coords="407,207,540,232"/>
+<area shape="poly" id="edge11_Node000009_Node000010" title=" " alt="" coords="335,217,392,217,392,222,335,222"/>
+<area shape="rect" id="Node000011" href="$d9/de2/class_slic3r_1_1_ex_polygons_indices.html#a4f39fd864085a5332257c04b0b7487d5" title="Convert to one index number." alt="" coords="606,127,807,152"/>
+<area shape="poly" id="edge12_Node000010_Node000011" title=" " alt="" coords="502,204,605,162,632,154,634,159,607,167,504,209"/>
+<area shape="rect" id="Node000012" href="$d2/d9d/structpriv_1_1_intersecting_element.html#aa3a218135168ed94165fc2597a57d33c" title=" " alt="" coords="623,177,790,217"/>
+<area shape="poly" id="edge13_Node000010_Node000012" title=" " alt="" coords="540,210,609,204,609,209,540,216"/>
+<area shape="rect" id="Node000013" href="$d2/d9d/structpriv_1_1_intersecting_element.html#a2369a7036e2cfcfa9442f843c049b97d" title=" " alt="" coords="623,242,790,283"/>
+<area shape="poly" id="edge14_Node000010_Node000013" title=" " alt="" coords="540,229,609,242,608,247,539,234"/>
+<area shape="rect" id="Node000014" href="$d2/d9d/structpriv_1_1_intersecting_element.html#ad29a726e4684bb5cd5fcfe9a74e218b0" title=" " alt="" coords="623,307,790,348"/>
+<area shape="poly" id="edge15_Node000010_Node000014" title=" " alt="" coords="497,231,546,260,607,292,625,299,623,304,605,297,544,265,494,235"/>
+</map>

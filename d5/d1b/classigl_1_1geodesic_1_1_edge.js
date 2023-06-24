@@ -1,0 +1,27 @@
+var classigl_1_1geodesic_1_1_edge =
+[
+    [ "edge_pointer_vector", "d5/d1b/classigl_1_1geodesic_1_1_edge.html#a0680d5c5dcd98f92c9ba142f4d7fd9f6", null ],
+    [ "face_pointer_vector", "d5/d1b/classigl_1_1geodesic_1_1_edge.html#ae982c352b190f31c313f968b731d0f9d", null ],
+    [ "vertex_pointer_vector", "d5/d1b/classigl_1_1geodesic_1_1_edge.html#a030c4bbdec492d73faf5669742dd8f20", null ],
+    [ "Edge", "d5/d1b/classigl_1_1geodesic_1_1_edge.html#a37656b87d3aa1faf51b6350d6eb2441d", null ],
+    [ "~Edge", "d5/d1b/classigl_1_1geodesic_1_1_edge.html#ae7bf07270077cbe5da6150d8d52cc9d7", null ],
+    [ "adjacent_edges", "d5/d1b/classigl_1_1geodesic_1_1_edge.html#a326ddec0d0e01ba517d2c801fdc79e8a", null ],
+    [ "adjacent_faces", "d5/d1b/classigl_1_1geodesic_1_1_edge.html#a31878b6643b35c9443fd0237eedbbcaa", null ],
+    [ "adjacent_vertices", "d5/d1b/classigl_1_1geodesic_1_1_edge.html#aa97b2d1832f8bbaafe892e6c294a8fe6", null ],
+    [ "belongs", "d5/d1b/classigl_1_1geodesic_1_1_edge.html#a42a56b878165213e95812388b6810a55", null ],
+    [ "id", "d5/d1b/classigl_1_1geodesic_1_1_edge.html#a440ac36d0dd396330415543730d2f65e", null ],
+    [ "is_boundary", "d5/d1b/classigl_1_1geodesic_1_1_edge.html#abb614d6ebd326a3cac94005bb72d389a", null ],
+    [ "length", "d5/d1b/classigl_1_1geodesic_1_1_edge.html#a8999472216016d276af916282cddc447", null ],
+    [ "local_coordinates", "d5/d1b/classigl_1_1geodesic_1_1_edge.html#a7f36db22ff266c6977e7a3709749f726", null ],
+    [ "opposite_face", "d5/d1b/classigl_1_1geodesic_1_1_edge.html#a400b2a731a49925eed6028569125ec4c", null ],
+    [ "opposite_vertex", "d5/d1b/classigl_1_1geodesic_1_1_edge.html#ac7efba9f872fe4efab2e16c2ad1b7321", null ],
+    [ "type", "d5/d1b/classigl_1_1geodesic_1_1_edge.html#a3fa032f37c5e02de748d644b146291cd", null ],
+    [ "v0", "d5/d1b/classigl_1_1geodesic_1_1_edge.html#abf5ccad806eabde0b19de871a6303232", null ],
+    [ "v1", "d5/d1b/classigl_1_1geodesic_1_1_edge.html#a9193c97545ef99a8494840e77a1707a9", null ],
+    [ "m_adjacent_edges", "d5/d1b/classigl_1_1geodesic_1_1_edge.html#a758addb171937062edb9b2eb5bf62f9b", null ],
+    [ "m_adjacent_faces", "d5/d1b/classigl_1_1geodesic_1_1_edge.html#a719f2961a2f7c8221f5819eca8326704", null ],
+    [ "m_adjacent_vertices", "d5/d1b/classigl_1_1geodesic_1_1_edge.html#a76b64242c329be043f47dfcf810e1bba", null ],
+    [ "m_id", "d5/d1b/classigl_1_1geodesic_1_1_edge.html#a657e3999c3b00db5d3c514f7719d1667", null ],
+    [ "m_length", "d5/d1b/classigl_1_1geodesic_1_1_edge.html#a311173807102d1052a0cb146741016df", null ],
+    [ "m_type", "d5/d1b/classigl_1_1geodesic_1_1_edge.html#ae7bb8ff121fd33da437b2c69dde6fd3a", null ]
+];

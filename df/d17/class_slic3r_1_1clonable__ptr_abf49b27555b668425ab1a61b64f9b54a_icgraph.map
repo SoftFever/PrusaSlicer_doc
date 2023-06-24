@@ -1,0 +1,9 @@
+<map id="Slic3r::clonable_ptr::destroy" name="Slic3r::clonable_ptr::destroy">
+<area shape="rect" id="Node000001" title="release the ownership of the px pointer and destroy the object" alt="" coords="186,71,318,111"/>
+<area shape="rect" id="Node000002" href="$df/d17/class_slic3r_1_1clonable__ptr.html#a981d3fe0189e1fcc0fd465ae98e4d824" title="the destructor releases its ownership and destroy the object" alt="" coords="5,5,138,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="180,68,129,49,131,44,181,63"/>
+<area shape="rect" id="Node000003" href="$df/d17/class_slic3r_1_1clonable__ptr.html#a0f2a348fb0d30840ed6c75d522dd757d" title="this reset releases its ownership and destroy the object" alt="" coords="5,71,138,111"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="171,94,138,94,138,88,171,88"/>
+<area shape="rect" id="Node000004" href="$df/d17/class_slic3r_1_1clonable__ptr.html#ac89d8686c747937d9075d2a5b687de3d" title="this reset release its ownership and re&#45;acquire another one" alt="" coords="5,136,138,177"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="181,119,131,138,129,133,180,114"/>
+</map>

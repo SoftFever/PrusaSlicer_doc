@@ -1,0 +1,35 @@
+<map id="Slic3r::GUI::CommonGizmosDataObjects::Raycaster::raycasters" name="Slic3r::GUI::CommonGizmosDataObjects::Raycaster::raycasters">
+<area shape="rect" id="Node000001" title=" " alt="" coords="1065,266,1257,322"/>
+<area shape="rect" id="Node000002" href="$df/d94/class_slic3r_1_1_g_u_i_1_1_g_l_gizmo_painter_base.html#a2b65b2518176770f12293004bdfad86a" title=" " alt="" coords="565,266,755,322"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1050,296,756,296,756,291,1050,291"/>
+<area shape="rect" id="Node000005" href="$d0/d5d/class_slic3r_1_1_g_u_i_1_1_g_l_gizmo_sla_base.html#afa2c60fabd3bba6269097719d01f0992" title=" " alt="" coords="818,136,1017,177"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="1096,261,954,179,957,175,1099,256"/>
+<area shape="rect" id="Node000012" href="$df/d94/class_slic3r_1_1_g_u_i_1_1_g_l_gizmo_painter_base.html#a9eb1e8cc06de2cdae5ec91412dd939c9" title=" " alt="" coords="822,335,1013,375"/>
+<area shape="poly" id="edge11_Node000001_Node000012" title=" " alt="" coords="1051,324,1002,337,1000,331,1050,319"/>
+<area shape="rect" id="Node000003" href="$df/d94/class_slic3r_1_1_g_u_i_1_1_g_l_gizmo_painter_base.html#a2a3ad1f02f982c239d12294d311b363f" title=" " alt="" coords="278,273,468,314"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="550,296,468,296,468,291,550,291"/>
+<area shape="rect" id="Node000004" href="$df/d94/class_slic3r_1_1_g_u_i_1_1_g_l_gizmo_painter_base.html#a48afbac056feb8e3953722b56c485d3b" title="Implement when want to process mouse events in gizmo Click, Right click, move, drag,..." alt="" coords="5,273,196,314"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="263,296,196,296,196,291,263,291"/>
+<area shape="rect" id="Node000006" href="$da/d2c/class_slic3r_1_1_g_u_i_1_1_g_l_gizmo_hollow.html#a87dfbde9c64ea240a84d238cf63b1484" title=" " alt="" coords="566,136,755,177"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="803,159,755,159,755,154,803,154"/>
+<area shape="rect" id="Node000008" href="$d9/d0e/class_slic3r_1_1_g_u_i_1_1_g_l_gizmo_sla_supports.html#aa3ec44cc3d269ab8961803796f76966f" title=" " alt="" coords="550,201,770,242"/>
+<area shape="poly" id="edge7_Node000005_Node000008" title=" " alt="" coords="821,183,744,203,742,198,820,178"/>
+<area shape="rect" id="Node000010" href="$da/d2c/class_slic3r_1_1_g_u_i_1_1_g_l_gizmo_hollow.html#aa095f13d15c1157909550788ecc36be1" title=" " alt="" coords="566,5,755,46"/>
+<area shape="poly" id="edge9_Node000005_Node000010" title=" " alt="" coords="877,129,827,94,769,61,739,49,741,44,771,57,830,90,880,125"/>
+<area shape="rect" id="Node000011" href="$d9/d0e/class_slic3r_1_1_g_u_i_1_1_g_l_gizmo_sla_supports.html#af3bb80cfab0551fb9c1801160077db2e" title=" " alt="" coords="550,71,770,111"/>
+<area shape="poly" id="edge10_Node000005_Node000011" title=" " alt="" coords="820,134,742,115,744,109,821,129"/>
+<area shape="rect" id="Node000007" href="$da/d2c/class_slic3r_1_1_g_u_i_1_1_g_l_gizmo_hollow.html#ae39e7b568ef6b08c288538eabc13e708" title="Postpone to Grabber for move Detect move of object by dragging." alt="" coords="278,136,468,177"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="550,159,468,159,468,154,550,154"/>
+<area shape="rect" id="Node000009" href="$d9/d0e/class_slic3r_1_1_g_u_i_1_1_g_l_gizmo_sla_supports.html#a656338e2e62ab9c80c946e736ce8791c" title="Process mouse event." alt="" coords="263,201,483,242"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="535,224,484,224,484,219,535,219"/>
+<area shape="poly" id="edge12_Node000012_Node000002" title=" " alt="" coords="815,333,755,319,757,314,816,328"/>
+<area shape="poly" id="edge13_Node000012_Node000003" title=" " alt="" coords="807,356,683,350,550,336,453,317,454,312,550,331,684,345,808,351"/>
+<area shape="rect" id="Node000013" href="$df/d94/class_slic3r_1_1_g_u_i_1_1_g_l_gizmo_painter_base.html#abbd944606e13b479a1b17024adc535d0" title=" " alt="" coords="565,400,755,441"/>
+<area shape="poly" id="edge14_Node000012_Node000013" title=" " alt="" coords="821,382,744,402,742,397,820,377"/>
+<area shape="rect" id="Node000014" href="$d7/ddf/class_slic3r_1_1_g_u_i_1_1_g_l_gizmo_fdm_supports.html#a6336329fb7574cb51d4cb540d4a99337" title=" " alt="" coords="259,339,487,379"/>
+<area shape="poly" id="edge15_Node000013_Node000014" title=" " alt="" coords="550,400,471,383,472,377,551,394"/>
+<area shape="rect" id="Node000015" href="$d9/d6f/class_slic3r_1_1_g_u_i_1_1_g_l_gizmo_mmu_segmentation.html#ad7ae27be70e87d0850d7d640326c0a4b" title=" " alt="" coords="244,404,502,445"/>
+<area shape="poly" id="edge16_Node000013_Node000015" title=" " alt="" coords="550,425,502,425,502,420,550,419"/>
+<area shape="rect" id="Node000016" href="$dd/de1/class_slic3r_1_1_g_u_i_1_1_g_l_gizmo_seam.html#a4a6dc858e82108d441f89234a5ad1345" title=" " alt="" coords="281,469,465,510"/>
+<area shape="poly" id="edge17_Node000013_Node000016" title=" " alt="" coords="559,447,461,471,459,466,558,442"/>
+</map>

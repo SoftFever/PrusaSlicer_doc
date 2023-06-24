@@ -1,0 +1,39 @@
+<map id="Slic3r::FFFTreeSupport::set_to_model_contact_to_model_gracious" name="Slic3r::FFFTreeSupport::set_to_model_contact_to_model_gracious">
+<area shape="rect" id="Node000001" title="Get the best point to connect to the model and set the result_on_layer of the relevant SupportElement..." alt="" coords="5,134,163,190"/>
+<area shape="poly" id="edge18_Node000001_Node000001" title=" " alt="" coords="34,133,35,123,44,115,60,109,84,107,111,110,128,117,126,122,110,115,84,112,61,114,47,119,40,126,39,134"/>
+<area shape="rect" id="Node000002" href="$d6/d18/class_slic3r_1_1_f_f_f_tree_support_1_1_tree_model_volumes.html#a4009d3da8dedb156a3924e639aced26a" title="Provides the area represents all areas on the model where the branch does completely fit on the given..." alt="" coords="211,8,469,49"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="115,131,158,97,209,65,239,52,242,57,212,69,161,101,118,135"/>
+<area shape="rect" id="Node000005" href="$dd/df4/namespace_slic3r_1_1_f_f_f_tree_support.html#a5b7e3aa2dbc67c812bcd72802a8e7734" title=" " alt="" coords="517,63,696,103"/>
+<area shape="poly" id="edge21_Node000001_Node000005" title=" " alt="" coords="144,131,210,108,285,94,362,86,502,79,502,84,363,91,286,100,211,114,146,136"/>
+<area shape="rect" id="Node000006" href="$de/db8/namespace_slic3r.html#a57c612ab2aa7dd29f1e7ece220e3af82" title=" " alt="" coords="275,124,405,149"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="163,151,260,142,261,147,163,157"/>
+<area shape="rect" id="Node000009" href="$dd/df4/namespace_slic3r_1_1_f_f_f_tree_support.html#a4cea5675bfa8ad2c71fcd7c1785690fe" title=" " alt="" coords="524,233,689,274"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="163,166,306,182,470,210,530,226,529,231,468,215,306,187,163,171"/>
+<area shape="rect" id="Node000014" href="$dd/df4/namespace_slic3r_1_1_f_f_f_tree_support.html#af51f5b21f6617dd3d6c57468be988ff8" title=" " alt="" coords="261,249,419,304"/>
+<area shape="poly" id="edge15_Node000001_Node000014" title=" " alt="" coords="149,188,264,240,262,244,147,192"/>
+<area shape="rect" id="Node000015" href="$dd/df4/namespace_slic3r_1_1_f_f_f_tree_support.html#a0fe6563863279b24725d47874451e250" title="Get the collision Radius of this Element. This can be smaller then the actual radius,..." alt="" coords="250,329,430,384"/>
+<area shape="poly" id="edge19_Node000001_Node000015" title=" " alt="" coords="103,188,147,252,178,285,212,314,238,328,235,333,209,319,174,289,143,255,99,191"/>
+<area shape="rect" id="Node000003" href="$de/db8/namespace_slic3r.html#ab28c13d286b2d1767d7c63b020ebd042" title=" " alt="" coords="557,13,656,39"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="469,24,542,24,542,29,469,30"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="443,47,503,59,502,64,442,52"/>
+<area shape="rect" id="Node000004" href="$d5/ddc/namespace_slic3r_1_1internal_1_1format.html#a5a8cae6889e58c9be36cd70a9e9987ff" title=" " alt="" coords="748,5,898,46"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="656,23,733,23,733,28,656,28"/>
+<area shape="rect" id="Node000007" href="$de/db8/namespace_slic3r.html#a440bb1d57671f454ad4fab4f192430cf" title=" " alt="" coords="553,128,660,153"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="405,135,538,137,538,142,405,140"/>
+<area shape="rect" id="Node000008" href="$de/db8/namespace_slic3r.html#a843ba2fe16b213f550fb3d55c55a716e" title=" " alt="" coords="757,128,889,153"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="661,138,742,138,742,143,661,143"/>
+<area shape="poly" id="edge14_Node000009_Node000009" title=" " alt="" coords="566,233,564,223,570,214,585,209,607,207,631,209,645,216,642,221,629,214,607,212,586,214,574,219,569,225,571,232"/>
+<area shape="rect" id="Node000010" href="$d8/d08/semver_8c.html#a477fec2b303f34d210b5d5f8ed8b4f71" title=" " alt="" coords="788,200,858,225"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="689,235,773,219,774,224,691,240"/>
+<area shape="rect" id="Node000011" href="$dd/df4/namespace_slic3r_1_1_f_f_f_tree_support.html#ab2114dd5f9bf09745fc5ae30aabd9e6d" title=" " alt="" coords="744,273,902,314"/>
+<area shape="poly" id="edge10_Node000009_Node000011" title=" " alt="" coords="690,266,730,274,729,279,690,272"/>
+<area shape="poly" id="edge12_Node000011_Node000011" title=" " alt="" coords="787,273,786,263,791,254,804,249,823,247,844,249,856,256,853,261,842,254,823,252,805,254,795,259,791,264,793,272"/>
+<area shape="rect" id="Node000012" href="$d7/dd1/class_slic3r_1_1_multi_point.html#a529edca78dfc1b7c70d794fd655d19ce" title=" " alt="" coords="950,240,1070,281"/>
+<area shape="poly" id="edge11_Node000011_Node000012" title=" " alt="" coords="901,277,935,271,936,276,902,282"/>
+<area shape="rect" id="Node000013" href="$d7/dd1/class_slic3r_1_1_multi_point.html#af3d77ee0ed47dc3e2bf8e741d6a1e563" title=" " alt="" coords="950,305,1070,346"/>
+<area shape="poly" id="edge13_Node000011_Node000013" title=" " alt="" coords="902,305,936,310,935,316,901,310"/>
+<area shape="poly" id="edge16_Node000014_Node000009" title=" " alt="" coords="419,267,509,259,509,265,419,272"/>
+<area shape="poly" id="edge17_Node000014_Node000014" title=" " alt="" coords="290,248,291,238,300,229,316,224,340,222,367,225,384,232,381,237,366,230,340,227,317,229,302,234,295,240,295,248"/>
+<area shape="rect" id="Node000016" href="$db/da3/struct_slic3r_1_1_f_f_f_tree_support_1_1_tree_support_settings.html#a3e3c953b2bddcff105a01742359ce230" title="Get the Radius part will have based on numeric values." alt="" coords="528,329,685,384"/>
+<area shape="poly" id="edge20_Node000015_Node000016" title=" " alt="" coords="430,354,513,354,513,359,430,359"/>
+</map>

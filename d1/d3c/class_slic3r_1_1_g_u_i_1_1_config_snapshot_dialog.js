@@ -1,0 +1,27 @@
+var class_slic3r_1_1_g_u_i_1_1_config_snapshot_dialog =
+[
+    [ "ConfigSnapshotDialog", "d1/d3c/class_slic3r_1_1_g_u_i_1_1_config_snapshot_dialog.html#a6c522cd39e5112becacc275cd5c3fd3e", null ],
+    [ "em_unit", "d1/d3c/class_slic3r_1_1_g_u_i_1_1_config_snapshot_dialog.html#a10bf715638840dfd1312a054e64f8571", null ],
+    [ "enable_force_rescale", "d1/d3c/class_slic3r_1_1_g_u_i_1_1_config_snapshot_dialog.html#a7042ce8086749b7827d0d492524fab03", null ],
+    [ "is_new_scale_factor", "d1/d3c/class_slic3r_1_1_g_u_i_1_1_config_snapshot_dialog.html#abfd12731f8eafdafa323c1a378c37daa", null ],
+    [ "normal_font", "d1/d3c/class_slic3r_1_1_g_u_i_1_1_config_snapshot_dialog.html#a592af0ff0463093da80d75501e0d45a8", null ],
+    [ "on_dpi_changed", "d1/d3c/class_slic3r_1_1_g_u_i_1_1_config_snapshot_dialog.html#afb95715b9ecebf8522d489cbd9c6d289", null ],
+    [ "on_sys_color_changed", "d1/d3c/class_slic3r_1_1_g_u_i_1_1_config_snapshot_dialog.html#aa9a3f51aa1dfc33e30036f0e4f2ef85b", null ],
+    [ "onCloseDialog", "d1/d3c/class_slic3r_1_1_g_u_i_1_1_config_snapshot_dialog.html#a2989cbd61c6aaa1671e016ca97704697", null ],
+    [ "onLinkClicked", "d1/d3c/class_slic3r_1_1_g_u_i_1_1_config_snapshot_dialog.html#a477e59890f72c40cd719597dca258863", null ],
+    [ "prev_scale_factor", "d1/d3c/class_slic3r_1_1_g_u_i_1_1_config_snapshot_dialog.html#a60c17342c872d7a2b5159102675c1c45", null ],
+    [ "rescale", "d1/d3c/class_slic3r_1_1_g_u_i_1_1_config_snapshot_dialog.html#a258b26af2e6efa84a0850aba92b6953c", null ],
+    [ "scale_controls_fonts", "d1/d3c/class_slic3r_1_1_g_u_i_1_1_config_snapshot_dialog.html#a3893005e85b3ebee35f1a3e06b1017ff", null ],
+    [ "scale_factor", "d1/d3c/class_slic3r_1_1_g_u_i_1_1_config_snapshot_dialog.html#a57e939dda20ddd73d8bb889a122ef7ea", null ],
+    [ "scale_win_font", "d1/d3c/class_slic3r_1_1_g_u_i_1_1_config_snapshot_dialog.html#a5064b405f33d5018cf7ff9e87df05a32", null ],
+    [ "snapshot_to_activate", "d1/d3c/class_slic3r_1_1_g_u_i_1_1_config_snapshot_dialog.html#ad14b4ed867f260504442828548865f33", null ],
+    [ "html", "d1/d3c/class_slic3r_1_1_g_u_i_1_1_config_snapshot_dialog.html#acf5937476a9bfba228e2cddc7257b07c", null ],
+    [ "m_can_rescale", "d1/d3c/class_slic3r_1_1_g_u_i_1_1_config_snapshot_dialog.html#add762f67570a33eb2867602e134123e7", null ],
+    [ "m_em_unit", "d1/d3c/class_slic3r_1_1_g_u_i_1_1_config_snapshot_dialog.html#acdf0ee3e3d61e745c9b086f0ee6b9067", null ],
+    [ "m_force_rescale", "d1/d3c/class_slic3r_1_1_g_u_i_1_1_config_snapshot_dialog.html#a60829dcb43545d64c4c9f7d06d4561c1", null ],
+    [ "m_new_font_point_size", "d1/d3c/class_slic3r_1_1_g_u_i_1_1_config_snapshot_dialog.html#a7feebac54815d18bd0ee2f8716af198c", null ],
+    [ "m_normal_font", "d1/d3c/class_slic3r_1_1_g_u_i_1_1_config_snapshot_dialog.html#a9a1874336905239b5e38ce58e8b2a715", null ],
+    [ "m_prev_scale_factor", "d1/d3c/class_slic3r_1_1_g_u_i_1_1_config_snapshot_dialog.html#a80542b0c17e71cfaa38d3eae48986200", null ],
+    [ "m_scale_factor", "d1/d3c/class_slic3r_1_1_g_u_i_1_1_config_snapshot_dialog.html#a3fa12f47ced5c4158abef290c18d32a6", null ],
+    [ "m_snapshot_to_activate", "d1/d3c/class_slic3r_1_1_g_u_i_1_1_config_snapshot_dialog.html#a0eb031d3c0aaf7bb5467993617990b97", null ]
+];

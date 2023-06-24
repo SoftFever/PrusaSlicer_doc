@@ -1,0 +1,63 @@
+<map id="CurvatureCalculator::computeCurvature" name="CurvatureCalculator::computeCurvature">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,297,143,338"/>
+<area shape="rect" id="Node000002" href="$db/dcf/class_curvature_calculator.html#a6edeb8dbc63fb4e07fec0ebf396da239" title=" " alt="" coords="210,19,348,59"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="77,296,89,250,111,190,143,126,164,97,189,70,196,64,200,68,192,74,169,100,148,129,116,192,94,252,82,297"/>
+<area shape="rect" id="Node000003" href="$db/dcf/class_curvature_calculator.html#a02aef6d1dc8ea6b664c7a38ae9e87777" title=" " alt="" coords="210,84,348,125"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="81,296,97,261,120,219,151,174,189,136,196,130,199,135,192,140,155,178,125,221,101,264,86,298"/>
+<area shape="rect" id="Node000004" href="$db/dcf/class_curvature_calculator.html#a5bdd24b39bdee057ac30f2f94e2a4479" title=" " alt="" coords="191,149,367,190"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="91,295,134,251,189,206,208,195,211,199,192,211,137,255,95,299"/>
+<area shape="rect" id="Node000006" href="$db/dcf/class_curvature_calculator.html#a16bcbed85a7354076df35fe98c4253e4" title=" " alt="" coords="600,203,738,243"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="102,295,142,270,190,250,295,227,402,215,502,212,586,214,586,220,502,218,402,221,296,232,191,255,145,275,105,299"/>
+<area shape="rect" id="Node000014" href="$db/dcf/class_curvature_calculator.html#a15a927f93c0715c7314f9785786deb5b" title=" " alt="" coords="210,264,348,305"/>
+<area shape="poly" id="edge13_Node000001_Node000014" title=" " alt="" coords="143,304,195,295,196,300,144,309"/>
+<area shape="rect" id="Node000017" href="$db/dcf/class_curvature_calculator.html#a9af7e15318ef73f1c439f157a3a81612" title=" " alt="" coords="210,329,348,370"/>
+<area shape="poly" id="edge23_Node000001_Node000017" title=" " alt="" coords="144,326,196,334,195,339,143,331"/>
+<area shape="rect" id="Node000018" href="$db/dcf/class_curvature_calculator.html#a09d5c2c2066da118394d5042838d3b4d" title=" " alt="" coords="210,395,348,435"/>
+<area shape="poly" id="edge24_Node000001_Node000018" title=" " alt="" coords="111,336,192,379,207,386,205,391,189,384,109,341"/>
+<area shape="rect" id="Node000019" href="$db/dcf/class_curvature_calculator.html#a451898a669b960a0bb61025ef3f686b7" title=" " alt="" coords="210,460,348,501"/>
+<area shape="poly" id="edge25_Node000001_Node000019" title=" " alt="" coords="91,337,133,390,161,419,192,445,201,451,199,455,189,449,157,423,129,394,87,340"/>
+<area shape="rect" id="Node000021" href="$db/dcf/class_curvature_calculator.html#aa00c7bf5995962b81b9815b62e9a3c97" title=" " alt="" coords="210,607,348,647"/>
+<area shape="poly" id="edge27_Node000001_Node000021" title=" " alt="" coords="82,338,95,385,117,447,149,515,169,547,193,576,217,596,214,600,189,580,165,550,144,517,112,449,90,386,77,339"/>
+<area shape="rect" id="Node000026" href="$db/dcf/class_curvature_calculator.html#a6de919e9e04fded99a433b1c653362d3" title=" " alt="" coords="210,525,348,566"/>
+<area shape="poly" id="edge34_Node000001_Node000026" title=" " alt="" coords="85,337,100,374,122,420,153,468,192,510,199,515,196,520,189,514,149,472,118,423,95,376,80,339"/>
+<area shape="rect" id="Node000005" href="$db/dcf/class_curvature_calculator.html#a30f9b81b7b984365ac303fccc4889769" title=" " alt="" coords="415,149,552,190"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="368,167,400,167,400,172,368,172"/>
+<area shape="rect" id="Node000007" href="$da/dc6/class_curvature_calculator_1_1_quadric.html#a66888da1503ab22ebe7651213eb43802" title=" " alt="" coords="815,267,952,307"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="739,241,802,260,800,265,737,246"/>
+<area shape="rect" id="Node000008" href="$da/dc6/class_curvature_calculator_1_1_quadric.html#a07cf2f62e915bc045828bc9b6086e3cf" title=" " alt="" coords="815,332,952,373"/>
+<area shape="poly" id="edge7_Node000006_Node000008" title=" " alt="" coords="719,242,739,256,755,272,763,288,772,302,787,317,803,326,800,331,784,321,768,306,759,290,750,275,736,260,716,246"/>
+<area shape="rect" id="Node000009" href="$da/dc6/class_curvature_calculator_1_1_quadric.html#a3738ba3cf87754ec91f4dea0897c618c" title=" " alt="" coords="815,397,952,438"/>
+<area shape="poly" id="edge8_Node000006_Node000009" title=" " alt="" coords="723,242,740,256,752,273,759,290,763,322,768,352,775,367,788,382,803,394,800,398,784,386,771,370,763,354,758,323,753,291,747,276,736,259,719,246"/>
+<area shape="rect" id="Node000010" href="$da/dc6/class_curvature_calculator_1_1_quadric.html#a9cdf4cdeb0a349ae7089124860bb1c2b" title=" " alt="" coords="815,136,952,177"/>
+<area shape="poly" id="edge9_Node000006_Node000010" title=" " alt="" coords="736,200,801,179,802,184,738,205"/>
+<area shape="rect" id="Node000011" href="$da/dc6/class_curvature_calculator_1_1_quadric.html#a04b4d48e09248aa3168f2329e1a62d61" title=" " alt="" coords="815,201,952,242"/>
+<area shape="poly" id="edge10_Node000006_Node000011" title=" " alt="" coords="738,220,800,220,800,225,738,225"/>
+<area shape="rect" id="Node000012" href="$de/d65/class_eigen_1_1_self_adjoint_eigen_solver.html#aea708eb6ecf37fcaa7d415fec2892d60" title="Returns the eigenvalues of given matrix." alt="" coords="786,71,981,111"/>
+<area shape="poly" id="edge11_Node000006_Node000012" title=" " alt="" coords="688,200,730,161,784,122,797,115,800,120,787,127,733,165,692,204"/>
+<area shape="rect" id="Node000013" href="$de/d65/class_eigen_1_1_self_adjoint_eigen_solver.html#aa6e650f65298c05b78942df39f6c9388" title="Returns the eigenvectors of given matrix." alt="" coords="786,5,981,46"/>
+<area shape="poly" id="edge12_Node000006_Node000013" title=" " alt="" coords="677,201,717,131,748,91,784,57,792,51,795,56,787,61,751,95,722,134,682,204"/>
+<area shape="rect" id="Node000015" href="$da/dc6/class_curvature_calculator_1_1_quadric.html#a65adf8b46e525143eb64296460c89abc" title=" " alt="" coords="415,300,552,341"/>
+<area shape="poly" id="edge14_Node000014_Node000015" title=" " alt="" coords="349,294,401,303,400,308,348,299"/>
+<area shape="poly" id="edge21_Node000015_Node000008" title=" " alt="" coords="553,323,800,343,800,348,553,328"/>
+<area shape="poly" id="edge22_Node000015_Node000009" title=" " alt="" coords="553,334,801,395,800,400,552,340"/>
+<area shape="rect" id="Node000016" href="$da/dc6/class_curvature_calculator_1_1_quadric.html#aa3db5508162eecaffd9945605eb3b7b0" title=" " alt="" coords="600,269,738,310"/>
+<area shape="poly" id="edge15_Node000015_Node000016" title=" " alt="" coords="552,306,585,301,586,306,553,312"/>
+<area shape="poly" id="edge16_Node000016_Node000007" title=" " alt="" coords="738,286,800,285,800,291,738,291"/>
+<area shape="poly" id="edge17_Node000016_Node000008" title=" " alt="" coords="739,307,801,326,800,331,737,312"/>
+<area shape="poly" id="edge18_Node000016_Node000009" title=" " alt="" coords="693,308,734,345,787,382,802,390,800,394,784,387,731,350,689,312"/>
+<area shape="poly" id="edge19_Node000016_Node000010" title=" " alt="" coords="716,267,736,253,750,236,759,220,768,204,784,188,800,178,803,182,787,192,772,207,763,223,755,239,739,257,719,271"/>
+<area shape="poly" id="edge20_Node000016_Node000011" title=" " alt="" coords="735,266,803,244,804,249,736,271"/>
+<area shape="rect" id="Node000020" href="$d3/dbc/config__gram_8c.html#af07d89f5ceaea0c7c8252cc41fd75f37" title=" " alt="" coords="462,468,505,493"/>
+<area shape="poly" id="edge26_Node000019_Node000020" title=" " alt="" coords="348,478,447,478,447,483,348,483"/>
+<area shape="rect" id="Node000022" href="$db/dcf/class_curvature_calculator.html#a8a0590b330b93d44099348315f26edf5" title=" " alt="" coords="415,517,552,558"/>
+<area shape="poly" id="edge28_Node000021_Node000022" title=" " alt="" coords="326,604,420,562,423,567,329,608"/>
+<area shape="rect" id="Node000023" href="$db/dcf/class_curvature_calculator.html#a516ca8a8ca583509e7e575f658840cf6" title=" " alt="" coords="415,607,552,647"/>
+<area shape="poly" id="edge29_Node000021_Node000023" title=" " alt="" coords="348,624,400,624,400,630,348,630"/>
+<area shape="rect" id="Node000024" href="$db/dcf/class_curvature_calculator.html#ab35331f9cf2f45aa2dbc7625cdfc9715" title=" " alt="" coords="415,696,552,737"/>
+<area shape="poly" id="edge31_Node000021_Node000024" title=" " alt="" coords="329,646,423,687,420,692,326,650"/>
+<area shape="rect" id="Node000025" href="$d4/df0/_array_cwise_unary_ops_8h.html#a656b9217a2fcb6de59dc8d1eb3079cc7" title=" " alt="" coords="462,761,505,787"/>
+<area shape="poly" id="edge33_Node000021_Node000025" title=" " alt="" coords="300,646,350,695,382,722,416,746,449,761,447,766,414,751,379,726,346,699,297,649"/>
+<area shape="poly" id="edge30_Node000023_Node000023" title=" " alt="" coords="448,607,446,597,452,588,465,582,484,580,504,583,516,589,514,594,503,588,484,585,466,587,456,592,452,598,453,606"/>
+<area shape="poly" id="edge32_Node000024_Node000024" title=" " alt="" coords="448,696,446,686,452,677,465,671,484,669,504,672,516,678,514,683,503,677,484,675,466,677,456,681,452,687,453,695"/>
+<area shape="poly" id="edge35_Node000026_Node000020" title=" " alt="" coords="344,522,447,489,448,494,346,527"/>
+</map>

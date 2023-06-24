@@ -1,0 +1,37 @@
+var namespace_slic3r_1_1_support_spots_generator =
+[
+    [ "ActiveObjectParts", "d6/de1/class_slic3r_1_1_support_spots_generator_1_1_active_object_parts.html", "d6/de1/class_slic3r_1_1_support_spots_generator_1_1_active_object_parts" ],
+    [ "Malformations", "df/d47/namespace_slic3r_1_1_support_spots_generator.html#da/dbe/struct_slic3r_1_1_support_spots_generator_1_1_malformations", "df/d47/namespace_slic3r_1_1_support_spots_generator_da/dbe/struct_slic3r_1_1_support_spots_generator_1_1_malformations_dup" ],
+    [ "ObjectPart", "db/dee/class_slic3r_1_1_support_spots_generator_1_1_object_part.html", "db/dee/class_slic3r_1_1_support_spots_generator_1_1_object_part" ],
+    [ "Params", "d2/d93/struct_slic3r_1_1_support_spots_generator_1_1_params.html", "d2/d93/struct_slic3r_1_1_support_spots_generator_1_1_params" ],
+    [ "PartialObject", "d3/db1/struct_slic3r_1_1_support_spots_generator_1_1_partial_object.html", "d3/db1/struct_slic3r_1_1_support_spots_generator_1_1_partial_object" ],
+    [ "SliceConnection", "dd/ddf/struct_slic3r_1_1_support_spots_generator_1_1_slice_connection.html", "dd/ddf/struct_slic3r_1_1_support_spots_generator_1_1_slice_connection" ],
+    [ "SupportGridFilter", "d8/dfc/struct_slic3r_1_1_support_spots_generator_1_1_support_grid_filter.html", "d8/dfc/struct_slic3r_1_1_support_spots_generator_1_1_support_grid_filter" ],
+    [ "SupportPoint", "d1/d91/struct_slic3r_1_1_support_spots_generator_1_1_support_point.html", "d1/d91/struct_slic3r_1_1_support_spots_generator_1_1_support_point" ],
+    [ "LD", "df/d47/namespace_slic3r_1_1_support_spots_generator.html#a2f68c053df997d0a0c732e552e855fac", null ],
+    [ "PartialObjects", "df/d47/namespace_slic3r_1_1_support_spots_generator.html#ad69fdbab27d477d33d6e66ca56c04f75", null ],
+    [ "PrecomputedSliceConnections", "df/d47/namespace_slic3r_1_1_support_spots_generator.html#a681e0dab624959d66debc1a77bb1863c", null ],
+    [ "SupportPoints", "df/d47/namespace_slic3r_1_1_support_spots_generator.html#a6964ff2d6674f97c423640b5eb38148f", null ],
+    [ "SupportPointCause", "df/d47/namespace_slic3r_1_1_support_spots_generator.html#aa9785768f27cd1989feaa66ee30a19b8", [
+      [ "LongBridge", "df/d47/namespace_slic3r_1_1_support_spots_generator.html#aa9785768f27cd1989feaa66ee30a19b8a5565326c4864bbef1df6ebb30d1fc73f", null ],
+      [ "FloatingBridgeAnchor", "df/d47/namespace_slic3r_1_1_support_spots_generator.html#aa9785768f27cd1989feaa66ee30a19b8a13e98aabc40ac22bb64feb4d9941f11f", null ],
+      [ "FloatingExtrusion", "df/d47/namespace_slic3r_1_1_support_spots_generator.html#aa9785768f27cd1989feaa66ee30a19b8a4a24655913a3135b7c83fa3f3ba16b42", null ],
+      [ "SeparationFromBed", "df/d47/namespace_slic3r_1_1_support_spots_generator.html#aa9785768f27cd1989feaa66ee30a19b8a5e30bc9069bd8fe175ec7a206d5c3258", null ],
+      [ "UnstableFloatingPart", "df/d47/namespace_slic3r_1_1_support_spots_generator.html#aa9785768f27cd1989feaa66ee30a19b8a200da0c8f0cde761b147c16b678eeb94", null ],
+      [ "WeakObjectPart", "df/d47/namespace_slic3r_1_1_support_spots_generator.html#aa9785768f27cd1989feaa66ee30a19b8a5cef87b74cbba62cca5fe72f5cab788f", null ]
+    ] ],
+    [ "build_object_part_from_slice", "df/d47/namespace_slic3r_1_1_support_spots_generator.html#a323d3c78b748fa28d85ac0fc4237ce4f", null ],
+    [ "check_extrusion_entity_stability", "df/d47/namespace_slic3r_1_1_support_spots_generator.html#a9622788ae98ed46eadb1ac94eb15ecb0", null ],
+    [ "check_stability", "df/d47/namespace_slic3r_1_1_support_spots_generator.html#a8f802b17e7dae439d910f48e5c36ca19", null ],
+    [ "estimate_curled_up_height", "df/d47/namespace_slic3r_1_1_support_spots_generator.html#afc505bebcd45db5807a4e0dffcf5573f", null ],
+    [ "estimate_malformations", "df/d47/namespace_slic3r_1_1_support_spots_generator.html#ae54722ef7e4d5cd91e4d84b3001adc05", null ],
+    [ "estimate_malformations", "df/d47/namespace_slic3r_1_1_support_spots_generator.html#a0c76fd06a7a3c447b9d0a8b3d4a59365", null ],
+    [ "estimate_slice_connection", "df/d47/namespace_slic3r_1_1_support_spots_generator.html#ad6d19737747e3be0400bd472374a1f0f", null ],
+    [ "estimate_supports_malformations", "df/d47/namespace_slic3r_1_1_support_spots_generator.html#ac251fbeb015ed001526b5619144930f0", null ],
+    [ "estimate_supports_malformations", "df/d47/namespace_slic3r_1_1_support_spots_generator.html#a2087b869f6d053edd8bc45b952d4682e", null ],
+    [ "full_search", "df/d47/namespace_slic3r_1_1_support_spots_generator.html#a16924e06a01c96772a496af7b8010f5c", null ],
+    [ "gather_issues", "df/d47/namespace_slic3r_1_1_support_spots_generator.html#a6a1a5772105bcb773cb5edf8a873d2f1", null ],
+    [ "get_flow_width", "df/d47/namespace_slic3r_1_1_support_spots_generator.html#a05352cbc4b4ef95de5d068b3c6ae701c", null ],
+    [ "precompute_slices_connections", "df/d47/namespace_slic3r_1_1_support_spots_generator.html#a7b7f4470159e34e0d84f9d36fb016975", null ],
+    [ "to_short_lines", "df/d47/namespace_slic3r_1_1_support_spots_generator.html#ac4ad5860faba6feeaf45345a411fb15f", null ]
+];

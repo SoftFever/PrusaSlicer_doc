@@ -1,0 +1,37 @@
+<map id="Slic3r::GUI::world_matrix_fixed" name="Slic3r::GUI::world_matrix_fixed">
+<area shape="rect" id="Node000001" title="Get transformation to world." alt="" coords="5,131,131,171"/>
+<area shape="rect" id="Node000002" href="$dd/d6a/class_slic3r_1_1_g_u_i_1_1_selection.html#a7ede4b259e6cf5d97fbe1c034206611d" title=" " alt="" coords="192,5,341,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="88,128,128,92,177,57,189,50,192,55,180,61,131,96,92,132"/>
+<area shape="rect" id="Node000003" href="$d9/d45/namespace_slic3r_1_1_g_u_i.html#a93165b0b6e25ba63202f64666b092e88" title=" " alt="" coords="182,95,351,135"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="131,137,167,130,168,136,132,142"/>
+<area shape="rect" id="Node000006" href="$d5/d00/group___geometry___module.html#a41e2e58b09790eb8e3e220acceb7de1f" title="Returns an identity transformation." alt="" coords="179,159,354,215"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="132,160,164,166,164,171,131,165"/>
+<area shape="rect" id="Node000007" href="$d9/d45/namespace_slic3r_1_1_g_u_i.html#a75d17373d9e9d80ad05bf586d3211303" title="Get transformation to world." alt="" coords="204,240,329,281"/>
+<area shape="poly" id="edge7_Node000001_Node000007" title=" " alt="" coords="97,170,135,197,180,225,193,231,191,236,177,229,132,202,94,174"/>
+<area shape="poly" id="edge3_Node000003_Node000003" title=" " alt="" coords="229,95,227,85,233,76,246,70,266,68,288,71,301,77,299,82,287,76,266,73,248,75,236,80,232,86,234,93"/>
+<area shape="rect" id="Node000004" href="$d0/d2b/class_slic3r_1_1_g_u_i_1_1_g_l_canvas3_d.html#ae78f5459f862198d84d3624697bc190e" title=" " alt="" coords="402,29,575,70"/>
+<area shape="poly" id="edge4_Node000003_Node000004" title=" " alt="" coords="337,92,402,72,404,77,339,97"/>
+<area shape="rect" id="Node000005" href="$d0/d2b/class_slic3r_1_1_g_u_i_1_1_g_l_canvas3_d.html#a1eb79ee030db512feffcc78d219dcd19" title=" " alt="" coords="402,95,575,135"/>
+<area shape="poly" id="edge5_Node000003_Node000005" title=" " alt="" coords="351,112,387,112,387,118,351,118"/>
+<area shape="rect" id="Node000008" href="$d9/d45/namespace_slic3r_1_1_g_u_i.html#a04fbb2917edb5eeff3ef7771157db774" title=" " alt="" coords="412,184,566,225"/>
+<area shape="poly" id="edge8_Node000007_Node000008" title=" " alt="" coords="329,242,397,225,398,230,330,247"/>
+<area shape="rect" id="Node000011" href="$d5/d00/group___geometry___module.html#a20ca137b84f18b9c41a0fef9c222e0da" title=" " alt="" coords="403,269,574,295"/>
+<area shape="poly" id="edge12_Node000007_Node000011" title=" " alt="" coords="330,264,388,269,388,275,329,269"/>
+<area shape="rect" id="Node000015" href="$d5/d87/class_slic3r_1_1_g_l_volume.html#a431622180fc2079aa2088b3b4a7634aa" title=" " alt="" coords="408,395,569,435"/>
+<area shape="poly" id="edge16_Node000007_Node000015" title=" " alt="" coords="299,279,448,384,445,388,296,283"/>
+<area shape="poly" id="edge9_Node000008_Node000008" title=" " alt="" coords="447,184,445,174,452,165,466,159,489,157,513,160,528,166,525,171,512,165,489,163,468,165,455,169,450,175,452,183"/>
+<area shape="rect" id="Node000009" href="$d5/d87/class_slic3r_1_1_g_l_volume.html#ab374fce7b3b412f6549fbfef767a5e6e" title=" " alt="" coords="636,132,825,157"/>
+<area shape="poly" id="edge10_Node000008_Node000009" title=" " alt="" coords="565,181,623,166,653,158,655,164,624,171,566,186"/>
+<area shape="rect" id="Node000010" href="$d5/d87/class_slic3r_1_1_g_l_volume.html#a7535e2206988f966f305b79d81e1d50e" title=" " alt="" coords="632,181,829,207"/>
+<area shape="poly" id="edge11_Node000008_Node000010" title=" " alt="" coords="566,198,617,196,617,201,566,204"/>
+<area shape="rect" id="Node000012" href="$d5/d00/group___geometry___module.html#a18580c6c151bac89f03818164dd19632" title=" " alt="" coords="633,230,828,256"/>
+<area shape="poly" id="edge13_Node000011_Node000012" title=" " alt="" coords="573,266,631,256,632,261,574,271"/>
+<area shape="rect" id="Node000013" href="$d5/d00/group___geometry___module.html#a8a5d077e6e87e7d0a1f347fbc4d52a6e" title=" " alt="" coords="648,280,813,305"/>
+<area shape="poly" id="edge14_Node000011_Node000013" title=" " alt="" coords="575,283,633,285,633,291,575,288"/>
+<area shape="rect" id="Node000014" href="$da/d39/struct_eigen_1_1internal_1_1projective__transform__inverse.html#adf4ddcf803974e309b1e280c19da56c1" title=" " alt="" coords="646,329,815,370"/>
+<area shape="poly" id="edge15_Node000011_Node000014" title=" " alt="" coords="538,293,643,322,641,327,537,298"/>
+<area shape="rect" id="Node000016" href="$d6/d28/class_slic3r_1_1_geometry_1_1_transformation.html#ad600e47166c7f0d5d13c3bd4152d06fa" title=" " alt="" coords="623,395,838,435"/>
+<area shape="poly" id="edge17_Node000015_Node000016" title=" " alt="" coords="570,412,609,412,609,418,570,418"/>
+<area shape="rect" id="Node000017" href="$d5/d00/group___geometry___module.html#afa93ba97d26912bb3d8777cbed102045" title=" " alt="" coords="636,460,825,485"/>
+<area shape="poly" id="edge18_Node000015_Node000017" title=" " alt="" coords="570,432,624,444,660,453,658,458,623,450,569,437"/>
+</map>

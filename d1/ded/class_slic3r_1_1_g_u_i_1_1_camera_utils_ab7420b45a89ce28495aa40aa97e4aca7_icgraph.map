@@ -1,0 +1,57 @@
+<map id="Slic3r::GUI::CameraUtils::screen_point" name="Slic3r::GUI::CameraUtils::screen_point">
+<area shape="rect" id="Node000001" title="Create 3d screen point from 2d position." alt="" coords="1662,263,1829,303"/>
+<area shape="rect" id="Node000002" href="$d1/ded/class_slic3r_1_1_g_u_i_1_1_camera_utils.html#afb96d678c0bea0bd1dff2ce7d1550305" title=" " alt="" coords="1422,229,1612,270"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1647,271,1612,266,1613,261,1647,266"/>
+<area shape="rect" id="Node000032" href="$d1/ded/class_slic3r_1_1_g_u_i_1_1_camera_utils.html#a196dcbabea721e944cefe94edfc244b0" title=" " alt="" coords="1420,295,1614,335"/>
+<area shape="poly" id="edge28_Node000001_Node000032" title=" " alt="" coords="1647,299,1614,304,1614,299,1647,294"/>
+<area shape="rect" id="Node000003" href="$d1/ded/class_slic3r_1_1_g_u_i_1_1_camera_utils.html#a51d817e41317bed8b21baec63aeda681" title="Create ray(point and direction) for screen coordinate." alt="" coords="1205,263,1372,303"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="1407,268,1373,273,1373,268,1406,263"/>
+<area shape="rect" id="Node000004" href="$d1/ded/class_slic3r_1_1_g_u_i_1_1_camera_utils.html#a642238eb40068eb647509da684bd06dd" title="Unproject mouse coordinate to get position in space where z coor is zero Platter surface should be in..." alt="" coords="980,39,1148,79"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="1255,254,1084,81,1088,78,1258,250"/>
+<area shape="rect" id="Node000006" href="$d4/de7/class_slic3r_1_1_g_u_i_1_1_mesh_raycaster.html#ad3468bfabd7ae5ab735d9e8ccc2ed070" title=" " alt="" coords="971,169,1157,210"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="1223,259,1114,213,1116,208,1225,254"/>
+<area shape="rect" id="Node000015" href="$d9/d45/namespace_slic3r_1_1_g_u_i.html#af48dee98bb430edb3967a88b17529c81" title="Unproject on mesh by Mesh raycasters." alt="" coords="991,295,1137,335"/>
+<area shape="poly" id="edge15_Node000003_Node000015" title=" " alt="" coords="1191,300,1137,307,1137,302,1190,294"/>
+<area shape="rect" id="Node000024" href="$d4/de7/class_slic3r_1_1_g_u_i_1_1_mesh_raycaster.html#a373f30d55a299f4698024259c55480b6" title=" " alt="" coords="971,469,1157,510"/>
+<area shape="poly" id="edge22_Node000003_Node000024" title=" " alt="" coords="1256,315,1089,471,1085,467,1253,312"/>
+<area shape="rect" id="Node000005" href="$d1/d51/class_slic3r_1_1_g_u_i_1_1_emboss_1_1_create_object_job.html#abbc40a3b900bf5ca0b177b60bb072672" title=" " alt="" coords="733,5,914,46"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="966,48,914,41,915,36,966,43"/>
+<area shape="rect" id="Node000007" href="$d4/de7/class_slic3r_1_1_g_u_i_1_1_mesh_raycaster.html#a93596b877f00682073663038c7c16a04" title=" " alt="" coords="730,71,917,111"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="1007,165,922,127,888,114,890,109,924,122,1009,160"/>
+<area shape="rect" id="Node000008" href="$d8/d38/class_slic3r_1_1_g_u_i_1_1_g_l_gizmo_cut3_d.html#ae6f1e8e236809bea0595242e38897f8d" title=" " alt="" coords="735,136,912,177"/>
+<area shape="poly" id="edge7_Node000006_Node000008" title=" " alt="" coords="956,177,912,171,913,166,956,172"/>
+<area shape="rect" id="Node000011" href="$d8/d38/class_slic3r_1_1_g_u_i_1_1_g_l_gizmo_cut3_d.html#a36e8181530f02bb625de1f6edbd59eea" title=" " alt="" coords="735,201,912,242"/>
+<area shape="poly" id="edge10_Node000006_Node000011" title=" " alt="" coords="956,207,913,212,912,207,956,201"/>
+<area shape="rect" id="Node000009" href="$d8/d38/class_slic3r_1_1_g_u_i_1_1_g_l_gizmo_cut3_d.html#a917f68b1ce791a77b7e2b5aa74a047ae" title=" " alt="" coords="231,115,408,155"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="744,133,723,125,700,114,676,106,615,96,567,94,456,106,396,117,395,111,456,100,567,89,615,91,677,100,702,109,725,121,746,128"/>
+<area shape="rect" id="Node000010" href="$d8/d38/class_slic3r_1_1_g_u_i_1_1_g_l_gizmo_cut3_d.html#ae651caaf8df0ece0848a7cb03c29e65d" title="Drag of plane." alt="" coords="5,144,183,185"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="217,151,184,155,183,150,216,146"/>
+<area shape="poly" id="edge14_Node000011_Node000010" title=" " alt="" coords="720,216,183,174,184,169,720,211"/>
+<area shape="rect" id="Node000012" href="$d8/d38/class_slic3r_1_1_g_u_i_1_1_g_l_gizmo_cut3_d.html#aaa9b795835fd166b9b66c0fb0d0b7ffc" title=" " alt="" coords="478,115,655,155"/>
+<area shape="poly" id="edge11_Node000011_Node000012" title=" " alt="" coords="746,199,628,158,630,153,748,194"/>
+<area shape="rect" id="Node000013" href="$d8/d38/class_slic3r_1_1_g_u_i_1_1_g_l_gizmo_cut3_d.html#a632c79bda254258e286d7a306214caec" title=" " alt="" coords="478,229,655,270"/>
+<area shape="poly" id="edge13_Node000011_Node000013" title=" " alt="" coords="720,236,655,243,655,237,720,230"/>
+<area shape="poly" id="edge12_Node000012_Node000009" title=" " alt="" coords="463,138,409,138,409,132,463,132"/>
+<area shape="rect" id="Node000016" href="$d9/d45/namespace_slic3r_1_1_g_u_i.html#aa6f05fa3968ab4640a169feb305cf01f" title="Mouse event handler, when move(drag&amp;drop) volume over model surface NOTE: Dragged volume has to be se..." alt="" coords="746,295,901,335"/>
+<area shape="poly" id="edge16_Node000015_Node000016" title=" " alt="" coords="976,318,901,318,901,312,976,312"/>
+<area shape="rect" id="Node000019" href="$dc/db2/namespacepriv.html#aac311686267e18e74a8b0f6a71004968" title="Start job for add new volume on surface of object defined by screen coor." alt="" coords="741,360,906,401"/>
+<area shape="poly" id="edge18_Node000015_Node000019" title=" " alt="" coords="977,341,902,362,900,357,976,336"/>
+<area shape="rect" id="Node000017" href="$dd/df1/class_slic3r_1_1_g_u_i_1_1_g_l_gizmo_emboss.html#a314b6054822747e4007fb66ba117fe9b" title=" " alt="" coords="468,295,665,335"/>
+<area shape="poly" id="edge17_Node000016_Node000017" title=" " alt="" coords="731,318,665,318,665,312,731,312"/>
+<area shape="rect" id="Node000020" href="$dd/df1/class_slic3r_1_1_g_u_i_1_1_g_l_gizmo_emboss.html#ae6b979894dbc29d468f7aa7e177ea59c" title="Create new text without given position." alt="" coords="468,360,665,401"/>
+<area shape="poly" id="edge19_Node000019_Node000020" title=" " alt="" coords="726,383,665,383,665,378,726,378"/>
+<area shape="rect" id="Node000021" href="$dd/df1/class_slic3r_1_1_g_u_i_1_1_g_l_gizmo_emboss.html#a1a7e40d8281af588c9e35726ef652f82" title="Create new embossed text volume by type on position of mouse." alt="" coords="468,449,665,490"/>
+<area shape="poly" id="edge20_Node000019_Node000021" title=" " alt="" coords="750,409,628,451,626,446,748,404"/>
+<area shape="poly" id="edge21_Node000021_Node000021" title=" " alt="" coords="607,437,592,430,566,428,543,430,528,435,523,441,525,448,520,449,518,439,525,430,541,425,566,423,593,425,609,432"/>
+<area shape="rect" id="Node000025" href="$d0/d5d/class_slic3r_1_1_g_u_i_1_1_g_l_gizmo_sla_base.html#afa2c60fabd3bba6269097719d01f0992" title=" " alt="" coords="724,580,923,621"/>
+<area shape="poly" id="edge23_Node000024_Node000025" title=" " alt="" coords="1006,519,871,582,869,577,1004,514"/>
+<area shape="rect" id="Node000026" href="$da/d2c/class_slic3r_1_1_g_u_i_1_1_g_l_gizmo_hollow.html#a87dfbde9c64ea240a84d238cf63b1484" title=" " alt="" coords="472,515,661,555"/>
+<area shape="poly" id="edge24_Node000025_Node000026" title=" " alt="" coords="726,578,648,559,650,553,727,573"/>
+<area shape="rect" id="Node000028" href="$d9/d0e/class_slic3r_1_1_g_u_i_1_1_g_l_gizmo_sla_supports.html#aa3ec44cc3d269ab8961803796f76966f" title=" " alt="" coords="456,580,676,621"/>
+<area shape="poly" id="edge25_Node000025_Node000028" title=" " alt="" coords="709,603,677,603,677,598,709,598"/>
+<area shape="rect" id="Node000030" href="$da/d2c/class_slic3r_1_1_g_u_i_1_1_g_l_gizmo_hollow.html#aa095f13d15c1157909550788ecc36be1" title=" " alt="" coords="472,645,661,686"/>
+<area shape="poly" id="edge26_Node000025_Node000030" title=" " alt="" coords="727,627,650,647,648,642,726,622"/>
+<area shape="rect" id="Node000031" href="$d9/d0e/class_slic3r_1_1_g_u_i_1_1_g_l_gizmo_sla_supports.html#af3bb80cfab0551fb9c1801160077db2e" title=" " alt="" coords="456,711,676,751"/>
+<area shape="poly" id="edge27_Node000025_Node000031" title=" " alt="" coords="786,632,736,667,677,700,647,713,645,708,675,695,733,662,783,628"/>
+<area shape="poly" id="edge29_Node000032_Node000003" title=" " alt="" coords="1405,302,1372,297,1373,292,1406,297"/>
+</map>

@@ -1,0 +1,23 @@
+<map id="Slic3r::GUI::GLGizmoBase::on_start_dragging" name="Slic3r::GUI::GLGizmoBase::on_start_dragging">
+<area shape="rect" id="Node000001" title=" " alt="" coords="746,235,926,275"/>
+<area shape="rect" id="Node000002" href="$d1/d3c/class_slic3r_1_1_g_u_i_1_1_g_l_gizmo_base.html#a3443b47e35cee0d38455f69806ec6296" title="function which Set up m_dragging and call functions on_start_dragging / on_dragging / on_stop_draggin..." alt="" coords="519,235,698,275"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="731,258,699,258,699,252,731,252"/>
+<area shape="rect" id="Node000003" href="$d8/d38/class_slic3r_1_1_g_u_i_1_1_g_l_gizmo_cut3_d.html#ae651caaf8df0ece0848a7cb03c29e65d" title="Drag of plane." alt="" coords="272,5,450,46"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="590,223,571,185,544,141,510,98,469,61,448,49,451,44,473,57,514,94,548,138,575,182,595,220"/>
+<area shape="rect" id="Node000004" href="$da/d2c/class_slic3r_1_1_g_u_i_1_1_g_l_gizmo_hollow.html#ae39e7b568ef6b08c288538eabc13e708" title="Postpone to Grabber for move Detect move of object by dragging." alt="" coords="266,71,456,111"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="580,225,532,174,502,149,470,127,444,114,446,110,472,122,505,145,535,171,584,221"/>
+<area shape="rect" id="Node000005" href="$db/d9b/class_slic3r_1_1_g_u_i_1_1_g_l_gizmo_move3_d.html#a23b3019352aeb3ea241963e4fce91a83" title="Postpone to Grabber for move." alt="" coords="267,136,455,177"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="554,230,470,192,435,180,437,175,472,187,556,225"/>
+<area shape="rect" id="Node000006" href="$d4/df7/class_slic3r_1_1_g_u_i_1_1_g_l_gizmo_rotate.html#a3d20f68f16db7ee649bec46ac70bc6b2" title="Postpone to Grabber for move Detect move of object by dragging." alt="" coords="267,201,455,242"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="504,244,455,237,456,232,505,238"/>
+<area shape="rect" id="Node000007" href="$d7/d96/class_slic3r_1_1_g_u_i_1_1_g_l_gizmo_rotate3_d.html#aaff08e7973069c9c878d8dd067c06e73" title="Postpone to Rotation." alt="" coords="263,267,459,307"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="505,271,459,277,459,272,504,266"/>
+<area shape="rect" id="Node000008" href="$d1/d6b/class_slic3r_1_1_g_u_i_1_1_g_l_gizmo_scale3_d.html#ad11a80bc883cbf3aa0d06b6f6231480f" title="Postpone to Grabber for scale." alt="" coords="266,332,456,373"/>
+<area shape="poly" id="edge7_Node000002_Node000008" title=" " alt="" coords="555,285,472,321,436,334,434,329,470,317,553,280"/>
+<area shape="rect" id="Node000009" href="$d9/d0e/class_slic3r_1_1_g_u_i_1_1_g_l_gizmo_sla_supports.html#a656338e2e62ab9c80c946e736ce8791c" title="Process mouse event." alt="" coords="251,397,471,438"/>
+<area shape="poly" id="edge8_Node000002_Node000009" title=" " alt="" coords="584,288,535,339,505,364,472,387,446,399,444,394,470,382,502,360,532,335,580,285"/>
+<area shape="rect" id="Node000010" href="$dd/df1/class_slic3r_1_1_g_u_i_1_1_g_l_gizmo_emboss.html#abf2d2e2d64e1ac7b57c5a06d045bccad" title=" " alt="" coords="262,463,460,503"/>
+<area shape="poly" id="edge9_Node000002_Node000010" title=" " alt="" coords="595,290,575,327,548,371,514,414,473,452,451,464,448,460,469,448,510,411,544,368,571,325,590,287"/>
+<area shape="rect" id="Node000011" href="$dd/df1/class_slic3r_1_1_g_u_i_1_1_g_l_gizmo_emboss.html#acac6ee7c40ce0415d7a14394ab672ea0" title="Rotate by text on dragging rotate grabers." alt="" coords="5,463,203,503"/>
+<area shape="poly" id="edge10_Node000010_Node000011" title=" " alt="" coords="247,486,203,486,203,480,247,480"/>
+</map>

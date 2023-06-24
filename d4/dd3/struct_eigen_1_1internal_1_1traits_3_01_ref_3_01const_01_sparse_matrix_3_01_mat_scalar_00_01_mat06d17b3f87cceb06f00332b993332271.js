@@ -1,0 +1,4 @@
+var struct_eigen_1_1internal_1_1traits_3_01_ref_3_01const_01_sparse_matrix_3_01_mat_scalar_00_01_mat06d17b3f87cceb06f00332b993332271 =
+[
+    [ "PlainObjectType", "d4/dd3/struct_eigen_1_1internal_1_1traits_3_01_ref_3_01const_01_sparse_matrix_3_01_mat_scalar_00_01_mat06d17b3f87cceb06f00332b993332271.html#a481a45a9d6b5a79e674f8c6f79edb3da", null ]
+];

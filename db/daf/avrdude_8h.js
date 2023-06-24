@@ -1,0 +1,25 @@
+var avrdude_8h =
+[
+    [ "MSG_DEBUG", "db/daf/avrdude_8h.html#a18adf81be6937378e36183d54dba61e9", null ],
+    [ "MSG_INFO", "db/daf/avrdude_8h.html#a1ddcc97224a95cec04b38b0ac866fa19", null ],
+    [ "MSG_NOTICE", "db/daf/avrdude_8h.html#ad4a8684ff0e683a17328f48469ea6deb", null ],
+    [ "MSG_NOTICE2", "db/daf/avrdude_8h.html#ae5a11e7738886ec5eb0ddecdf4b358ec", null ],
+    [ "MSG_TRACE", "db/daf/avrdude_8h.html#a2db9e0f667fa6b3c881b3350cd2bb8a6", null ],
+    [ "MSG_TRACE2", "db/daf/avrdude_8h.html#ad458bbd6cd5a5154bcca85a01fabf25e", null ],
+    [ "avrdude_message_handler_t", "db/daf/avrdude_8h.html#a48da5555417e3d683d185626ce18a685", null ],
+    [ "avrdude_oom_handler_t", "db/daf/avrdude_8h.html#a24692fd41a3f3b9ecf631a149ed36d2c", null ],
+    [ "avrdude_progress_handler_t", "db/daf/avrdude_8h.html#a674cb585dd7967b3e40c14d20e7550d6", null ],
+    [ "avrdude_cancel", "db/daf/avrdude_8h.html#a695545a08cf17a41771867077f6a1987", null ],
+    [ "avrdude_main", "db/daf/avrdude_8h.html#a8a08cea4409523223ca4b299bf9ca6da", null ],
+    [ "avrdude_message", "db/daf/avrdude_8h.html#ae3011b9c6440c863e64eed3fed5106e3", null ],
+    [ "avrdude_message_handler_set", "db/daf/avrdude_8h.html#a442a4da768f622e9a113104cc6735c04", null ],
+    [ "avrdude_oom", "db/daf/avrdude_8h.html#a337978586dbb68391dd6a4c9dc9a2e59", null ],
+    [ "avrdude_oom_handler_set", "db/daf/avrdude_8h.html#a177a34477b60424084a793a6b1360305", null ],
+    [ "avrdude_progress_external", "db/daf/avrdude_8h.html#a5c589a6a41c67af14ab22cd138ba80b6", null ],
+    [ "avrdude_progress_handler_set", "db/daf/avrdude_8h.html#a11ac34e33a0884e4ad9025c38e1136af", null ],
+    [ "ovsigck", "db/daf/avrdude_8h.html#a02213cda7869eedb602c98c1740369e5", null ],
+    [ "progbuf", "db/daf/avrdude_8h.html#a8f715f1196bcbb57c451c85f1e6f2b57", null ],
+    [ "progname", "db/daf/avrdude_8h.html#ab9e1449fd00c98428516f0b41eddcb10", null ],
+    [ "quell_progress", "db/daf/avrdude_8h.html#afe33d420e205f0ec3c527152fe5ec45a", null ],
+    [ "verbose", "db/daf/avrdude_8h.html#a0b2caeb4b6f130be43e5a2f0267dd453", null ]
+];

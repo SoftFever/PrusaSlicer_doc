@@ -1,0 +1,24 @@
+<map id="Slic3r::FFFTreeSupport::safe_offset_inc" name="Slic3r::FFFTreeSupport::safe_offset_inc">
+<area shape="rect" id="Node000001" title="Offsets (increases the area of) a polygons object in multiple steps to ensure that it does not lag th..." alt="" coords="1061,77,1218,118"/>
+<area shape="rect" id="Node000002" href="$dd/df4/namespace_slic3r_1_1_f_f_f_tree_support.html#a0931050cec7937180b5b2cb962c64fde" title="Checks if an influence area contains a valid subsection and returns the corresponding metadata and th..." alt="" coords="853,29,1010,70"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1046,79,1010,70,1011,65,1047,74"/>
+<area shape="rect" id="Node000003" href="$dd/df4/namespace_slic3r_1_1_f_f_f_tree_support.html#abb175d116e2dfb6bc27c8f0005bfd906" title=" " alt="" coords="850,118,1013,174"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="1047,122,1014,129,1013,124,1046,117"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="966,17,953,10,931,8,912,10,900,15,895,20,897,28,892,29,890,19,896,10,910,5,931,3,954,5,968,12"/>
+<area shape="poly" id="edge12_Node000003_Node000003" title=" " alt="" coords="965,106,952,99,931,96,913,98,901,103,896,109,896,118,890,117,891,107,898,99,912,93,931,91,954,94,967,101"/>
+<area shape="rect" id="Node000004" href="$dd/df4/namespace_slic3r_1_1_f_f_f_tree_support.html#ad858edd51a19e644532ce4d00379fb76" title="Merges Influence Areas if possible." alt="" coords="638,66,802,122"/>
+<area shape="poly" id="edge4_Node000003_Node000004" title=" " alt="" coords="835,125,801,116,803,111,836,119"/>
+<area shape="rect" id="Node000008" href="$dd/df4/namespace_slic3r_1_1_f_f_f_tree_support.html#ab2ce227e4f177e6b0a86047f62857854" title=" " alt="" coords="638,170,802,226"/>
+<area shape="poly" id="edge13_Node000003_Node000008" title=" " alt="" coords="836,172,803,180,801,175,835,167"/>
+<area shape="poly" id="edge11_Node000004_Node000004" title=" " alt="" coords="754,54,741,47,720,44,701,46,689,51,684,57,684,66,678,65,679,55,686,47,700,41,720,39,743,42,757,49"/>
+<area shape="rect" id="Node000005" href="$dd/df4/namespace_slic3r_1_1_f_f_f_tree_support.html#a072f8fb61613be20955808d6ea3da0eb" title="Merges Influence Areas at one layer if possible." alt="" coords="427,73,590,114"/>
+<area shape="poly" id="edge5_Node000004_Node000005" title=" " alt="" coords="624,96,591,96,591,91,624,91"/>
+<area shape="poly" id="edge10_Node000005_Node000005" title=" " alt="" coords="543,61,530,54,509,52,489,54,477,59,472,64,474,72,469,73,467,63,474,54,488,49,509,47,532,49,545,56"/>
+<area shape="rect" id="Node000006" href="$dd/df4/namespace_slic3r_1_1_f_f_f_tree_support.html#aeb49cf1fc20a86890b55d203812fd7bb" title="Propagates influence downwards, and merges overlapping ones." alt="" coords="222,73,379,114"/>
+<area shape="poly" id="edge6_Node000005_Node000006" title=" " alt="" coords="412,96,379,96,379,91,412,91"/>
+<area shape="poly" id="edge7_Node000006_Node000006" title=" " alt="" coords="335,61,322,54,300,52,281,54,269,59,264,64,266,72,261,73,259,63,265,54,279,49,300,47,323,49,337,56"/>
+<area shape="rect" id="Node000007" href="$dd/df4/namespace_slic3r_1_1_f_f_f_tree_support.html#ab26bc295197117d2d20bc72c33be92f6" title="Create the areas that need support." alt="" coords="5,73,174,114"/>
+<area shape="poly" id="edge8_Node000006_Node000007" title=" " alt="" coords="207,96,174,96,174,91,207,91"/>
+<area shape="poly" id="edge9_Node000007_Node000007" title=" " alt="" coords="124,61,111,54,89,52,69,54,57,59,53,64,55,72,50,73,48,63,54,54,68,49,90,47,113,49,127,56"/>
+<area shape="poly" id="edge14_Node000008_Node000008" title=" " alt="" coords="754,158,741,151,720,148,701,150,689,155,684,161,684,170,678,169,679,159,686,151,700,145,720,143,743,146,757,153"/>
+</map>

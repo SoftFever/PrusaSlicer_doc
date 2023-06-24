@@ -1,0 +1,61 @@
+<map id="Slic3r::FFFTreeSupport::create_nodes_from_area" name="Slic3r::FFFTreeSupport::create_nodes_from_area">
+<area shape="rect" id="Node000001" title="Set the result_on_layer point for all influence areas." alt="" coords="5,292,178,332"/>
+<area shape="poly" id="edge1_Node000001_Node000001" title=" " alt="" coords="49,292,47,282,54,273,69,267,92,265,116,267,131,274,129,279,115,273,91,270,70,272,57,277,52,283,54,290"/>
+<area shape="rect" id="Node000002" href="$dd/df4/namespace_slic3r_1_1_f_f_f_tree_support.html#a4cea5675bfa8ad2c71fcd7c1785690fe" title=" " alt="" coords="768,186,934,227"/>
+<area shape="poly" id="edge2_Node000001_Node000002" title=" " alt="" coords="96,290,111,245,136,186,174,126,197,98,224,75,254,56,282,43,307,36,333,32,387,31,455,28,529,16,588,5,616,3,646,5,678,13,715,28,757,57,791,95,818,135,837,171,833,174,814,138,787,98,753,61,712,33,676,18,645,10,616,8,589,10,530,21,455,33,387,36,333,38,308,41,283,48,257,60,227,79,201,102,178,129,141,189,116,247,101,292"/>
+<area shape="rect" id="Node000007" href="$dd/df4/namespace_slic3r_1_1_f_f_f_tree_support.html#ada6ee7c767b7f812f1d7a4265f74a71c" title=" " alt="" coords="226,670,407,711"/>
+<area shape="poly" id="edge9_Node000001_Node000007" title=" " alt="" coords="99,332,113,388,138,467,176,552,200,594,228,631,261,660,257,664,224,635,195,597,171,555,133,468,108,390,94,333"/>
+<area shape="rect" id="Node000008" href="$de/dcf/struct_slic3r_1_1_f_f_f_tree_support_1_1_support_element_state.html#adae870488e645e1ddac5ef8b2fe0f861" title=" " alt="" coords="505,43,664,98"/>
+<area shape="poly" id="edge11_Node000001_Node000008" title=" " alt="" coords="98,290,116,252,142,206,178,159,200,138,224,120,256,104,289,90,358,72,427,64,490,62,490,67,428,69,359,78,291,95,258,108,227,125,204,142,182,162,147,209,120,255,103,292"/>
+<area shape="rect" id="Node000009" href="$dd/df4/namespace_slic3r_1_1_f_f_f_tree_support.html#a5d3a0c486b78654286cf3541d8a6b5d6" title="Sets the result_on_layer for all parents based on the SupportElement supplied." alt="" coords="238,158,395,199"/>
+<area shape="poly" id="edge12_Node000001_Node000009" title=" " alt="" coords="126,289,266,205,269,209,129,293"/>
+<area shape="rect" id="Node000010" href="$dd/df4/namespace_slic3r_1_1_f_f_f_tree_support.html#a5b7e3aa2dbc67c812bcd72802a8e7734" title=" " alt="" coords="761,372,941,412"/>
+<area shape="poly" id="edge37_Node000001_Node000010" title=" " alt="" coords="178,318,747,378,747,384,178,324"/>
+<area shape="rect" id="Node000011" href="$dd/df4/namespace_slic3r_1_1_f_f_f_tree_support.html#af51f5b21f6617dd3d6c57468be988ff8" title=" " alt="" coords="506,248,663,304"/>
+<area shape="poly" id="edge17_Node000001_Node000011" title=" " alt="" coords="178,303,490,280,491,285,178,308"/>
+<area shape="rect" id="Node000012" href="$dd/df4/namespace_slic3r_1_1_f_f_f_tree_support.html#ae933bab23a01546925f47e2403e6c198" title="Get the best point to connect to the model and set the result_on_layer of the relevant SupportElement..." alt="" coords="238,415,395,470"/>
+<area shape="poly" id="edge20_Node000001_Node000012" title=" " alt="" coords="130,331,256,405,253,409,127,335"/>
+<area shape="rect" id="Node000021" href="$dd/df4/namespace_slic3r_1_1_f_f_f_tree_support.html#a9c0f5dd4d95f10538669e32992adb86d" title="Get the Radius, that this element will have." alt="" coords="233,581,400,622"/>
+<area shape="poly" id="edge34_Node000001_Node000021" title=" " alt="" coords="111,331,293,568,288,571,107,334"/>
+<area shape="poly" id="edge8_Node000002_Node000002" title=" " alt="" coords="810,186,808,176,815,167,829,162,851,160,875,162,889,169,887,174,874,167,851,165,830,167,818,172,813,177,815,185"/>
+<area shape="rect" id="Node000003" href="$d8/d08/semver_8c.html#a477fec2b303f34d210b5d5f8ed8b4f71" title=" " alt="" coords="1032,154,1103,179"/>
+<area shape="poly" id="edge3_Node000002_Node000003" title=" " alt="" coords="934,189,1017,173,1018,178,935,194"/>
+<area shape="rect" id="Node000004" href="$dd/df4/namespace_slic3r_1_1_f_f_f_tree_support.html#ab2114dd5f9bf09745fc5ae30aabd9e6d" title=" " alt="" coords="989,228,1146,268"/>
+<area shape="poly" id="edge4_Node000002_Node000004" title=" " alt="" coords="935,220,974,228,973,233,934,225"/>
+<area shape="poly" id="edge6_Node000004_Node000004" title=" " alt="" coords="1032,227,1030,218,1036,209,1048,203,1067,201,1088,204,1100,210,1098,215,1087,209,1067,206,1050,208,1039,213,1035,219,1037,226"/>
+<area shape="rect" id="Node000005" href="$d7/dd1/class_slic3r_1_1_multi_point.html#a529edca78dfc1b7c70d794fd655d19ce" title=" " alt="" coords="1194,196,1314,236"/>
+<area shape="poly" id="edge5_Node000004_Node000005" title=" " alt="" coords="1146,232,1179,226,1180,231,1147,237"/>
+<area shape="rect" id="Node000006" href="$d7/dd1/class_slic3r_1_1_multi_point.html#af3d77ee0ed47dc3e2bf8e741d6a1e563" title=" " alt="" coords="1194,261,1314,302"/>
+<area shape="poly" id="edge7_Node000004_Node000006" title=" " alt="" coords="1147,259,1180,265,1179,271,1146,265"/>
+<area shape="poly" id="edge10_Node000007_Node000007" title=" " alt="" coords="274,670,272,660,279,651,294,646,316,644,341,646,356,653,353,658,340,651,316,649,295,651,282,656,277,661,279,669"/>
+<area shape="poly" id="edge13_Node000009_Node000002" title=" " alt="" coords="395,166,543,157,629,158,714,165,776,179,775,184,713,171,629,163,543,162,396,172"/>
+<area shape="poly" id="edge14_Node000009_Node000008" title=" " alt="" coords="361,155,454,115,490,101,492,106,456,120,364,160"/>
+<area shape="poly" id="edge15_Node000009_Node000009" title=" " alt="" coords="274,158,272,148,279,139,294,134,316,132,341,134,356,141,353,146,340,139,316,137,295,139,282,144,277,149,279,157"/>
+<area shape="poly" id="edge16_Node000009_Node000010" title=" " alt="" coords="396,175,480,176,572,181,656,192,689,200,715,210,756,241,791,280,818,321,837,357,832,359,813,323,787,283,753,245,712,214,688,205,655,197,572,187,480,182,396,180"/>
+<area shape="poly" id="edge18_Node000011_Node000002" title=" " alt="" coords="663,253,755,229,757,234,664,258"/>
+<area shape="poly" id="edge19_Node000011_Node000011" title=" " alt="" coords="532,248,533,238,542,229,559,223,584,221,613,224,630,232,628,237,612,229,584,227,560,229,545,233,538,240,538,248"/>
+<area shape="poly" id="edge28_Node000012_Node000002" title=" " alt="" coords="395,419,570,367,653,339,712,314,769,276,817,235,820,239,772,280,715,318,655,344,571,372,396,424"/>
+<area shape="poly" id="edge33_Node000012_Node000010" title=" " alt="" coords="395,435,713,408,746,404,747,409,714,413,396,440"/>
+<area shape="poly" id="edge29_Node000012_Node000011" title=" " alt="" coords="361,412,524,310,527,314,364,417"/>
+<area shape="poly" id="edge30_Node000012_Node000012" title=" " alt="" coords="272,414,273,404,281,396,295,390,316,388,341,391,355,398,353,403,339,396,316,393,297,395,284,400,278,406,278,414"/>
+<area shape="rect" id="Node000013" href="$d6/d18/class_slic3r_1_1_f_f_f_tree_support_1_1_tree_model_volumes.html#a4009d3da8dedb156a3924e639aced26a" title="Provides the area represents all areas on the model where the branch does completely fit on the given..." alt="" coords="455,480,713,520"/>
+<area shape="poly" id="edge21_Node000012_Node000013" title=" " alt="" coords="396,457,472,473,471,479,395,462"/>
+<area shape="rect" id="Node000016" href="$de/db8/namespace_slic3r.html#a57c612ab2aa7dd29f1e7ece220e3af82" title=" " alt="" coords="520,544,649,570"/>
+<area shape="poly" id="edge25_Node000012_Node000016" title=" " alt="" coords="354,469,401,501,456,529,506,544,504,549,454,534,398,506,351,473"/>
+<area shape="rect" id="Node000019" href="$dd/df4/namespace_slic3r_1_1_f_f_f_tree_support.html#a0fe6563863279b24725d47874451e250" title="Get the collision Radius of this Element. This can be smaller then the actual radius,..." alt="" coords="495,595,674,650"/>
+<area shape="poly" id="edge31_Node000012_Node000019" title=" " alt="" coords="340,469,390,526,421,555,456,580,482,593,480,598,454,585,418,559,386,529,336,473"/>
+<area shape="poly" id="edge24_Node000013_Node000010" title=" " alt="" coords="662,476,712,459,799,417,801,422,714,464,664,482"/>
+<area shape="rect" id="Node000014" href="$de/db8/namespace_slic3r.html#ab28c13d286b2d1767d7c63b020ebd042" title=" " alt="" coords="801,487,901,513"/>
+<area shape="poly" id="edge22_Node000013_Node000014" title=" " alt="" coords="714,497,786,497,786,503,714,503"/>
+<area shape="rect" id="Node000015" href="$d5/ddc/namespace_slic3r_1_1internal_1_1format.html#a5a8cae6889e58c9be36cd70a9e9987ff" title=" " alt="" coords="993,480,1142,520"/>
+<area shape="poly" id="edge23_Node000014_Node000015" title=" " alt="" coords="901,497,978,497,978,503,901,503"/>
+<area shape="rect" id="Node000017" href="$de/db8/namespace_slic3r.html#a440bb1d57671f454ad4fab4f192430cf" title=" " alt="" coords="797,544,905,570"/>
+<area shape="poly" id="edge26_Node000016_Node000017" title=" " alt="" coords="649,555,782,555,782,560,649,560"/>
+<area shape="rect" id="Node000018" href="$de/db8/namespace_slic3r.html#a843ba2fe16b213f550fb3d55c55a716e" title=" " alt="" coords="1001,544,1134,570"/>
+<area shape="poly" id="edge27_Node000017_Node000018" title=" " alt="" coords="905,555,986,555,986,560,905,560"/>
+<area shape="rect" id="Node000020" href="$db/da3/struct_slic3r_1_1_f_f_f_tree_support_1_1_tree_support_settings.html#a3e3c953b2bddcff105a01742359ce230" title="Get the Radius part will have based on numeric values." alt="" coords="772,627,930,682"/>
+<area shape="poly" id="edge32_Node000019_Node000020" title=" " alt="" coords="675,631,758,641,757,646,674,636"/>
+<area shape="poly" id="edge36_Node000021_Node000020" title=" " alt="" coords="379,620,408,632,432,648,456,660,534,674,614,678,690,675,757,668,758,674,690,681,614,684,533,680,454,665,429,652,406,637,377,625"/>
+<area shape="rect" id="Node000022" href="$dd/df4/namespace_slic3r_1_1_f_f_f_tree_support.html#ac0b43fc4eb70422b92722063157736e0" title="Get the Distance to top regarding the real radius this part will have. This is different from distanc..." alt="" coords="506,725,663,766"/>
+<area shape="poly" id="edge35_Node000021_Node000022" title=" " alt="" coords="389,620,409,633,425,651,433,670,441,688,457,704,493,724,490,729,453,709,436,691,428,672,421,654,405,637,386,624"/>
+</map>

@@ -1,0 +1,41 @@
+<map id="Slic3r::GUI::RaycastManager::first_hit" name="Slic3r::GUI::RaycastManager::first_hit">
+<area shape="rect" id="Node000001" title="Unproject on mesh and return closest hit to point in given direction." alt="" coords="5,237,199,277"/>
+<area shape="rect" id="Node000002" href="$de/db8/namespace_slic3r.html#a7313a4003e3762315f96e309b5570e36" title=" " alt="" coords="296,5,391,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="109,235,127,194,156,141,196,87,219,63,245,41,281,25,283,30,248,46,223,67,200,91,161,144,132,196,114,237"/>
+<area shape="rect" id="Node000003" href="$df/dd5/class_slic3r_1_1_a_a_b_b_mesh_1_1hit__result.html#a27a9c9f09db0b098a400a3e08b11f024" title=" " alt="" coords="267,55,420,96"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="116,234,168,171,205,136,245,105,254,100,256,105,248,110,208,140,172,175,120,238"/>
+<area shape="rect" id="Node000004" href="$de/db8/namespace_slic3r.html#aa85f291e837d74fb3707e8e1ba600df5" title="Check whether transformation matrix contains odd number of mirroring. NOTE: In code is sometime funct..." alt="" coords="272,120,415,146"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="125,234,178,194,245,154,261,148,263,153,248,159,181,198,129,238"/>
+<area shape="rect" id="Node000008" href="$d7/dfa/class_slic3r_1_1_a_a_b_b_mesh.html#ad14d6fa58ea8c30342a53823efab8321" title=" " alt="" coords="254,169,433,195"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="158,233,246,204,270,197,272,202,247,209,160,238"/>
+<area shape="rect" id="Node000009" href="$d5/d00/group___geometry___module.html#a20ca137b84f18b9c41a0fef9c222e0da" title=" " alt="" coords="258,219,429,244"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="199,244,242,239,243,245,199,249"/>
+<area shape="rect" id="Node000013" href="$d5/d00/group___geometry___module.html#a535bd63d047c2a36585c3f9b62219a1e" title=" " alt="" coords="263,268,424,294"/>
+<area shape="poly" id="edge12_Node000001_Node000013" title=" " alt="" coords="199,264,249,269,248,274,199,269"/>
+<area shape="rect" id="Node000014" href="$df/dd5/class_slic3r_1_1_a_a_b_b_mesh_1_1hit__result.html#a0cc84bb3149a4ad346fa286199dbf858" title=" " alt="" coords="267,318,420,359"/>
+<area shape="poly" id="edge13_Node000001_Node000014" title=" " alt="" coords="165,275,248,304,267,310,265,315,246,309,163,280"/>
+<area shape="rect" id="Node000015" href="$d7/dfa/class_slic3r_1_1_a_a_b_b_mesh.html#a9c541a6a2ba13e7a8b55a973d46aa4ad" title=" " alt="" coords="258,383,429,424"/>
+<area shape="poly" id="edge14_Node000001_Node000015" title=" " alt="" coords="127,276,180,321,248,368,261,374,259,379,245,372,177,326,123,280"/>
+<area shape="rect" id="Node000019" href="$d0/dca/class_slic3r_1_1_g_u_i_1_1_raycast_manager_1_1_i_skip.html#a4cba476f9885f9b1736fb3fd15bd3d91" title="Condition to not process model volume." alt="" coords="247,449,440,489"/>
+<area shape="poly" id="edge18_Node000001_Node000019" title=" " alt="" coords="117,276,168,352,205,396,248,433,257,439,254,444,245,438,201,400,163,356,112,279"/>
+<area shape="rect" id="Node000020" href="$d7/dfa/class_slic3r_1_1_a_a_b_b_mesh.html#a24405313c8c03c24c3a627cb7c0973dc" title=" " alt="" coords="251,513,436,539"/>
+<area shape="poly" id="edge19_Node000001_Node000020" title=" " alt="" coords="112,277,129,323,157,383,196,446,221,474,248,499,256,504,253,509,245,503,217,478,192,449,152,386,124,325,107,278"/>
+<area shape="rect" id="Node000005" href="$de/db8/namespace_slic3r.html#ac438e30f7d61567b77c49f5eeceb0ef2" title=" " alt="" coords="527,120,644,146"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="415,130,512,130,512,136,415,136"/>
+<area shape="rect" id="Node000006" href="$da/d8d/class_eigen_1_1_plain_object_base.html#a322d4d48cc285b60e0dff100db522342" title=" " alt="" coords="732,113,891,153"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="644,130,717,130,717,136,644,136"/>
+<area shape="rect" id="Node000007" href="$d5/d91/class_eigen_1_1_dense_storage.html#abdbbeb487a245756ac498d2590e3560a" title=" " alt="" coords="940,113,1085,153"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="892,130,925,130,925,136,892,136"/>
+<area shape="rect" id="Node000010" href="$d5/d00/group___geometry___module.html#a18580c6c151bac89f03818164dd19632" title=" " alt="" coords="488,169,683,195"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="410,215,504,196,505,201,411,221"/>
+<area shape="rect" id="Node000011" href="$d5/d00/group___geometry___module.html#a8a5d077e6e87e7d0a1f347fbc4d52a6e" title=" " alt="" coords="503,219,668,244"/>
+<area shape="poly" id="edge10_Node000009_Node000011" title=" " alt="" coords="430,229,488,229,488,234,430,234"/>
+<area shape="rect" id="Node000012" href="$da/d39/struct_eigen_1_1internal_1_1projective__transform__inverse.html#adf4ddcf803974e309b1e280c19da56c1" title=" " alt="" coords="502,269,670,309"/>
+<area shape="poly" id="edge11_Node000009_Node000012" title=" " alt="" coords="401,242,488,263,486,268,400,248"/>
+<area shape="rect" id="Node000016" href="$d7/dfa/class_slic3r_1_1_a_a_b_b_mesh.html#a9ca754f4cbe547b8d5b4fb045a64a8a3" title=" " alt="" coords="497,383,674,424"/>
+<area shape="poly" id="edge15_Node000015_Node000016" title=" " alt="" coords="429,401,482,401,482,406,429,406"/>
+<area shape="rect" id="Node000017" href="$de/db8/namespace_slic3r.html#aae136d73e98302ad7af3d92430190cda" title=" " alt="" coords="731,383,892,424"/>
+<area shape="poly" id="edge16_Node000016_Node000017" title=" " alt="" coords="675,401,717,401,717,406,675,406"/>
+<area shape="rect" id="Node000018" href="$de/db8/namespace_slic3r.html#a106b62b80d0eda483b9872670fb332b5" title=" " alt="" coords="950,383,1075,424"/>
+<area shape="poly" id="edge17_Node000017_Node000018" title=" " alt="" coords="892,401,935,401,935,406,892,406"/>
+</map>

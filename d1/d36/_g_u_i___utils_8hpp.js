@@ -1,0 +1,25 @@
+var _g_u_i___utils_8hpp =
+[
+    [ "Slic3r::GUI::DpiChangedEvent", "d0/d4a/struct_slic3r_1_1_g_u_i_1_1_dpi_changed_event.html", "d0/d4a/struct_slic3r_1_1_g_u_i_1_1_dpi_changed_event" ],
+    [ "Slic3r::GUI::DPIAware< P >", "d7/d9a/class_slic3r_1_1_g_u_i_1_1_d_p_i_aware.html", "d7/d9a/class_slic3r_1_1_g_u_i_1_1_d_p_i_aware" ],
+    [ "Slic3r::GUI::EventGuard", "d4/dd9/class_slic3r_1_1_g_u_i_1_1_event_guard.html", "d4/dd9/class_slic3r_1_1_g_u_i_1_1_event_guard" ],
+    [ "Slic3r::GUI::EventGuard::EventStorageBase", "d6/daf/struct_slic3r_1_1_g_u_i_1_1_event_guard_1_1_event_storage_base.html", "d6/daf/struct_slic3r_1_1_g_u_i_1_1_event_guard_1_1_event_storage_base" ],
+    [ "Slic3r::GUI::EventGuard::EventStorageFun< EvTag, Fun >", "df/d49/struct_slic3r_1_1_g_u_i_1_1_event_guard_1_1_event_storage_fun.html", "df/d49/struct_slic3r_1_1_g_u_i_1_1_event_guard_1_1_event_storage_fun" ],
+    [ "Slic3r::GUI::EventGuard::EventStorageMethod< EvTag, Class, EvArg, EvHandler >", "d1/d87/struct_slic3r_1_1_g_u_i_1_1_event_guard_1_1_event_storage_method.html", "d1/d87/struct_slic3r_1_1_g_u_i_1_1_event_guard_1_1_event_storage_method" ],
+    [ "Slic3r::GUI::CheckboxFileDialog", "d3/d82/class_slic3r_1_1_g_u_i_1_1_checkbox_file_dialog.html", "d3/d82/class_slic3r_1_1_g_u_i_1_1_checkbox_file_dialog" ],
+    [ "Slic3r::GUI::CheckboxFileDialog::ExtraPanel", "d9/dcf/struct_slic3r_1_1_g_u_i_1_1_checkbox_file_dialog_1_1_extra_panel.html", "d9/dcf/struct_slic3r_1_1_g_u_i_1_1_checkbox_file_dialog_1_1_extra_panel" ],
+    [ "Slic3r::GUI::WindowMetrics", "d9/d15/class_slic3r_1_1_g_u_i_1_1_window_metrics.html", "d9/d15/class_slic3r_1_1_g_u_i_1_1_window_metrics" ],
+    [ "Slic3r::GUI::TaskTimer", "df/dc0/class_slic3r_1_1_g_u_i_1_1_task_timer.html", "df/dc0/class_slic3r_1_1_g_u_i_1_1_task_timer" ],
+    [ "Slic3r::GUI::KeyAutoRepeatFilter", "de/d60/class_slic3r_1_1_g_u_i_1_1_key_auto_repeat_filter.html", "de/d60/class_slic3r_1_1_g_u_i_1_1_key_auto_repeat_filter" ],
+    [ "wxVERSION_EQUAL_OR_GREATER_THAN", "d1/d36/_g_u_i___utils_8hpp.html#ad6afa5ab6a0c1de89a8aa1baf7820bdc", null ],
+    [ "DPIDialog", "d1/d36/_g_u_i___utils_8hpp.html#a52d956bb21ea22a3cedcce83ceacd228", null ],
+    [ "DPIFrame", "d1/d36/_g_u_i___utils_8hpp.html#adc61a5fefde440eb91466fca99477d7a", null ],
+    [ "check_dark_mode", "d1/d36/_g_u_i___utils_8hpp.html#a4efb22fa76b303e9999f4f121b015b0a", null ],
+    [ "find_toplevel_parent", "d1/d36/_g_u_i___utils_8hpp.html#a160756cff7bc7f94456fb6b61614f579", null ],
+    [ "get_default_font", "d1/d36/_g_u_i___utils_8hpp.html#a97416e8f155876ee2c487a6ede8cf133", null ],
+    [ "get_default_font_for_dpi", "d1/d36/_g_u_i___utils_8hpp.html#ab1e2fe32dc2ebbc19468e52f2dde019a", null ],
+    [ "get_dpi_for_window", "d1/d36/_g_u_i___utils_8hpp.html#a564667cddd96efcd898e474b9fba2313", null ],
+    [ "on_window_geometry", "d1/d36/_g_u_i___utils_8hpp.html#a835fb591a63a041c905ae815f4a58d7e", null ],
+    [ "operator<<", "d1/d36/_g_u_i___utils_8hpp.html#a3a71eda04f67d3ab9a41822dd019d688", null ],
+    [ "wxDECLARE_EVENT", "d1/d36/_g_u_i___utils_8hpp.html#a9a9b1b932165af48f93d5e62e584102d", null ]
+];

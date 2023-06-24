@@ -1,0 +1,26 @@
+var class_slic3r_1_1_g_u_i_1_1_substitution_manager =
+[
+    [ "SubstitutionManager", "d4/d33/class_slic3r_1_1_g_u_i_1_1_substitution_manager.html#a269e0c145236506261a845eed9bdba8f", null ],
+    [ "~SubstitutionManager", "d4/d33/class_slic3r_1_1_g_u_i_1_1_substitution_manager.html#abf5c11e2d0cea088b441e09c1f1a23c5", null ],
+    [ "add_substitution", "d4/d33/class_slic3r_1_1_g_u_i_1_1_substitution_manager.html#ae759fc66a0eb99d82e03a7cd7b247c6f", null ],
+    [ "call_ui_update", "d4/d33/class_slic3r_1_1_g_u_i_1_1_substitution_manager.html#aee46b47179f6795cadf2ec9f773c103d", null ],
+    [ "create_legend", "d4/d33/class_slic3r_1_1_g_u_i_1_1_substitution_manager.html#a7f130c0d61145562647020ca3647c0b5", null ],
+    [ "delete_all", "d4/d33/class_slic3r_1_1_g_u_i_1_1_substitution_manager.html#ab3053f53e7c55affdbb88045ca5aa375", null ],
+    [ "delete_substitution", "d4/d33/class_slic3r_1_1_g_u_i_1_1_substitution_manager.html#af184417e739ed5654881f2b8e44c304f", null ],
+    [ "edit_substitution", "d4/d33/class_slic3r_1_1_g_u_i_1_1_substitution_manager.html#a8d296cbb40592693a650a961e9d85d7d", null ],
+    [ "hide_delete_all_btn", "d4/d33/class_slic3r_1_1_g_u_i_1_1_substitution_manager.html#a61f7e0c9738c206f7be230cf6f1beee0", null ],
+    [ "init", "d4/d33/class_slic3r_1_1_g_u_i_1_1_substitution_manager.html#adc180188fa0c3d2dc61e0e4dc189f0b4", null ],
+    [ "is_compatibile_with_ui", "d4/d33/class_slic3r_1_1_g_u_i_1_1_substitution_manager.html#aff6e81aec8079f567431c08eb5f7f38a", null ],
+    [ "is_empty_substitutions", "d4/d33/class_slic3r_1_1_g_u_i_1_1_substitution_manager.html#a98e17ff986f264a3ad1e3ad4a8ea9c5b", null ],
+    [ "is_valid_id", "d4/d33/class_slic3r_1_1_g_u_i_1_1_substitution_manager.html#afd3e5901b414f74305064529e5e09512", null ],
+    [ "set_cb_edited_substitution", "d4/d33/class_slic3r_1_1_g_u_i_1_1_substitution_manager.html#ab595c2d7ee5f0a2ae15c4c6c18aa11eb", null ],
+    [ "set_cb_hide_delete_all_btn", "d4/d33/class_slic3r_1_1_g_u_i_1_1_substitution_manager.html#ae17fce37fbd73f2f5387aed1caf7efdc", null ],
+    [ "update_from_config", "d4/d33/class_slic3r_1_1_g_u_i_1_1_substitution_manager.html#ad2540bb2d2fa3766057fbbf71870bdaf", null ],
+    [ "validate_lenth", "d4/d33/class_slic3r_1_1_g_u_i_1_1_substitution_manager.html#aa6994550782d578e61ea6efccea911f3", null ],
+    [ "m_cb_edited_substitution", "d4/d33/class_slic3r_1_1_g_u_i_1_1_substitution_manager.html#aa71960474d1b7a4a7f91b5dd77773d5b", null ],
+    [ "m_cb_hide_delete_all_btn", "d4/d33/class_slic3r_1_1_g_u_i_1_1_substitution_manager.html#aea89eeed971e06a14afe46388927a425", null ],
+    [ "m_config", "d4/d33/class_slic3r_1_1_g_u_i_1_1_substitution_manager.html#acb6997da68787200ec934cea72e0e545", null ],
+    [ "m_em", "d4/d33/class_slic3r_1_1_g_u_i_1_1_substitution_manager.html#abcf60d03851bf0ce45882ef35517c099", null ],
+    [ "m_grid_sizer", "d4/d33/class_slic3r_1_1_g_u_i_1_1_substitution_manager.html#ae0f041f5610bce00f3642c50d150b18f", null ],
+    [ "m_parent", "d4/d33/class_slic3r_1_1_g_u_i_1_1_substitution_manager.html#a3ac163156423a9458238ff2c969b599d", null ]
+];

@@ -1,0 +1,25 @@
+var _bounding_box_8hpp =
+[
+    [ "Slic3r::BoundingBoxBase< PointType, APointsType >", "dc/d28/class_slic3r_1_1_bounding_box_base.html", "dc/d28/class_slic3r_1_1_bounding_box_base" ],
+    [ "Slic3r::BoundingBox3Base< PointType >", "da/d00/class_slic3r_1_1_bounding_box3_base.html", "da/d00/class_slic3r_1_1_bounding_box3_base" ],
+    [ "Slic3r::BoundingBox", "d4/d2d/class_slic3r_1_1_bounding_box.html", "d4/d2d/class_slic3r_1_1_bounding_box" ],
+    [ "Slic3r::BoundingBox3", "d4/d89/class_slic3r_1_1_bounding_box3.html", "d4/d89/class_slic3r_1_1_bounding_box3" ],
+    [ "Slic3r::BoundingBoxf", "dd/d82/class_slic3r_1_1_bounding_boxf.html", "dd/d82/class_slic3r_1_1_bounding_boxf" ],
+    [ "Slic3r::BoundingBoxf3", "d6/d81/class_slic3r_1_1_bounding_boxf3.html", "d6/d81/class_slic3r_1_1_bounding_boxf3" ],
+    [ "BoundingBoxes", "d2/ddc/_bounding_box_8hpp.html#afffcfecc9e587f223ae049fbf5e9ce88", null ],
+    [ "bbox_point_distance", "d2/ddc/_bounding_box_8hpp.html#a84d3ddb56022e1bd4b992ded9fd03203", null ],
+    [ "bbox_point_distance_squared", "d2/ddc/_bounding_box_8hpp.html#af8a7db2be404029fee591026d59d3d30", null ],
+    [ "cast", "d2/ddc/_bounding_box_8hpp.html#aef0297b3be7491d20223fefc7004fd09", null ],
+    [ "cast", "d2/ddc/_bounding_box_8hpp.html#ae02ebd5962cf27daadd92e7fcf891753", null ],
+    [ "empty", "d2/ddc/_bounding_box_8hpp.html#acb06f3753d561aa650268cf745cd2c96", null ],
+    [ "empty", "d2/ddc/_bounding_box_8hpp.html#aecabe174ebbb0e9cc7be41dafc297ef7", null ],
+    [ "scaled", "d2/ddc/_bounding_box_8hpp.html#a20c9ce8050ad12a2fbc3d2e07937a1e8", null ],
+    [ "scaled", "d2/ddc/_bounding_box_8hpp.html#af29c7779ae128ec32fa38b72d86853ab", null ],
+    [ "scaled", "d2/ddc/_bounding_box_8hpp.html#af40b6ecab6732170276d77125554f1e2", null ],
+    [ "serialize", "d2/ddc/_bounding_box_8hpp.html#a215bc45a3b75b50a27f52ca9f7df76a4", null ],
+    [ "serialize", "d2/ddc/_bounding_box_8hpp.html#a3d67bdf18686dc8806902719e3eca9bf", null ],
+    [ "serialize", "d2/ddc/_bounding_box_8hpp.html#a8ecf66f98ffcfd33a8e62528843b1c29", null ],
+    [ "serialize", "d2/ddc/_bounding_box_8hpp.html#afb064598ee58f56af8204c0cbcd93205", null ],
+    [ "unscaled", "d2/ddc/_bounding_box_8hpp.html#aed25fd226c5860d45ee63a490c8ec9c8", null ],
+    [ "unscaled", "d2/ddc/_bounding_box_8hpp.html#a325a3059dbe7c59b40705b88198bc3cf", null ]
+];

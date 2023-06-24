@@ -1,0 +1,39 @@
+<map id="Slic3r::JPSPathFinder" name="Slic3r::JPSPathFinder">
+<area shape="rect" id="Node000001" title=" " alt="" coords="2035,133,2185,159"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="1482,118,1628,174"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1642,143,2035,143,2035,148,1642,148"/>
+<area shape="rect" id="Node000003" href="$d6/dec/class_slic3r_1_1_point.html" title=" " alt="" coords="1156,97,1248,123"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="1263,120,1319,129,1403,137,1482,141,1482,146,1403,142,1318,134,1262,125"/>
+<area shape="rect" id="Node000020" href="$dc/d28/class_slic3r_1_1_bounding_box_base.html" title=" " alt="" coords="1470,53,1640,94"/>
+<area shape="poly" id="edge14_Node000020_Node000003" title=" " alt="" coords="1263,101,1446,82,1470,80,1470,85,1447,88,1263,106"/>
+<area shape="rect" id="Node000004" href="$d2/d2d/class_eigen_1_1_matrix.html" title=" " alt="" coords="961,97,1030,123"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="1045,107,1156,107,1156,112,1045,112"/>
+<area shape="rect" id="Node000005" href="$da/d8d/class_eigen_1_1_plain_object_base.html" title=" " alt="" coords="383,57,542,98"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="557,75,734,81,937,96,961,100,960,105,936,102,733,86,557,81"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="62,57,194,98"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="208,75,382,75,382,80,208,80"/>
+<area shape="rect" id="Node000007" href="$d5/d91/class_eigen_1_1_dense_storage.html" title=" " alt="" coords="5,122,251,193"/>
+<area shape="poly" id="edge6_Node000005_Node000007" title=" " alt="" coords="264,122,382,94,383,99,266,128"/>
+<area shape="rect" id="Node000014" href="$da/d8d/class_eigen_1_1_plain_object_base.html" title=" " alt="" coords="364,122,561,193"/>
+<area shape="poly" id="edge9_Node000014_Node000007" title=" " alt="" coords="265,155,363,155,363,160,265,160"/>
+<area shape="rect" id="Node000013" href="$d2/d2d/class_eigen_1_1_matrix.html" title="The matrix class, also used for vectors and row&#45;vectors." alt="" coords="610,119,783,175"/>
+<area shape="poly" id="edge7_Node000004_Node000013" title=" " alt="" coords="797,142,866,137,936,126,960,120,961,125,937,132,867,142,798,148"/>
+<area shape="poly" id="edge8_Node000013_Node000014" title=" " alt="" coords="576,150,610,148,610,154,576,155"/>
+<area shape="rect" id="Node000017" title=" " alt="" coords="1121,181,1283,207"/>
+<area shape="poly" id="edge10_Node000002_Node000017" title=" " alt="" coords="1298,190,1371,186,1446,176,1481,167,1483,173,1447,181,1371,191,1298,195"/>
+<area shape="rect" id="Node000018" title=" " alt="" coords="976,181,1015,207"/>
+<area shape="poly" id="edge11_Node000017_Node000018" title=" " alt="" coords="1030,191,1121,191,1121,196,1030,196"/>
+<area shape="rect" id="Node000019" href="$d4/d2d/class_slic3r_1_1_bounding_box.html" title=" " alt="" coords="1745,72,1884,97"/>
+<area shape="poly" id="edge12_Node000001_Node000019" title=" " alt="" coords="1895,98,2045,130,2044,135,1894,103"/>
+<area shape="poly" id="edge13_Node000019_Node000020" title=" " alt="" coords="1655,75,1744,79,1744,84,1654,80"/>
+<area shape="rect" id="Node000021" href="$dc/d28/class_slic3r_1_1_bounding_box_base.html" title=" " alt="" coords="1110,5,1294,46"/>
+<area shape="poly" id="edge15_Node000020_Node000021" title=" " alt="" coords="1309,35,1447,52,1470,56,1470,61,1446,58,1309,40"/>
+<area shape="rect" id="Node000022" title=" " alt="" coords="1749,198,1880,224"/>
+<area shape="poly" id="edge16_Node000001_Node000022" title=" " alt="" coords="1894,199,2010,177,2074,157,2075,162,2012,182,1895,204"/>
+<area shape="rect" id="Node000023" href="$d6/d3b/class_slic3r_1_1_line.html" title=" " alt="" coords="1512,198,1598,224"/>
+<area shape="poly" id="edge17_Node000022_Node000023" title=" " alt="" coords="1613,208,1748,208,1748,214,1613,214"/>
+<area shape="rect" id="Node000024" title=" " alt="" coords="1497,248,1613,273"/>
+<area shape="poly" id="edge18_Node000022_Node000024" title=" " alt="" coords="1627,246,1720,229,1753,222,1754,227,1721,234,1628,251"/>
+<area shape="rect" id="Node000010" title=" " alt="" coords="1183,248,1221,273"/>
+<area shape="poly" id="edge19_Node000024_Node000010" title=" " alt="" coords="1236,258,1497,258,1497,263,1236,263"/>
+</map>

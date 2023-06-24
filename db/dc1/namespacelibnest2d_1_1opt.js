@@ -1,0 +1,45 @@
+var namespacelibnest2d_1_1opt =
+[
+    [ "Bound", "d1/d21/classlibnest2d_1_1opt_1_1_bound.html", "d1/d21/classlibnest2d_1_1opt_1_1_bound" ],
+    [ "DummyOptimizer", "d0/d72/classlibnest2d_1_1opt_1_1_dummy_optimizer.html", "d0/d72/classlibnest2d_1_1opt_1_1_dummy_optimizer" ],
+    [ "GeneticOptimizer", "d7/db3/classlibnest2d_1_1opt_1_1_genetic_optimizer.html", "d7/db3/classlibnest2d_1_1opt_1_1_genetic_optimizer" ],
+    [ "limits", "d2/de6/structlibnest2d_1_1opt_1_1limits.html", "d2/de6/structlibnest2d_1_1opt_1_1limits" ],
+    [ "limits< T, enable_if_t< std::numeric_limits< T >::has_infinity, void > >", "d7/db1/structlibnest2d_1_1opt_1_1limits_3_01_t_00_01enable__if__t_3_01std_1_1numeric__limits_3_01_t_01_a636e86636c2a6fdeb942371d2d2643a.html", "d7/db1/structlibnest2d_1_1opt_1_1limits_3_01_t_00_01enable__if__t_3_01std_1_1numeric__limits_3_01_t_01_a636e86636c2a6fdeb942371d2d2643a" ],
+    [ "metaloop", "d3/db4/classlibnest2d_1_1opt_1_1metaloop.html", "d3/db4/classlibnest2d_1_1opt_1_1metaloop" ],
+    [ "NloptOptimizer", "d9/d2a/classlibnest2d_1_1opt_1_1_nlopt_optimizer.html", "d9/d2a/classlibnest2d_1_1opt_1_1_nlopt_optimizer" ],
+    [ "Optimizer", "dc/dd9/classlibnest2d_1_1opt_1_1_optimizer.html", "dc/dd9/classlibnest2d_1_1opt_1_1_optimizer" ],
+    [ "OptimizerSubclass", "db/dc1/namespacelibnest2d_1_1opt.html#d3/d6b/structlibnest2d_1_1opt_1_1_optimizer_subclass", "db/dc1/namespacelibnest2d_1_1opt_d3/d6b/structlibnest2d_1_1opt_1_1_optimizer_subclass_dup" ],
+    [ "OptimizerSubclass< Method::G_GENETIC >", "db/dc1/namespacelibnest2d_1_1opt.html#df/d28/structlibnest2d_1_1opt_1_1_optimizer_subclass_3_01_method_1_1_g___g_e_n_e_t_i_c_01_4", "db/dc1/namespacelibnest2d_1_1opt_df/d28/structlibnest2d_1_1opt_1_1_optimizer_subclass_3_01_method_1_1_g___g_e_n_e_t_i_c_01_4_dup" ],
+    [ "OptimizerSubclass< Method::L_SIMPLEX >", "db/dc1/namespacelibnest2d_1_1opt.html#d2/d37/structlibnest2d_1_1opt_1_1_optimizer_subclass_3_01_method_1_1_l___s_i_m_p_l_e_x_01_4", "db/dc1/namespacelibnest2d_1_1opt_d2/d37/structlibnest2d_1_1opt_1_1_optimizer_subclass_3_01_method_1_1_l___s_i_m_p_l_e_x_01_4_dup" ],
+    [ "OptimizerSubclass< Method::L_SUBPLEX >", "db/dc1/namespacelibnest2d_1_1opt.html#de/d16/structlibnest2d_1_1opt_1_1_optimizer_subclass_3_01_method_1_1_l___s_u_b_p_l_e_x_01_4", "db/dc1/namespacelibnest2d_1_1opt_de/d16/structlibnest2d_1_1opt_1_1_optimizer_subclass_3_01_method_1_1_l___s_u_b_p_l_e_x_01_4_dup" ],
+    [ "Result", "db/dc1/namespacelibnest2d_1_1opt.html#d2/d2d/structlibnest2d_1_1opt_1_1_result", "db/dc1/namespacelibnest2d_1_1opt_d2/d2d/structlibnest2d_1_1opt_1_1_result_dup" ],
+    [ "SimplexOptimizer", "db/d52/classlibnest2d_1_1opt_1_1_simplex_optimizer.html", "db/d52/classlibnest2d_1_1opt_1_1_simplex_optimizer" ],
+    [ "StopCriteria", "db/dc1/namespacelibnest2d_1_1opt.html#dd/d16/structlibnest2d_1_1opt_1_1_stop_criteria", "db/dc1/namespacelibnest2d_1_1opt_dd/d16/structlibnest2d_1_1opt_1_1_stop_criteria_dup" ],
+    [ "SubplexOptimizer", "d6/d59/classlibnest2d_1_1opt_1_1_subplex_optimizer.html", "d6/d59/classlibnest2d_1_1opt_1_1_subplex_optimizer" ],
+    [ "Input", "db/dc1/namespacelibnest2d_1_1opt.html#a3eb4cb87c780f6d140cc09e6c663f4f3", null ],
+    [ "TOptimizer", "db/dc1/namespacelibnest2d_1_1opt.html#a3dc085fb6b1e139800a7607e49511d81", null ],
+    [ "Method", "db/dc1/namespacelibnest2d_1_1opt.html#adf0430372cd42364362f0d6303392322", [
+      [ "L_SIMPLEX", "db/dc1/namespacelibnest2d_1_1opt.html#adf0430372cd42364362f0d6303392322ad635fd64529190f44f26d96b9073bdf0", null ],
+      [ "L_SUBPLEX", "db/dc1/namespacelibnest2d_1_1opt.html#adf0430372cd42364362f0d6303392322a2b6c3677d884e57722313422b47c2cdb", null ],
+      [ "G_GENETIC", "db/dc1/namespacelibnest2d_1_1opt.html#adf0430372cd42364362f0d6303392322a979e2daf1a66e01d97c1d4f0b423d0be", null ],
+      [ "G_PARTICLE_SWARM", "db/dc1/namespacelibnest2d_1_1opt.html#adf0430372cd42364362f0d6303392322af1248b7d7ce8a1993a9bdc89e0d4c55d", null ]
+    ] ],
+    [ "ResultCodes", "db/dc1/namespacelibnest2d_1_1opt.html#a3dee370f1985ec0d13890bf457e44e73", [
+      [ "FAILURE", "db/dc1/namespacelibnest2d_1_1opt.html#a3dee370f1985ec0d13890bf457e44e73aeddf7279606309729b6e7f8f1819c9d5", null ],
+      [ "INVALID_ARGS", "db/dc1/namespacelibnest2d_1_1opt.html#a3dee370f1985ec0d13890bf457e44e73a388f63e0c3fd4c8f87b44838daef8d3d", null ],
+      [ "OUT_OF_MEMORY", "db/dc1/namespacelibnest2d_1_1opt.html#a3dee370f1985ec0d13890bf457e44e73a685c45cf11fa394f4a0e874f8cd8d019", null ],
+      [ "ROUNDOFF_LIMITED", "db/dc1/namespacelibnest2d_1_1opt.html#a3dee370f1985ec0d13890bf457e44e73ae96ebcdc3ab8f9525577e9517a43c1e4", null ],
+      [ "FORCED_STOP", "db/dc1/namespacelibnest2d_1_1opt.html#a3dee370f1985ec0d13890bf457e44e73aaf4cabc08be564ec209fda2cee22eb4d", null ],
+      [ "SUCCESS", "db/dc1/namespacelibnest2d_1_1opt.html#a3dee370f1985ec0d13890bf457e44e73ad382d994e4da4ad06cb32347a2d53b33", null ],
+      [ "STOPVAL_REACHED", "db/dc1/namespacelibnest2d_1_1opt.html#a3dee370f1985ec0d13890bf457e44e73a14c48bc1e488f458cc8fc147a6aed227", null ],
+      [ "FTOL_REACHED", "db/dc1/namespacelibnest2d_1_1opt.html#a3dee370f1985ec0d13890bf457e44e73a5f18926f08baa21382328a1ed8067d89", null ],
+      [ "XTOL_REACHED", "db/dc1/namespacelibnest2d_1_1opt.html#a3dee370f1985ec0d13890bf457e44e73a42eeb28f87c2c84f9edaa3384b206ebf", null ],
+      [ "MAXEVAL_REACHED", "db/dc1/namespacelibnest2d_1_1opt.html#a3dee370f1985ec0d13890bf457e44e73a17e743ca523ea2034c1717a11ab79ed3", null ],
+      [ "MAXTIME_REACHED", "db/dc1/namespacelibnest2d_1_1opt.html#a3dee370f1985ec0d13890bf457e44e73a2a5ffc63cb6e128d23363952b3b10e18", null ]
+    ] ],
+    [ "bound", "db/dc1/namespacelibnest2d_1_1opt.html#a48bc52499f480a196baa45d9bce112d3", null ],
+    [ "GlobalOptimizer", "db/dc1/namespacelibnest2d_1_1opt.html#a6040f423e0075c5d62029ed56249d3e4", null ],
+    [ "GlobalOptimizer< Method::G_GENETIC >", "db/dc1/namespacelibnest2d_1_1opt.html#a8b3f28f7d2a64d2e94e88ca01e619b5a", null ],
+    [ "initvals", "db/dc1/namespacelibnest2d_1_1opt.html#acbcb2d5b28f92a5b9a2a0e77c10e3daf", null ],
+    [ "method2nloptAlg", "db/dc1/namespacelibnest2d_1_1opt.html#af96eff139e6046704b2e3aa92360178c", null ]
+];

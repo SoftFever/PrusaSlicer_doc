@@ -1,0 +1,5 @@
+var structlibnest2d_1_1opt_1_1limits_3_01_t_00_01enable__if__t_3_01std_1_1numeric__limits_3_01_t_01_a636e86636c2a6fdeb942371d2d2643a =
+[
+    [ "max", "d7/db1/structlibnest2d_1_1opt_1_1limits_3_01_t_00_01enable__if__t_3_01std_1_1numeric__limits_3_01_t_01_a636e86636c2a6fdeb942371d2d2643a.html#a20fa89f75a36d58279eb86656c366c94", null ],
+    [ "min", "d7/db1/structlibnest2d_1_1opt_1_1limits_3_01_t_00_01enable__if__t_3_01std_1_1numeric__limits_3_01_t_01_a636e86636c2a6fdeb942371d2d2643a.html#a68328e5f335d147758ff43e6b368a953", null ]
+];

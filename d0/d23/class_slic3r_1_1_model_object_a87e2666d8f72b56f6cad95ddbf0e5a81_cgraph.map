@@ -1,0 +1,31 @@
+<map id="Slic3r::ModelObject::merge" name="Slic3r::ModelObject::merge">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,121,141,161"/>
+<area shape="rect" id="Node000002" href="$d8/d71/class_slic3r_1_1_triangle_mesh.html#af06fdede750ab368ef3bcfb0927f4750" title=" " alt="" coords="189,121,329,161"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="141,138,174,138,174,144,141,144"/>
+<area shape="rect" id="Node000003" href="$de/db8/namespace_slic3r.html#af6eaa39d039be99914b33e0229e13e82" title="Merge one triangle mesh to another Added triangle set will be consumed." alt="" coords="403,84,522,110"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="329,123,388,110,389,115,330,128"/>
+<area shape="rect" id="Node000031" href="$d2/da4/struct_slic3r_1_1_triangle_mesh_stats.html#a511388859198df74b6f394d395b8a513" title=" " alt="" coords="377,149,548,189"/>
+<area shape="poly" id="edge14_Node000002_Node000031" title=" " alt="" coords="330,148,363,152,362,158,329,153"/>
+<area shape="rect" id="Node000004" href="$de/db8/namespace_slic3r.html#ad61bb7f1e4b8aaa434964420b9bedf32" title=" " alt="" coords="1036,5,1140,31"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="493,81,541,63,596,48,712,29,829,19,1021,14,1021,19,829,24,713,35,597,53,543,68,495,86"/>
+<area shape="rect" id="Node000005" href="$d0/df2/structindexed__triangle__set.html#aed85bda13aac7ba68ba0324e5ae9f9b5" title=" " alt="" coords="617,62,757,103"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="523,90,602,85,602,90,523,96"/>
+<area shape="rect" id="Node000006" href="$de/db8/namespace_slic3r.html#a5ec552d076296fd705739c608edc1580" title=" " alt="" coords="639,127,735,152"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="523,106,625,125,624,130,522,111"/>
+<area shape="rect" id="Node000007" href="$de/db8/namespace_slic3r.html#af7cda13fb4a1d706c356d6326e791e5e" title=" " alt="" coords="830,127,954,152"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="735,145,815,146,815,151,735,150"/>
+<area shape="rect" id="Node000030" href="$de/db8/namespace_slic3r.html#a843ba2fe16b213f550fb3d55c55a716e" title=" " alt="" coords="826,176,958,202"/>
+<area shape="poly" id="edge13_Node000006_Node000030" title=" " alt="" coords="736,148,822,169,821,175,735,154"/>
+<area shape="poly" id="edge8_Node000007_Node000004" title=" " alt="" coords="904,124,946,84,974,61,1005,41,1021,34,1023,38,1007,46,977,65,949,88,907,128"/>
+<area shape="poly" id="edge11_Node000007_Node000006" title=" " alt="" coords="830,134,750,134,750,128,830,129"/>
+<area shape="rect" id="Node000008" href="$d5/d7d/class_clipper_lib_1_1_clipper_offset.html#a0cd68e3690072f510924a5b25291043b" title=" " alt="" coords="1006,55,1170,96"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="933,124,1009,98,1010,104,935,129"/>
+<area shape="rect" id="Node000012" href="$d5/d7d/class_clipper_lib_1_1_clipper_offset.html#ab444433587b6a3f6c89655938d889c7d" title=" " alt="" coords="1006,121,1170,161"/>
+<area shape="poly" id="edge9_Node000007_Node000012" title=" " alt="" coords="954,137,991,138,991,143,954,143"/>
+<area shape="rect" id="Node000013" href="$d5/d7d/class_clipper_lib_1_1_clipper_offset.html#ac591b25e483a52c99c3190a256ad4589" title=" " alt="" coords="1006,186,1170,227"/>
+<area shape="poly" id="edge10_Node000007_Node000013" title=" " alt="" coords="933,150,1013,178,1012,183,931,156"/>
+<area shape="rect" id="Node000028" href="$de/d37/namespace_clipper_lib.html#a806a3d33d76bb9d4479d384f876ce8bd" title=" " alt="" coords="1013,251,1163,276"/>
+<area shape="poly" id="edge12_Node000007_Node000028" title=" " alt="" coords="942,151,960,161,976,181,984,200,992,218,1008,236,1016,241,1013,246,1004,240,987,221,979,202,972,184,956,166,939,155"/>
+<area shape="rect" id="Node000032" href="$d2/d5a/struct_slic3r_1_1_repaired_mesh_errors.html#a816ef951f3bcc0203debea4dde90757f" title=" " alt="" coords="596,177,778,217"/>
+<area shape="poly" id="edge15_Node000031_Node000032" title=" " alt="" coords="549,177,582,181,581,186,548,182"/>
+</map>

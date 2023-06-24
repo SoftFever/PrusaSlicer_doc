@@ -1,0 +1,10 @@
+<map id="Slic3r::FFFTreeSupport::TreeModelVolumes::ceilRadius" name="Slic3r::FFFTreeSupport::TreeModelVolumes::ceilRadius">
+<area shape="rect" id="Node000001" title="Round radius upwards to either a multiple of m_radius_sample_resolution or a exponentially increasing..." alt="" coords="467,46,677,87"/>
+<area shape="poly" id="edge1_Node000001_Node000001" title=" " alt="" coords="615,33,599,27,572,25,548,27,532,32,527,37,529,45,524,46,522,36,530,27,546,21,572,20,600,22,617,29"/>
+<area shape="rect" id="Node000002" href="$d6/d18/class_slic3r_1_1_f_f_f_tree_support_1_1_tree_model_volumes.html#a3d1ab1532a772926fcbb02fbc5f78895" title="Round radius upwards to the maximum that would still round up to the same value as the provided one." alt="" coords="211,5,419,61"/>
+<area shape="poly" id="edge2_Node000001_Node000002" title=" " alt="" coords="452,54,419,49,420,44,453,48"/>
+<area shape="rect" id="Node000003" href="$dd/df4/namespace_slic3r_1_1_f_f_f_tree_support.html#a0931050cec7937180b5b2cb962c64fde" title="Checks if an influence area contains a valid subsection and returns the corresponding metadata and th..." alt="" coords="5,46,163,87"/>
+<area shape="poly" id="edge5_Node000001_Node000003" title=" " alt="" coords="453,75,419,76,211,76,163,74,163,69,211,71,419,71,452,70"/>
+<area shape="poly" id="edge3_Node000002_Node000003" title=" " alt="" coords="196,53,163,58,163,53,195,48"/>
+<area shape="poly" id="edge4_Node000003_Node000003" title=" " alt="" coords="122,33,108,27,84,25,62,27,49,31,44,37,46,45,41,46,38,36,46,27,61,22,84,20,110,22,124,29"/>
+</map>

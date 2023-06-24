@@ -1,0 +1,36 @@
+var semver_8h =
+[
+    [ "semver_version_s", "db/d53/semver_8h.html#dc/d1e/structsemver__version__s", [
+      [ "major", "db/d53/semver_8h.html#a65bb6e4f8988da200423fe6b6eee04d1", null ],
+      [ "metadata", "db/d53/semver_8h.html#ac97c2860f5d85a6326ce61891afd175b", null ],
+      [ "minor", "db/d53/semver_8h.html#a260f8c012dec9e844812e1379aaa9bef", null ],
+      [ "patch", "db/d53/semver_8h.html#a6472aa797e2b02bc6a8a741ea540c1b7", null ],
+      [ "prerelease", "db/d53/semver_8h.html#aead1dfb24bb0b75a27b1e22213b2e607", null ]
+    ] ],
+    [ "SEMVER_VERSION", "db/d53/semver_8h.html#a668be96ea3d45b4055b6db6474c7fe09", null ],
+    [ "semver_t", "db/d53/semver_8h.html#a3004c9678356945cfe759227bde797ab", null ],
+    [ "semver_bump", "db/d53/semver_8h.html#aae402da0c9ca24270c661138a63c918d", null ],
+    [ "semver_bump_minor", "db/d53/semver_8h.html#a1158db63898daac1d7177215d06b8a6d", null ],
+    [ "semver_bump_patch", "db/d53/semver_8h.html#aaea7d4a65930a03be8b4bdd6342770de", null ],
+    [ "semver_clean", "db/d53/semver_8h.html#a63dae8875abe6cb10eae9c357e37c049", null ],
+    [ "semver_compare", "db/d53/semver_8h.html#aeecd865b1ea4876f3750b40d10bd4a8d", null ],
+    [ "semver_compare_prerelease", "db/d53/semver_8h.html#a2c6bc358cd1fae4314a6ca46992fec52", null ],
+    [ "semver_compare_version", "db/d53/semver_8h.html#af4e2e871294bef703918fc6861e75dc0", null ],
+    [ "semver_copy", "db/d53/semver_8h.html#aadd9a055b38dc2dcada5a7d25f6ebf98", null ],
+    [ "semver_eq", "db/d53/semver_8h.html#af162b8f15cb0d1d1a9ef1ae37318e264", null ],
+    [ "semver_free", "db/d53/semver_8h.html#aeef088bf9dba5b199b5e55797ea8632d", null ],
+    [ "semver_gt", "db/d53/semver_8h.html#a620cc05e6f53c920e6dcffb0672663ee", null ],
+    [ "semver_gte", "db/d53/semver_8h.html#a00882221920b39e89595a3e87d181020", null ],
+    [ "semver_is_valid", "db/d53/semver_8h.html#af51e4d44eaed8ca445066fcd7566a904", null ],
+    [ "semver_lt", "db/d53/semver_8h.html#a0bd7633886d80db4ae6cdc763bee7749", null ],
+    [ "semver_lte", "db/d53/semver_8h.html#aa8e50d895d3581c925789dba21f0b377", null ],
+    [ "semver_neq", "db/d53/semver_8h.html#a342e82be31934aacee0630a740ceab0d", null ],
+    [ "semver_numeric", "db/d53/semver_8h.html#a8f6e4111653a05a8304e4fa30ec0bbf4", null ],
+    [ "semver_parse", "db/d53/semver_8h.html#aa1c87a7a540706ba01c7a7250d4f1282", null ],
+    [ "semver_parse_version", "db/d53/semver_8h.html#a6e2fd372beab3136c14898023356d334", null ],
+    [ "semver_render", "db/d53/semver_8h.html#a274b6a08ead23c999c60cebf95fd2499", null ],
+    [ "semver_satisfies", "db/d53/semver_8h.html#a9b6d08a5069ee9ec60f508ca5ce45972", null ],
+    [ "semver_satisfies_caret", "db/d53/semver_8h.html#a8f7aacf404bef5d0ac9151d7c9a7a825", null ],
+    [ "semver_satisfies_patch", "db/d53/semver_8h.html#aa7a84194468b8b5abadd2bc97867878b", null ],
+    [ "semver_strdup", "db/d53/semver_8h.html#a0aac35c228a294b855f5d2de46574287", null ]
+];

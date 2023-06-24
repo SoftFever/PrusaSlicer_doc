@@ -1,0 +1,38 @@
+var hidapi_8h =
+[
+    [ "hid_device_info", "dc/dd0/hidapi_8h.html#d9/d11/structhid__device__info", [
+      [ "interface_number", "dc/dd0/hidapi_8h.html#a9163d8d5d7db8dc47bddfaf876e17547", null ],
+      [ "manufacturer_string", "dc/dd0/hidapi_8h.html#a484eebf746220cd2910954cc861759b7", null ],
+      [ "next", "dc/dd0/hidapi_8h.html#a2bfebc240baf3bdaf03965816e11f149", null ],
+      [ "path", "dc/dd0/hidapi_8h.html#a6384b5bf4d9583598e5f5a889f240921", null ],
+      [ "product_id", "dc/dd0/hidapi_8h.html#a04595915457b4374492edb1fdb62d65d", null ],
+      [ "product_string", "dc/dd0/hidapi_8h.html#aceee256b4f7cd7fdd9fa5d556f49d221", null ],
+      [ "release_number", "dc/dd0/hidapi_8h.html#a6a832d25260f7ec17ef008e53e50e1d0", null ],
+      [ "serial_number", "dc/dd0/hidapi_8h.html#a80756cea367e1566f966438984b75faf", null ],
+      [ "usage", "dc/dd0/hidapi_8h.html#a47f8011d58bcddd67f1403d6d3b4cab6", null ],
+      [ "usage_page", "dc/dd0/hidapi_8h.html#ab811117f8084ce2036815bdd33b16b3b", null ],
+      [ "vendor_id", "dc/dd0/hidapi_8h.html#a5037a3914e0bd8a3f821d1be9376c709", null ]
+    ] ],
+    [ "HID_API_CALL", "dc/dd0/hidapi_8h.html#af140a25716604e86096670a505a58ee0", null ],
+    [ "HID_API_EXPORT", "dc/dd0/hidapi_8h.html#aa60150016800ccb88fdf140e8553ae13", null ],
+    [ "HID_API_EXPORT_CALL", "dc/dd0/hidapi_8h.html#a70c49eda5025c1bc455af77da19ca312", null ],
+    [ "hid_device", "dc/dd0/hidapi_8h.html#aa6da74d5686d198dd3e5440e60088fcc", null ],
+    [ "hid_close", "d4/dc7/group___a_p_i.html#ga8d478a5986439ffb838fb1f1ba6ba5ec", null ],
+    [ "hid_enumerate", "d4/dc7/group___a_p_i.html#gaae7d1c3e90835556ddc73fabe3a9ca9d", null ],
+    [ "hid_error", "d4/dc7/group___a_p_i.html#gabdb1e88a803bab198333a3c5f131b12e", null ],
+    [ "hid_exit", "d4/dc7/group___a_p_i.html#gacf5da9ce37132eba69fc259f17f13023", null ],
+    [ "hid_free_enumeration", "d4/dc7/group___a_p_i.html#gafc2d2adf71db3784b783b9a554527aa4", null ],
+    [ "hid_get_feature_report", "d4/dc7/group___a_p_i.html#gaa537a4b3c49d638c6ec9dedc08c44601", null ],
+    [ "hid_get_indexed_string", "d4/dc7/group___a_p_i.html#ga18546669554746d0f292ca5e23372e06", null ],
+    [ "hid_get_manufacturer_string", "d4/dc7/group___a_p_i.html#ga702f45b42d85599eedd602c05661fde5", null ],
+    [ "hid_get_product_string", "d4/dc7/group___a_p_i.html#ga648feb765c5e0da3e821ee84aeab9d99", null ],
+    [ "hid_get_serial_number_string", "d4/dc7/group___a_p_i.html#ga3442db3ece59fe248b0625a4c8fca617", null ],
+    [ "hid_init", "d4/dc7/group___a_p_i.html#ga142ffc1b0b7a7fa412d3862b2a17164b", null ],
+    [ "hid_open", "d4/dc7/group___a_p_i.html#ga6946f7e2f5d225d69308611db1e31ede", null ],
+    [ "hid_open_path", "d4/dc7/group___a_p_i.html#ga954ecb58b5dfb4a6ef6be3dcd520e42f", null ],
+    [ "hid_read", "d4/dc7/group___a_p_i.html#ga2224269e8cd7c789f9fd4864a73f8c95", null ],
+    [ "hid_read_timeout", "d4/dc7/group___a_p_i.html#gaa5c9ed5aa290688ffac03343989ad75a", null ],
+    [ "hid_send_feature_report", "d4/dc7/group___a_p_i.html#gae99a9ddbb5d9b03fddf40fb4a492cbec", null ],
+    [ "hid_set_nonblocking", "d4/dc7/group___a_p_i.html#ga0e9af0d8ed72f5610e9297c90b08e242", null ],
+    [ "hid_write", "d4/dc7/group___a_p_i.html#gaa691d2c469b9654128196bf7ef8edd9d", null ]
+];

@@ -1,0 +1,22 @@
+<map id="Slic3r::GUI::RaycastManager::AllowVolumes::skip" name="Slic3r::GUI::RaycastManager::AllowVolumes::skip">
+<area shape="rect" id="Node000001" title="Condition to not process model volume." alt="" coords="890,39,1083,79"/>
+<area shape="rect" id="Node000002" href="$d9/d45/namespace_slic3r_1_1_g_u_i.html#a59297dd0fb9596cef1f6f3b2e2f334ab" title="Use scene Raycasters and prepare data for actualize RaycasterManager." alt="" coords="711,39,842,79"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="875,62,842,62,842,56,875,56"/>
+<area shape="rect" id="Node000003" href="$d9/d45/namespace_slic3r_1_1_g_u_i.html#aa6f05fa3968ab4640a169feb305cf01f" title="Mouse event handler, when move(drag&amp;drop) volume over model surface NOTE: Dragged volume has to be se..." alt="" coords="504,5,658,46"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="696,48,658,41,659,36,697,43"/>
+<area shape="rect" id="Node000006" href="$dc/db2/namespacepriv.html#aac311686267e18e74a8b0f6a71004968" title="Start job for add new volume on surface of object defined by screen coor." alt="" coords="498,71,663,111"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="697,75,664,80,663,75,696,69"/>
+<area shape="rect" id="Node000004" href="$dd/df1/class_slic3r_1_1_g_u_i_1_1_g_l_gizmo_emboss.html#a314b6054822747e4007fb66ba117fe9b" title=" " alt="" coords="253,5,450,46"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="489,28,450,28,450,23,489,23"/>
+<area shape="rect" id="Node000005" href="$dd/df1/class_slic3r_1_1_g_u_i_1_1_g_l_gizmo_emboss.html#acac6ee7c40ce0415d7a14394ab672ea0" title="Rotate by text on dragging rotate grabers." alt="" coords="6,5,204,46"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="238,28,204,28,204,23,238,23"/>
+<area shape="rect" id="Node000007" href="$dd/df1/class_slic3r_1_1_g_u_i_1_1_g_l_gizmo_emboss.html#ae6b979894dbc29d468f7aa7e177ea59c" title="Create new text without given position." alt="" coords="253,71,450,111"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="483,94,451,94,451,88,483,88"/>
+<area shape="rect" id="Node000008" href="$dd/df1/class_slic3r_1_1_g_u_i_1_1_g_l_gizmo_emboss.html#a1a7e40d8281af588c9e35726ef652f82" title="Create new embossed text volume by type on position of mouse." alt="" coords="253,160,450,201"/>
+<area shape="poly" id="edge7_Node000006_Node000008" title=" " alt="" coords="514,120,407,162,405,157,512,115"/>
+<area shape="poly" id="edge9_Node000008_Node000008" title=" " alt="" coords="389,147,375,141,351,139,329,141,316,145,311,151,313,159,308,160,306,150,313,141,328,135,351,133,377,136,391,142"/>
+<area shape="rect" id="Node000009" href="$de/de3/class_slic3r_1_1_g_u_i_1_1_menu_factory.html#abfabe5605b2e41ecced931f7959daac5" title=" " alt="" coords="5,127,205,167"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="238,168,205,163,206,158,238,162"/>
+<area shape="rect" id="Node000010" href="$dd/df1/class_slic3r_1_1_g_u_i_1_1_g_l_gizmo_emboss.html#abfa868a330921a95a417bea1fe3f9120" title="Handle pressing of shortcut." alt="" coords="6,192,204,233"/>
+<area shape="poly" id="edge10_Node000008_Node000010" title=" " alt="" coords="238,198,204,202,204,197,238,192"/>
+</map>

@@ -1,0 +1,38 @@
+var classigl_1_1geodesic_1_1_interval =
+[
+    [ "DirectionType", "db/dd0/classigl_1_1geodesic_1_1_interval.html#ae5bb0f8bb1219cbb3b1c283d9a9cd75c", [
+      [ "FROM_FACE_0", "db/dd0/classigl_1_1geodesic_1_1_interval.html#ae5bb0f8bb1219cbb3b1c283d9a9cd75ca3fbea02f4026fefa9c776f4b2d29054c", null ],
+      [ "FROM_FACE_1", "db/dd0/classigl_1_1geodesic_1_1_interval.html#ae5bb0f8bb1219cbb3b1c283d9a9cd75ca1605bbb78a9658dfd179525544b11803", null ],
+      [ "FROM_SOURCE", "db/dd0/classigl_1_1geodesic_1_1_interval.html#ae5bb0f8bb1219cbb3b1c283d9a9cd75ca43dd6c0926f6154e3328550e7263d805", null ],
+      [ "UNDEFINED_DIRECTION", "db/dd0/classigl_1_1geodesic_1_1_interval.html#ae5bb0f8bb1219cbb3b1c283d9a9cd75ca29a4900ee21a83660b2711e25ff41f49", null ]
+    ] ],
+    [ "Interval", "db/dd0/classigl_1_1geodesic_1_1_interval.html#a31a238af7308ca93eec69c0a3728f533", null ],
+    [ "~Interval", "db/dd0/classigl_1_1geodesic_1_1_interval.html#a56104609dceca1df744a6c37f1307b44", null ],
+    [ "compute_min_distance", "db/dd0/classigl_1_1geodesic_1_1_interval.html#aa379988d3eddc1c7708323ae3c6e5729", null ],
+    [ "d", "db/dd0/classigl_1_1geodesic_1_1_interval.html#affb6db0dace301a5cde2687275ad22ef", null ],
+    [ "direction", "db/dd0/classigl_1_1geodesic_1_1_interval.html#a5abe0ce656e4576d55484df11c600e39", null ],
+    [ "edge", "db/dd0/classigl_1_1geodesic_1_1_interval.html#a7e6d52a76e18c276a500957a431fa45c", null ],
+    [ "find_closest_point", "db/dd0/classigl_1_1geodesic_1_1_interval.html#a5baac54fac2c4b45f3f842c3c163e9f7", null ],
+    [ "hypotenuse", "db/dd0/classigl_1_1geodesic_1_1_interval.html#af14fda648a6318a370df99d1f5c93060", null ],
+    [ "initialize", "db/dd0/classigl_1_1geodesic_1_1_interval.html#ad7826ce6b63c290d11c5210446b093e0", null ],
+    [ "max_distance", "db/dd0/classigl_1_1geodesic_1_1_interval.html#a50c94a70119d8a74d024442c25242b33", null ],
+    [ "min", "db/dd0/classigl_1_1geodesic_1_1_interval.html#a586e7f02339ba729534b599c001376b1", null ],
+    [ "next", "db/dd0/classigl_1_1geodesic_1_1_interval.html#a1216c3c231a6b3cb3895e7d8f73fab74", null ],
+    [ "operator()", "db/dd0/classigl_1_1geodesic_1_1_interval.html#a84aed89e17f094a6c99b59e0d206e92b", null ],
+    [ "pseudo_x", "db/dd0/classigl_1_1geodesic_1_1_interval.html#afa8585c8b6c1dad26b46fa9c7d10ef1e", null ],
+    [ "pseudo_y", "db/dd0/classigl_1_1geodesic_1_1_interval.html#adb301910e9132df24543de6dee6d9d08", null ],
+    [ "signal", "db/dd0/classigl_1_1geodesic_1_1_interval.html#adff302458d384ff7b0bab602bc8647a6", null ],
+    [ "source_index", "db/dd0/classigl_1_1geodesic_1_1_interval.html#a11fc67ed059bdf86a97ac8e6fea0df37", null ],
+    [ "start", "db/dd0/classigl_1_1geodesic_1_1_interval.html#a5fd99aa75c32d4b00b41c482069b3a2b", null ],
+    [ "stop", "db/dd0/classigl_1_1geodesic_1_1_interval.html#abc0449e5facd25e418b99148a889b869", null ],
+    [ "visible_from_source", "db/dd0/classigl_1_1geodesic_1_1_interval.html#a3bd50e12ff40e242db53207db0631e91", null ],
+    [ "m_d", "db/dd0/classigl_1_1geodesic_1_1_interval.html#a6bcf912948d8eb42505a229810688bce", null ],
+    [ "m_direction", "db/dd0/classigl_1_1geodesic_1_1_interval.html#a725e49e42154b563f88efb936d0a4cfa", null ],
+    [ "m_edge", "db/dd0/classigl_1_1geodesic_1_1_interval.html#aa84c2a5d9756551230e245dab3561e8c", null ],
+    [ "m_min", "db/dd0/classigl_1_1geodesic_1_1_interval.html#a859c43c8bd36e2702fce45b35349efc5", null ],
+    [ "m_next", "db/dd0/classigl_1_1geodesic_1_1_interval.html#ae6f253e6f21aa01042845b552b3e7de5", null ],
+    [ "m_pseudo_x", "db/dd0/classigl_1_1geodesic_1_1_interval.html#a0b9966c703f8179f6cc8e2aaab85508f", null ],
+    [ "m_pseudo_y", "db/dd0/classigl_1_1geodesic_1_1_interval.html#adc49845d014bf3ec20c3bd7700f98c36", null ],
+    [ "m_source_index", "db/dd0/classigl_1_1geodesic_1_1_interval.html#a8246183e675327956f1762a1b427adda", null ],
+    [ "m_start", "db/dd0/classigl_1_1geodesic_1_1_interval.html#ac6f30b5679ba1453c6aaaae75adc9ea6", null ]
+];

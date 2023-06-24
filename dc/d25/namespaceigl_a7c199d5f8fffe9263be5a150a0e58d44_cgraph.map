@@ -1,0 +1,64 @@
+<map id="igl::arap_dof_recomputation" name="igl::arap_dof_recomputation">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,169,187,195"/>
+<area shape="rect" id="Node000002" href="$dc/dfe/class_eigen_1_1_sparse_matrix.html#aa391750e3c530227e4a5c3c52e959975" title=" " alt="" coords="241,5,380,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="107,167,159,114,195,84,233,55,241,51,243,56,236,60,198,88,163,118,111,170"/>
+<area shape="rect" id="Node000003" href="$dc/d25/namespaceigl.html#a047ac1e5af291ba9be93bd84ca8fab34" title=" " alt="" coords="243,70,378,96"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="118,166,170,136,234,105,249,99,250,104,236,109,172,141,120,171"/>
+<area shape="rect" id="Node000004" href="$dc/d25/namespaceigl.html#afdc1a151e61b668e941902cc9d7a71b4" title=" " alt="" coords="238,120,383,145"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="155,166,237,146,238,152,156,171"/>
+<area shape="rect" id="Node000005" href="$dc/d25/namespaceigl.html#a411ad5b78517557c74c98af292e22eaf" title=" " alt="" coords="235,169,386,195"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="187,179,220,179,220,184,187,184"/>
+<area shape="rect" id="Node000007" href="$dc/d25/namespaceigl.html#a68f719cac137bfab1fb20eb814b95ea8" title=" " alt="" coords="250,218,371,244"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="156,193,238,212,237,217,155,198"/>
+<area shape="rect" id="Node000008" href="$dc/d25/namespaceigl.html#a7ca4f117b5802a6cc85eab33b797b04e" title=" " alt="" coords="240,268,381,309"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="122,193,236,254,247,259,244,264,233,259,119,197"/>
+<area shape="rect" id="Node000030" href="$dc/dfe/class_eigen_1_1_sparse_matrix.html#a62e61bb861eee306d5b069ce652b5aa5" title=" " alt="" coords="241,333,380,374"/>
+<area shape="poly" id="edge32_Node000001_Node000030" title=" " alt="" coords="110,193,161,252,197,287,236,318,244,323,241,328,233,322,193,291,157,256,106,197"/>
+<area shape="rect" id="Node000006" href="$dc/d25/namespaceigl.html#a95338e3b66e35aa975fc628e76bd05d4" title=" " alt="" coords="469,74,585,100"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="363,166,385,155,399,144,408,132,417,120,433,109,454,99,456,104,435,113,421,124,412,136,403,148,387,160,365,171"/>
+<area shape="rect" id="Node000009" href="$da/d8d/class_eigen_1_1_plain_object_base.html#a10b8b33b7587da564415561aa246f78f" title=" " alt="" coords="683,173,842,214"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="381,303,435,311,497,314,560,308,590,300,619,289,635,277,643,263,652,246,667,230,685,219,687,223,670,234,656,249,648,265,639,280,622,293,592,305,561,313,497,319,435,316,381,308"/>
+<area shape="rect" id="Node000011" href="$d3/d97/class_eigen_1_1_jacobi_s_v_d.html#a5dab376cc86cf0d36674bcdad4af3f5a" title="Method performing the decomposition of given matrix using custom options." alt="" coords="434,354,620,380"/>
+<area shape="poly" id="edge10_Node000008_Node000011" title=" " alt="" coords="366,307,435,332,474,346,472,351,433,338,364,312"/>
+<area shape="rect" id="Node000023" href="$d0/d50/class_eigen_1_1_s_v_d_base.html#accbc8e3f9baab3a57a6eba8e4cc3ea27" title=" " alt="" coords="440,476,614,501"/>
+<area shape="poly" id="edge24_Node000008_Node000023" title=" " alt="" coords="372,307,388,320,401,337,408,355,412,388,417,420,423,436,436,452,456,467,453,471,432,456,419,438,411,421,407,389,403,356,396,340,384,324,369,311"/>
+<area shape="rect" id="Node000025" href="$d0/d50/class_eigen_1_1_s_v_d_base.html#af09f06357d7d7442f7ca7343713756fe" title=" " alt="" coords="441,124,614,149"/>
+<area shape="poly" id="edge26_Node000008_Node000025" title=" " alt="" coords="369,265,384,254,400,231,407,207,414,183,432,160,439,154,443,159,436,164,418,186,412,209,405,233,388,258,372,270"/>
+<area shape="rect" id="Node000027" href="$da/d8d/class_eigen_1_1_plain_object_base.html#aba7a925ce36c08ba2a08c90086f34718" title=" " alt="" coords="683,432,842,473"/>
+<area shape="poly" id="edge28_Node000008_Node000027" title=" " alt="" coords="369,307,388,320,404,339,411,357,419,374,436,390,491,418,551,436,612,447,668,451,668,457,611,452,550,442,489,423,432,395,415,378,407,359,399,341,384,324,366,312"/>
+<area shape="rect" id="Node000028" href="$da/d8d/class_eigen_1_1_plain_object_base.html#ac21ad5f989f320e46958b75ac8d9a1da" title=" " alt="" coords="448,173,607,214"/>
+<area shape="poly" id="edge30_Node000008_Node000028" title=" " alt="" coords="362,265,385,254,433,225,448,218,451,222,435,229,387,259,364,270"/>
+<area shape="rect" id="Node000029" href="$d0/d50/class_eigen_1_1_s_v_d_base.html#ac44c307a70731003003faf3a9bdf14f6" title=" " alt="" coords="441,239,614,279"/>
+<area shape="poly" id="edge31_Node000008_Node000029" title=" " alt="" coords="380,276,425,270,426,275,381,282"/>
+<area shape="rect" id="Node000010" href="$d5/d91/class_eigen_1_1_dense_storage.html#aef23781f9dc545e8b3f6b75d6c05d777" title=" " alt="" coords="1119,317,1264,358"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="842,172,895,164,953,162,1013,169,1070,189,1089,202,1099,217,1107,234,1119,253,1163,304,1159,308,1115,257,1102,237,1094,220,1085,206,1068,193,1012,174,953,168,895,170,843,177"/>
+<area shape="rect" id="Node000012" href="$d7/dc9/namespace_eigen_1_1internal.html#a6c2651dd28bd9227267e66aaca20330e" title=" " alt="" coords="696,317,829,358"/>
+<area shape="poly" id="edge11_Node000011_Node000012" title=" " alt="" coords="620,353,680,345,681,350,621,358"/>
+<area shape="rect" id="Node000020" href="$d4/dcb/class_eigen_1_1_jacobi_rotation.html#ab40e9cdc4582593511e57ee896e055a2" title=" " alt="" coords="912,203,1062,243"/>
+<area shape="poly" id="edge23_Node000011_Node000020" title=" " alt="" coords="554,351,606,327,667,303,787,267,897,239,899,244,788,272,669,308,608,332,556,356"/>
+<area shape="rect" id="Node000022" href="$d6/dba/_wipe_tower_dialog_8cpp.html#a031c2862b832be718b216d1f101f88cd" title=" " alt="" coords="736,382,789,408"/>
+<area shape="poly" id="edge22_Node000011_Node000022" title=" " alt="" coords="621,375,722,388,721,393,620,381"/>
+<area shape="rect" id="Node000013" href="$d4/dcb/class_eigen_1_1_jacobi_rotation.html#a80c1093ffb0f0d595796c8dcb1c2176e" title=" " alt="" coords="905,268,1069,293"/>
+<area shape="poly" id="edge12_Node000012_Node000013" title=" " alt="" coords="829,318,919,295,920,300,830,323"/>
+<area shape="rect" id="Node000014" href="$da/d8d/class_eigen_1_1_plain_object_base.html#aa5a84a35bf7dc5c42abf4a3e9fde222c" title=" " alt="" coords="907,432,1067,473"/>
+<area shape="poly" id="edge13_Node000012_Node000014" title=" " alt="" coords="831,353,858,367,874,380,883,393,892,406,906,418,913,423,910,427,903,422,888,409,879,396,870,384,855,372,828,358"/>
+<area shape="rect" id="Node000017" href="$d4/dcb/class_eigen_1_1_jacobi_rotation.html#a69076401f22e883dc76b6ff9074ac669" title=" " alt="" coords="912,317,1062,358"/>
+<area shape="poly" id="edge17_Node000012_Node000017" title=" " alt="" coords="830,335,897,335,897,340,830,340"/>
+<area shape="rect" id="Node000018" href="$d4/dcb/class_eigen_1_1_jacobi_rotation.html#a4d6694475f3ee8f34795c4a8042d987f" title=" " alt="" coords="905,382,1069,408"/>
+<area shape="poly" id="edge18_Node000012_Node000018" title=" " alt="" coords="830,352,920,375,919,381,829,357"/>
+<area shape="rect" id="Node000019" href="$d4/df0/_array_cwise_unary_ops_8h.html#a656b9217a2fcb6de59dc8d1eb3079cc7" title=" " alt="" coords="965,497,1009,523"/>
+<area shape="poly" id="edge19_Node000012_Node000019" title=" " alt="" coords="831,350,858,368,871,382,878,397,883,427,888,455,895,469,906,482,928,496,952,503,950,508,925,500,903,486,890,472,883,457,878,428,873,399,866,385,855,372,828,355"/>
+<area shape="poly" id="edge20_Node000012_Node000020" title=" " alt="" coords="795,315,845,284,903,253,915,247,917,252,906,257,848,289,797,319"/>
+<area shape="poly" id="edge14_Node000014_Node000010" title=" " alt="" coords="1044,429,1068,418,1111,392,1151,365,1154,369,1114,396,1070,423,1047,434"/>
+<area shape="rect" id="Node000015" href="$d5/d91/class_eigen_1_1_dense_storage.html#abdbbeb487a245756ac498d2590e3560a" title=" " alt="" coords="1119,432,1264,473"/>
+<area shape="poly" id="edge15_Node000014_Node000015" title=" " alt="" coords="1067,450,1104,450,1104,455,1067,455"/>
+<area shape="rect" id="Node000016" href="$d5/d91/class_eigen_1_1_dense_storage.html#a14b68f709f5fb46eeebb203266cc29b2" title=" " alt="" coords="1119,519,1264,559"/>
+<area shape="poly" id="edge16_Node000014_Node000016" title=" " alt="" coords="1043,471,1070,482,1134,510,1132,515,1068,487,1041,476"/>
+<area shape="rect" id="Node000021" href="$d4/dcb/class_eigen_1_1_jacobi_rotation.html#a38fec2c4da529ef3d05ff37b848b4227" title=" " alt="" coords="1117,203,1266,243"/>
+<area shape="poly" id="edge21_Node000020_Node000021" title=" " alt="" coords="1062,220,1102,220,1102,226,1062,226"/>
+<area shape="rect" id="Node000024" href="$d0/d50/class_eigen_1_1_s_v_d_base.html#a705a7c2709e1624ccc19aa748a78d473" title=" " alt="" coords="668,497,857,523"/>
+<area shape="poly" id="edge25_Node000023_Node000024" title=" " alt="" coords="615,494,653,497,653,502,614,499"/>
+<area shape="rect" id="Node000026" href="$d0/d50/class_eigen_1_1_s_v_d_base.html#a5f12efcb791eb007d4a4890ac5255ac4" title=" " alt="" coords="669,124,856,149"/>
+<area shape="poly" id="edge27_Node000025_Node000026" title=" " alt="" coords="614,134,654,134,654,139,614,139"/>
+<area shape="poly" id="edge29_Node000027_Node000016" title=" " alt="" coords="837,471,858,482,873,496,882,510,891,522,906,533,955,548,1006,555,1057,556,1104,552,1104,557,1057,561,1006,560,953,553,903,537,887,526,878,513,869,499,855,487,835,476"/>
+</map>

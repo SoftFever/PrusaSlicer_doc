@@ -1,0 +1,38 @@
+var namespace_slic3r_1_1opt_1_1detail =
+[
+    [ "AlgBurteForce", "da/d08/struct_slic3r_1_1opt_1_1detail_1_1_alg_burte_force.html", "da/d08/struct_slic3r_1_1opt_1_1detail_1_1_alg_burte_force" ],
+    [ "AlgFeatures_", "d7/d3f/struct_slic3r_1_1opt_1_1detail_1_1_alg_features__.html", "d7/d3f/struct_slic3r_1_1opt_1_1detail_1_1_alg_features__" ],
+    [ "AlgFeatures_< AlgNLoptAGS >", "d1/d46/struct_slic3r_1_1opt_1_1detail_1_1_alg_features___3_01_alg_n_lopt_a_g_s_01_4.html", "d1/d46/struct_slic3r_1_1opt_1_1detail_1_1_alg_features___3_01_alg_n_lopt_a_g_s_01_4" ],
+    [ "AlgFeatures_< AlgNLoptCobyla >", "d7/d64/struct_slic3r_1_1opt_1_1detail_1_1_alg_features___3_01_alg_n_lopt_cobyla_01_4.html", "d7/d64/struct_slic3r_1_1opt_1_1detail_1_1_alg_features___3_01_alg_n_lopt_cobyla_01_4" ],
+    [ "AlgFeatures_< AlgNLoptISRES >", "d8/d80/struct_slic3r_1_1opt_1_1detail_1_1_alg_features___3_01_alg_n_lopt_i_s_r_e_s_01_4.html", "d8/d80/struct_slic3r_1_1opt_1_1detail_1_1_alg_features___3_01_alg_n_lopt_i_s_r_e_s_01_4" ],
+    [ "AlgFeatures_< AlgNLoptORIG_DIRECT >", "de/d79/struct_slic3r_1_1opt_1_1detail_1_1_alg_features___3_01_alg_n_lopt_o_r_i_g___d_i_r_e_c_t_01_4.html", "de/d79/struct_slic3r_1_1opt_1_1detail_1_1_alg_features___3_01_alg_n_lopt_o_r_i_g___d_i_r_e_c_t_01_4" ],
+    [ "AlgFeatures_< NLoptAUGLAG< M > >", "d8/d0e/struct_slic3r_1_1opt_1_1detail_1_1_alg_features___3_01_n_lopt_a_u_g_l_a_g_3_01_m_01_4_01_4.html", "d8/d0e/struct_slic3r_1_1opt_1_1detail_1_1_alg_features___3_01_n_lopt_a_u_g_l_a_g_3_01_m_01_4_01_4" ],
+    [ "GetNLoptAlg_", "d2/dc3/struct_slic3r_1_1opt_1_1detail_1_1_get_n_lopt_alg__.html", "d2/dc3/struct_slic3r_1_1opt_1_1detail_1_1_get_n_lopt_alg__" ],
+    [ "GetNLoptAlg_< NLoptAlg< a > >", "d1/d76/struct_slic3r_1_1opt_1_1detail_1_1_get_n_lopt_alg___3_01_n_lopt_alg_3_01a_01_4_01_4.html", "d1/d76/struct_slic3r_1_1opt_1_1detail_1_1_get_n_lopt_alg___3_01_n_lopt_alg_3_01a_01_4_01_4" ],
+    [ "GetNLoptAlg_< NLoptAlgComb< g, l > >", "db/d68/struct_slic3r_1_1opt_1_1detail_1_1_get_n_lopt_alg___3_01_n_lopt_alg_comb_3_01g_00_01l_01_4_01_4.html", "db/d68/struct_slic3r_1_1opt_1_1detail_1_1_get_n_lopt_alg___3_01_n_lopt_alg_comb_3_01g_00_01l_01_4_01_4" ],
+    [ "GetNLoptAlg_< NLoptAUGLAG< M > >", "d3/db2/struct_slic3r_1_1opt_1_1detail_1_1_get_n_lopt_alg___3_01_n_lopt_a_u_g_l_a_g_3_01_m_01_4_01_4.html", "d3/db2/struct_slic3r_1_1opt_1_1detail_1_1_get_n_lopt_alg___3_01_n_lopt_a_u_g_l_a_g_3_01_m_01_4_01_4" ],
+    [ "IsNLoptAlg", "d4/d19/struct_slic3r_1_1opt_1_1detail_1_1_is_n_lopt_alg.html", "d4/d19/struct_slic3r_1_1opt_1_1detail_1_1_is_n_lopt_alg" ],
+    [ "IsNLoptAlg< NLoptAlg< a > >", "d3/d39/struct_slic3r_1_1opt_1_1detail_1_1_is_n_lopt_alg_3_01_n_lopt_alg_3_01a_01_4_01_4.html", "d3/d39/struct_slic3r_1_1opt_1_1detail_1_1_is_n_lopt_alg_3_01_n_lopt_alg_3_01a_01_4_01_4" ],
+    [ "IsNLoptAlg< NLoptAlgComb< a1, a2 > >", "db/d45/struct_slic3r_1_1opt_1_1detail_1_1_is_n_lopt_alg_3_01_n_lopt_alg_comb_3_01a1_00_01a2_01_4_01_4.html", "db/d45/struct_slic3r_1_1opt_1_1detail_1_1_is_n_lopt_alg_3_01_n_lopt_alg_comb_3_01a1_00_01a2_01_4_01_4" ],
+    [ "IsNLoptAlg< NLoptAUGLAG< NLoptAlg< a > > >", "d8/dee/struct_slic3r_1_1opt_1_1detail_1_1_is_n_lopt_alg_3_01_n_lopt_a_u_g_l_a_g_3_01_n_lopt_alg_3_01a_01_4_01_4_01_4.html", "d8/dee/struct_slic3r_1_1opt_1_1detail_1_1_is_n_lopt_alg_3_01_n_lopt_a_u_g_l_a_g_3_01_n_lopt_alg_3_01a_01_4_01_4_01_4" ],
+    [ "IsNLoptAlg< NLoptAUGLAG< NLoptAlgComb< a1, a2 > > >", "d7/d89/struct_slic3r_1_1opt_1_1detail_1_1_is_n_lopt_alg_3_01_n_lopt_a_u_g_l_a_g_3_01_n_lopt_alg_comb_3_01a1_00_01a2_01_4_01_4_01_4.html", "d7/d89/struct_slic3r_1_1opt_1_1detail_1_1_is_n_lopt_alg_3_01_n_lopt_a_u_g_l_a_g_3_01_n_lopt_alg_comb_3_01a1_00_01a2_01_4_01_4_01_4" ],
+    [ "NLoptAlg", "da/d20/namespace_slic3r_1_1opt_1_1detail.html#d6/dda/struct_slic3r_1_1opt_1_1detail_1_1_n_lopt_alg", null ],
+    [ "NLoptAlgComb", "da/d20/namespace_slic3r_1_1opt_1_1detail.html#df/d18/struct_slic3r_1_1opt_1_1detail_1_1_n_lopt_alg_comb", null ],
+    [ "NLoptAUGLAG", "da/d20/namespace_slic3r_1_1opt_1_1detail.html#d6/dd3/struct_slic3r_1_1opt_1_1detail_1_1_n_lopt_a_u_g_l_a_g", null ],
+    [ "NLoptOpt", "d5/d06/class_slic3r_1_1opt_1_1detail_1_1_n_lopt_opt.html", "d5/d06/class_slic3r_1_1opt_1_1detail_1_1_n_lopt_opt" ],
+    [ "NLoptRAII", "dd/da8/struct_slic3r_1_1opt_1_1detail_1_1_n_lopt_r_a_i_i.html", "dd/da8/struct_slic3r_1_1opt_1_1detail_1_1_n_lopt_r_a_i_i" ],
+    [ "NLoptOnly", "da/d20/namespace_slic3r_1_1opt_1_1detail.html#a0f877ee817a1995b112a809fbcba8700", null ],
+    [ "OptDir", "da/d20/namespace_slic3r_1_1opt_1_1detail.html#ae70ba3e75e3e248e765c6737b391dcb8", [
+      [ "MIN", "da/d20/namespace_slic3r_1_1opt_1_1detail.html#ae70ba3e75e3e248e765c6737b391dcb8ace31e2a082d17e038fcc6e3006166653", null ],
+      [ "MAX", "da/d20/namespace_slic3r_1_1opt_1_1detail.html#ae70ba3e75e3e248e765c6737b391dcb8a26a4b44a837bf97b972628509912b4a5", null ]
+    ] ],
+    [ "for_each_argument", "da/d20/namespace_slic3r_1_1opt_1_1detail.html#a3b88663dbdba1844c1e3a74f4466f6e2", null ],
+    [ "for_each_in_tuple", "da/d20/namespace_slic3r_1_1opt_1_1detail.html#acbe2e64fb1d47950c3e6914c6a044fa1", null ],
+    [ "num_iter", "da/d20/namespace_slic3r_1_1opt_1_1detail.html#a17b741f5311f4ad136bd04fbacbd9057", null ],
+    [ "to_arr", "da/d20/namespace_slic3r_1_1opt_1_1detail.html#a06dec17b56165d0864c6cbffc106390d", null ],
+    [ "to_arr", "da/d20/namespace_slic3r_1_1opt_1_1detail.html#adbd6142d3a1b60263fed281548b4a998", null ],
+    [ "wrap_tup", "da/d20/namespace_slic3r_1_1opt_1_1detail.html#ac1a4d7991df16747518754c881e6853b", null ],
+    [ "GetNLoptAlg_Global", "da/d20/namespace_slic3r_1_1opt_1_1detail.html#af6c835c5f82840ddeaf5cd14cf4f84d5", null ],
+    [ "GetNLoptAlg_Local", "da/d20/namespace_slic3r_1_1opt_1_1detail.html#adeb516797d31256e1f2bc94e45cf6fc9", null ],
+    [ "IsAUGLAG", "da/d20/namespace_slic3r_1_1opt_1_1detail.html#a7a51b2f4669c9ae5a9df7a9c4e5a5b1f", null ]
+];

@@ -1,0 +1,35 @@
+var class_slic3r_1_1_g_u_i_1_1_removable_drive_manager =
+[
+    [ "RemovableDrivesStatus", "d2/d97/class_slic3r_1_1_g_u_i_1_1_removable_drive_manager.html#d9/d24/struct_slic3r_1_1_g_u_i_1_1_removable_drive_manager_1_1_removable_drives_status", [
+      [ "has_eject", "d2/d97/class_slic3r_1_1_g_u_i_1_1_removable_drive_manager.html#a453147067cbcf2d6951f5c6cf9c9a9e5", null ],
+      [ "has_removable_drives", "d2/d97/class_slic3r_1_1_g_u_i_1_1_removable_drive_manager.html#a6f2815e3b0647a72042b6de413a6bae8", null ]
+    ] ],
+    [ "RemovableDriveManager", "d2/d97/class_slic3r_1_1_g_u_i_1_1_removable_drive_manager.html#af2e989169b0380ab0f86f1dfb179a99d", null ],
+    [ "RemovableDriveManager", "d2/d97/class_slic3r_1_1_g_u_i_1_1_removable_drive_manager.html#a545a76a5f4e707c8c1eeb4632e11b028", null ],
+    [ "~RemovableDriveManager", "d2/d97/class_slic3r_1_1_g_u_i_1_1_removable_drive_manager.html#a2b8b65d5abe77a9969e821acb686d108", null ],
+    [ "eject_drive", "d2/d97/class_slic3r_1_1_g_u_i_1_1_removable_drive_manager.html#a73ef7a0b5b504c83a978d8844ed45307", null ],
+    [ "find_last_save_path_drive_data", "d2/d97/class_slic3r_1_1_g_u_i_1_1_removable_drive_manager.html#abf50d4df878531af7fbeba495556fb0f", null ],
+    [ "get_removable_drive_from_path", "d2/d97/class_slic3r_1_1_g_u_i_1_1_removable_drive_manager.html#ab5590b51c97739761e60660ee25c8b9f", null ],
+    [ "get_removable_drive_path", "d2/d97/class_slic3r_1_1_g_u_i_1_1_removable_drive_manager.html#a4dcd7a27bedd0234011490f8553a5207", null ],
+    [ "init", "d2/d97/class_slic3r_1_1_g_u_i_1_1_removable_drive_manager.html#a6f627c5801b3f802101b13172bd257cc", null ],
+    [ "is_path_on_removable_drive", "d2/d97/class_slic3r_1_1_g_u_i_1_1_removable_drive_manager.html#a91da5beb8b4888c5398e9117d6f063c8", null ],
+    [ "operator=", "d2/d97/class_slic3r_1_1_g_u_i_1_1_removable_drive_manager.html#a04309fb243c821b16d3d9e8837cc1e93", null ],
+    [ "search_for_removable_drives", "d2/d97/class_slic3r_1_1_g_u_i_1_1_removable_drive_manager.html#a531e5f811753de0e2ba18b3658235a7e", null ],
+    [ "set_and_verify_last_save_path", "d2/d97/class_slic3r_1_1_g_u_i_1_1_removable_drive_manager.html#a7fb9e4ab6dfb83c53eaf4cd516ffd7da", null ],
+    [ "set_exporting_finished", "d2/d97/class_slic3r_1_1_g_u_i_1_1_removable_drive_manager.html#a055212d8a36f8b48a389279d21ef2d14", null ],
+    [ "shutdown", "d2/d97/class_slic3r_1_1_g_u_i_1_1_removable_drive_manager.html#a4895d0521502686264c24ab8289e57f7", null ],
+    [ "status", "d2/d97/class_slic3r_1_1_g_u_i_1_1_removable_drive_manager.html#a4b663da281c0eb5c8a8521fd3d324aa7", null ],
+    [ "thread_proc", "d2/d97/class_slic3r_1_1_g_u_i_1_1_removable_drive_manager.html#a0e3f015b23aca83d30a3d62799e2b720", null ],
+    [ "update", "d2/d97/class_slic3r_1_1_g_u_i_1_1_removable_drive_manager.html#a2ea4255fd1a093c6d81b7f2f6b706e1c", null ],
+    [ "m_callback_evt_handler", "d2/d97/class_slic3r_1_1_g_u_i_1_1_removable_drive_manager.html#abcf9ab879cae74121262166974550c51", null ],
+    [ "m_current_drives", "d2/d97/class_slic3r_1_1_g_u_i_1_1_removable_drive_manager.html#a1455c738e123af2e5cff577b3e2dc219", null ],
+    [ "m_drives_mutex", "d2/d97/class_slic3r_1_1_g_u_i_1_1_removable_drive_manager.html#a82e54d36d58777b6d9e9b1b89b517f10", null ],
+    [ "m_exporting_finished", "d2/d97/class_slic3r_1_1_g_u_i_1_1_removable_drive_manager.html#a2671e1b0ed024128025f8e2f77a798cb", null ],
+    [ "m_initialized", "d2/d97/class_slic3r_1_1_g_u_i_1_1_removable_drive_manager.html#ac5aa293813bcd8fcbd2835fffeaff134", null ],
+    [ "m_inside_update_mutex", "d2/d97/class_slic3r_1_1_g_u_i_1_1_removable_drive_manager.html#aa2b05bbf1490f9dc95809e88994a9ac6", null ],
+    [ "m_last_save_path", "d2/d97/class_slic3r_1_1_g_u_i_1_1_removable_drive_manager.html#adf46aaa1b7aa5f2669b6e3efdb718da9", null ],
+    [ "m_stop", "d2/d97/class_slic3r_1_1_g_u_i_1_1_removable_drive_manager.html#ad2992397d6abce5b81dc693d1a7b4b32", null ],
+    [ "m_thread", "d2/d97/class_slic3r_1_1_g_u_i_1_1_removable_drive_manager.html#ad172ff9cad9a57ec022d72bb03c2c2f9", null ],
+    [ "m_thread_stop_condition", "d2/d97/class_slic3r_1_1_g_u_i_1_1_removable_drive_manager.html#a4037557885a9931cf8c450b249d35938", null ],
+    [ "m_thread_stop_mutex", "d2/d97/class_slic3r_1_1_g_u_i_1_1_removable_drive_manager.html#ac89d34f521e8bb99f3a5e47f24905c51", null ]
+];

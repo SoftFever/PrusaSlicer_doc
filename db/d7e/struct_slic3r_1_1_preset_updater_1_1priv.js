@@ -1,0 +1,27 @@
+var struct_slic3r_1_1_preset_updater_1_1priv =
+[
+    [ "priv", "db/d7e/struct_slic3r_1_1_preset_updater_1_1priv.html#a1857cb07beae11319533c7e780a6495e", null ],
+    [ "check_install_indices", "db/d7e/struct_slic3r_1_1_preset_updater_1_1priv.html#abee9a20630ab3cf5873911138c954ead", null ],
+    [ "get_config_updates", "db/d7e/struct_slic3r_1_1_preset_updater_1_1priv.html#aff1209280aef6cb26f85a010a51f39f7", null ],
+    [ "get_file", "db/d7e/struct_slic3r_1_1_preset_updater_1_1priv.html#a941e7a6e74d0bcf93b9c2bb05dbd09c0", null ],
+    [ "get_missing_resource", "db/d7e/struct_slic3r_1_1_preset_updater_1_1priv.html#af7e4467777ab333009919e967a9eafaf", null ],
+    [ "get_or_copy_missing_resource", "db/d7e/struct_slic3r_1_1_preset_updater_1_1priv.html#aa0ab86b21916933d5126eb64004f18b0", null ],
+    [ "perform_updates", "db/d7e/struct_slic3r_1_1_preset_updater_1_1priv.html#ae18f7e65fd6a305f1afcec993c6e2c90", null ],
+    [ "prune_tmps", "db/d7e/struct_slic3r_1_1_preset_updater_1_1priv.html#a4940e42de9639ab2aa228b35ebb63c81", null ],
+    [ "set_download_prefs", "db/d7e/struct_slic3r_1_1_preset_updater_1_1priv.html#a8a6d635e3779366bb0563631d0a0006b", null ],
+    [ "set_waiting_updates", "db/d7e/struct_slic3r_1_1_preset_updater_1_1priv.html#aece548bbddd5962dc71aa5057a0a32ad", null ],
+    [ "sync_config", "db/d7e/struct_slic3r_1_1_preset_updater_1_1priv.html#a8476c7e87f53c7f14649f21d517f3aab", null ],
+    [ "update_index_db", "db/d7e/struct_slic3r_1_1_preset_updater_1_1priv.html#a20ae55e56b85c813b4361ad08fd59f20", null ],
+    [ "cache_path", "db/d7e/struct_slic3r_1_1_preset_updater_1_1priv.html#a88634a7648d871f97108572cd4f47cb2", null ],
+    [ "cache_vendor_path", "db/d7e/struct_slic3r_1_1_preset_updater_1_1priv.html#a371c259f91f6c736a4a59a2bb71ca042", null ],
+    [ "cancel", "db/d7e/struct_slic3r_1_1_preset_updater_1_1priv.html#af00decc3399244b5aca6e99ef79ae3a0", null ],
+    [ "enabled_config_update", "db/d7e/struct_slic3r_1_1_preset_updater_1_1priv.html#a255e3e6a853e64eec598429806f9f2c6", null ],
+    [ "enabled_version_check", "db/d7e/struct_slic3r_1_1_preset_updater_1_1priv.html#ad095998a4965d49ef60cd34950cc8015", null ],
+    [ "has_waiting_updates", "db/d7e/struct_slic3r_1_1_preset_updater_1_1priv.html#a58ce233e25e1e0e9d0dc4b0b4ebf8946", null ],
+    [ "index_db", "db/d7e/struct_slic3r_1_1_preset_updater_1_1priv.html#a9aa4adf03d64f554268f5d7a361ffc36", null ],
+    [ "rsrc_path", "db/d7e/struct_slic3r_1_1_preset_updater_1_1priv.html#a12b772e680a5ca2fd88eae6c7ae4e4c6", null ],
+    [ "thread", "db/d7e/struct_slic3r_1_1_preset_updater_1_1priv.html#a3d3693efa8b964fa904018baa8ef29b9", null ],
+    [ "vendor_path", "db/d7e/struct_slic3r_1_1_preset_updater_1_1priv.html#adde3af38e04d0285249d847b004c23f4", null ],
+    [ "version_check_url", "db/d7e/struct_slic3r_1_1_preset_updater_1_1priv.html#a3ba85d0a6fd5e6b60876f7d594838e56", null ],
+    [ "waiting_updates", "db/d7e/struct_slic3r_1_1_preset_updater_1_1priv.html#a5f49f4486a39f2fab2910b14f717a99d", null ]
+];

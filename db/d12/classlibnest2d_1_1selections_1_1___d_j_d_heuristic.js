@@ -1,0 +1,36 @@
+var classlibnest2d_1_1selections_1_1___d_j_d_heuristic =
+[
+    [ "Config", "db/d12/classlibnest2d_1_1selections_1_1___d_j_d_heuristic.html#d0/d4d/structlibnest2d_1_1selections_1_1___d_j_d_heuristic_1_1_config", [
+      [ "allow_parallel", "db/d12/classlibnest2d_1_1selections_1_1___d_j_d_heuristic.html#af40d7d5ae51eeef5b2898fa68c0deb77", null ],
+      [ "force_parallel", "db/d12/classlibnest2d_1_1selections_1_1___d_j_d_heuristic.html#aed75b90d79887a372bc0521427591f0e", null ],
+      [ "initial_fill_proportion", "db/d12/classlibnest2d_1_1selections_1_1___d_j_d_heuristic.html#a0044f4f1254405bde12d93bcd34f980e", null ],
+      [ "try_pairs", "db/d12/classlibnest2d_1_1selections_1_1___d_j_d_heuristic.html#a3e5f50abf449b93e566e3777ac2e55ea", null ],
+      [ "try_reverse_order", "db/d12/classlibnest2d_1_1selections_1_1___d_j_d_heuristic.html#a5160b1c0bb7bd2d4dae311d31ba06e89", null ],
+      [ "try_triplets", "db/d12/classlibnest2d_1_1selections_1_1___d_j_d_heuristic.html#aa5561c6877095584fc75463a10b7456c", null ],
+      [ "waste_increment", "db/d12/classlibnest2d_1_1selections_1_1___d_j_d_heuristic.html#a4583fa39fc0d5a89451e24041708da99", null ]
+    ] ],
+    [ "SpinLock", "d6/d9c/classlibnest2d_1_1selections_1_1___d_j_d_heuristic_1_1_spin_lock.html", "d6/d9c/classlibnest2d_1_1selections_1_1___d_j_d_heuristic_1_1_spin_lock" ],
+    [ "Base", "db/d12/classlibnest2d_1_1selections_1_1___d_j_d_heuristic.html#a37a7756f62e1417eff3ce064c084b502", null ],
+    [ "Container", "db/d12/classlibnest2d_1_1selections_1_1___d_j_d_heuristic.html#acabbf314d4a9174c625798703c1d45f9", null ],
+    [ "Item", "db/d12/classlibnest2d_1_1selections_1_1___d_j_d_heuristic.html#a69447f9df30252412474b25bf840b218", null ],
+    [ "ItemGroup", "db/d12/classlibnest2d_1_1selections_1_1___d_j_d_heuristic.html#a36a32dacfcb28fd1f9e8f748f2f43477", null ],
+    [ "ItemRef", "db/d12/classlibnest2d_1_1selections_1_1___d_j_d_heuristic.html#ade909bfebc303a915f772c863cd16da9", null ],
+    [ "PackGroup", "db/d12/classlibnest2d_1_1selections_1_1___d_j_d_heuristic.html#a30d7a26a85123ac1ea1e54e63042e7af", null ],
+    [ "ShapeType", "db/d12/classlibnest2d_1_1selections_1_1___d_j_d_heuristic.html#a3eaf0f8cae816fd62fa85857972936e2", null ],
+    [ "clear", "db/d12/classlibnest2d_1_1selections_1_1___d_j_d_heuristic.html#a8cdf912c10a00d33decf94d50c57350b", null ],
+    [ "configure", "db/d12/classlibnest2d_1_1selections_1_1___d_j_d_heuristic.html#a4a9707d381b09287dd4f35336db3bfad", null ],
+    [ "getResult", "db/d12/classlibnest2d_1_1selections_1_1___d_j_d_heuristic.html#a5b87742f8845b950d3c4743ad8df552c", null ],
+    [ "lastPackedBinId", "db/d12/classlibnest2d_1_1selections_1_1___d_j_d_heuristic.html#ac08f607a62d4013cdc73aebd5bd9bc31", null ],
+    [ "packItems", "db/d12/classlibnest2d_1_1selections_1_1___d_j_d_heuristic.html#a4a57406b7f3af24c8e26bcc97f402987", null ],
+    [ "progressIndicator", "db/d12/classlibnest2d_1_1selections_1_1___d_j_d_heuristic.html#a54514c13ed64ef9a4f7d032b81f86c45", null ],
+    [ "remove_unpackable_items", "db/d12/classlibnest2d_1_1selections_1_1___d_j_d_heuristic.html#a7574f6988d831a7816c9f8b91de86a4d", null ],
+    [ "stopCondition", "db/d12/classlibnest2d_1_1selections_1_1___d_j_d_heuristic.html#a35ed58bb8b6d6c406bbfffc098009857", null ],
+    [ "config_", "db/d12/classlibnest2d_1_1selections_1_1___d_j_d_heuristic.html#a80c636934682bd167d67914b9a55d415", null ],
+    [ "last_packed_bin_id_", "db/d12/classlibnest2d_1_1selections_1_1___d_j_d_heuristic.html#ab7736f806630b2d938eb91169fee3291", null ],
+    [ "MAX_ITEMS_SEQUENTIALLY", "db/d12/classlibnest2d_1_1selections_1_1___d_j_d_heuristic.html#a6e5c09bd5b171f74bf24ab5007fe07d8", null ],
+    [ "MAX_VERTICES_SEQUENTIALLY", "db/d12/classlibnest2d_1_1selections_1_1___d_j_d_heuristic.html#abdd78974ba900691205de3c04031ed71", null ],
+    [ "packed_bins_", "db/d12/classlibnest2d_1_1selections_1_1___d_j_d_heuristic.html#a9331e28475a64b6a497d8ccec3509a2d", null ],
+    [ "progress_", "db/d12/classlibnest2d_1_1selections_1_1___d_j_d_heuristic.html#abfba59ec555cd52bb3759cac40eec7c6", null ],
+    [ "stopcond_", "db/d12/classlibnest2d_1_1selections_1_1___d_j_d_heuristic.html#aa298257bb762c9973fa8438731a4c15e", null ],
+    [ "store_", "db/d12/classlibnest2d_1_1selections_1_1___d_j_d_heuristic.html#aface25bdb5b434020257ff75c109bb2c", null ]
+];

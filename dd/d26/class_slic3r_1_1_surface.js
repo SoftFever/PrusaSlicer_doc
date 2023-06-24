@@ -1,0 +1,26 @@
+var class_slic3r_1_1_surface =
+[
+    [ "Surface", "dd/d26/class_slic3r_1_1_surface.html#a3b0d7ab4c418be3ac2c744ff16714183", null ],
+    [ "Surface", "dd/d26/class_slic3r_1_1_surface.html#a9a73ad098823c412bdba34fe58d39107", null ],
+    [ "Surface", "dd/d26/class_slic3r_1_1_surface.html#a4771ce0334eff958b9164babb541bdfa", null ],
+    [ "Surface", "dd/d26/class_slic3r_1_1_surface.html#acd53b48218d0327bb873312b13f40fb3", null ],
+    [ "Surface", "dd/d26/class_slic3r_1_1_surface.html#a07d63b9a8e243efa342bc008c89debe6", null ],
+    [ "Surface", "dd/d26/class_slic3r_1_1_surface.html#a73350bb33133552125f66347ef92eae7", null ],
+    [ "area", "dd/d26/class_slic3r_1_1_surface.html#a82e06afa114f5d0ecc72827a2ed6cc62", null ],
+    [ "clear", "dd/d26/class_slic3r_1_1_surface.html#a469b99a15f0e5b90585101741ab80edc", null ],
+    [ "empty", "dd/d26/class_slic3r_1_1_surface.html#a4f54a52804c0c83df8e13ada2e5cf458", null ],
+    [ "is_bottom", "dd/d26/class_slic3r_1_1_surface.html#a59f23864153e397680a77843af60db37", null ],
+    [ "is_bridge", "dd/d26/class_slic3r_1_1_surface.html#a53188bd4cc36dd6c64f22a208bbf2bb2", null ],
+    [ "is_external", "dd/d26/class_slic3r_1_1_surface.html#a7fa6cd63ba516167d4853abc330f8482", null ],
+    [ "is_internal", "dd/d26/class_slic3r_1_1_surface.html#aa3eef69841a13a1da6f90b0e24753e27", null ],
+    [ "is_solid", "dd/d26/class_slic3r_1_1_surface.html#a38efc34cc8421e6059d556089c62e606", null ],
+    [ "is_top", "dd/d26/class_slic3r_1_1_surface.html#a2b4c106ade7cf98331df9e122489a5b5", null ],
+    [ "operator=", "dd/d26/class_slic3r_1_1_surface.html#a342c85f9ef9d203b393d792b89011bcb", null ],
+    [ "operator=", "dd/d26/class_slic3r_1_1_surface.html#abd95eca07537b0f4b14eb7cadc69857a", null ],
+    [ "bridge_angle", "dd/d26/class_slic3r_1_1_surface.html#aaa7cb31ff126b05381ed24037410de25", null ],
+    [ "expolygon", "dd/d26/class_slic3r_1_1_surface.html#ab98ce319a0960df1324252d0d9240463", null ],
+    [ "extra_perimeters", "dd/d26/class_slic3r_1_1_surface.html#a8fb62a4d35aa78e6bff3ae80abd3ecca", null ],
+    [ "surface_type", "dd/d26/class_slic3r_1_1_surface.html#a33b43f3aa62e3ef32b0100ea289532fd", null ],
+    [ "thickness", "dd/d26/class_slic3r_1_1_surface.html#ad074c9bedd8dbe04178c1f8c2f750c37", null ],
+    [ "thickness_layers", "dd/d26/class_slic3r_1_1_surface.html#a5c5bda1feccd103ba8bfdd89818fc1c2", null ]
+];

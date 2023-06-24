@@ -1,0 +1,27 @@
+var _polygon_8cpp =
+[
+    [ "contains", "dd/d25/_polygon_8cpp.html#a6a4a87be297a647dba8e57573683148b", null ],
+    [ "contains", "dd/d25/_polygon_8cpp.html#a922303d488fa230c064759e62af3662d", null ],
+    [ "filter_convex_concave_points_by_angle_threshold", "dd/d25/_polygon_8cpp.html#a6d66b000c02e05ec6ef38d3d2ed5e9e1", null ],
+    [ "filter_points_by_vectors", "dd/d25/_polygon_8cpp.html#a452c5dd3e8d14328ac2f13d37b57d515", null ],
+    [ "get_extents", "dd/d25/_polygon_8cpp.html#a8f3e3911a414be83e11cd38dac86b6b1", null ],
+    [ "get_extents", "dd/d25/_polygon_8cpp.html#aec267a67705be8d5cfcd6b88e95bf972", null ],
+    [ "get_extents_rotated", "dd/d25/_polygon_8cpp.html#a05922f7fa39b5c01726266fab1436100", null ],
+    [ "get_extents_rotated", "dd/d25/_polygon_8cpp.html#a322c850f4d1f00d0fa16b4dd8c11af64", null ],
+    [ "get_extents_vector", "dd/d25/_polygon_8cpp.html#aef1e6e0a9da93a8bc8ada1256f2ad7a3", null ],
+    [ "has_duplicate_points", "dd/d25/_polygon_8cpp.html#ab6551e12d68c67e787992e8c8f790ab2", null ],
+    [ "is_stick", "dd/d25/_polygon_8cpp.html#ade3e399d82466986f61aaeff0da59a56", null ],
+    [ "make_circle", "dd/d25/_polygon_8cpp.html#a2ee29be186ca1964637c245478d29ead", null ],
+    [ "make_circle_num_segments", "dd/d25/_polygon_8cpp.html#a747f0c1d13dcb51600aa61bc38779a91", null ],
+    [ "polygon_is_convex", "dd/d25/_polygon_8cpp.html#a762eeaa78fcf581fe8f88443cb537fdc", null ],
+    [ "polygons_match", "dd/d25/_polygon_8cpp.html#aa25cb321965838f6e7efb7f10cd275d7", null ],
+    [ "polygons_simplify", "dd/d25/_polygon_8cpp.html#afe80c096e51eb8457e0270daebb2bf45", null ],
+    [ "polygons_simplify", "dd/d25/_polygon_8cpp.html#a47dd597a9913ffd124d863477cec303a", null ],
+    [ "remove_collinear", "dd/d25/_polygon_8cpp.html#a7efd4db6ca4b54938b395b0ae1cc5699", null ],
+    [ "remove_collinear", "dd/d25/_polygon_8cpp.html#a54c1aa11babdb5dce5f3496139920ba7", null ],
+    [ "remove_degenerate", "dd/d25/_polygon_8cpp.html#a82bc719ec4ed0404dec575428d7c4a84", null ],
+    [ "remove_small", "dd/d25/_polygon_8cpp.html#ac6164232c0824e46bcb813ce3f93ba71", null ],
+    [ "remove_sticks", "dd/d25/_polygon_8cpp.html#ac7777d5456282c8a44a5d6622966f326", null ],
+    [ "remove_sticks", "dd/d25/_polygon_8cpp.html#afbcafba5964ec5149270e69d0b90f107", null ],
+    [ "simplify_polygon_impl", "dd/d25/_polygon_8cpp.html#ae3d3c7560cd0222d495c21a60a0e844c", null ]
+];

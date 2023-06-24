@@ -1,0 +1,26 @@
+var class_slic3r_1_1_object_with_timestamp =
+[
+    [ "Timestamp", "da/d88/class_slic3r_1_1_object_with_timestamp.html#a083c14a4d420e239f81a7b913aa88b14", null ],
+    [ "ObjectWithTimestamp", "da/d88/class_slic3r_1_1_object_with_timestamp.html#a928dd537ab3895675326c3ec9612e086", null ],
+    [ "ObjectWithTimestamp", "da/d88/class_slic3r_1_1_object_with_timestamp.html#a8478e811f358a529b8c4cc938c81e6c2", null ],
+    [ "~ObjectWithTimestamp", "da/d88/class_slic3r_1_1_object_with_timestamp.html#a6c8a6bcbee45341e349b353be8ac2dad", null ],
+    [ "assign_new_unique_ids_recursive", "da/d88/class_slic3r_1_1_object_with_timestamp.html#ad49b3760a53a160703cf0f98b745dafc", null ],
+    [ "copy_id", "da/d88/class_slic3r_1_1_object_with_timestamp.html#a31aeedfaff2392c3e680f7205dc76299", null ],
+    [ "copy_timestamp", "da/d88/class_slic3r_1_1_object_with_timestamp.html#ab7491a75c244ff82d6c162121fb6d339", null ],
+    [ "generate_new_id", "da/d88/class_slic3r_1_1_object_with_timestamp.html#a9fc0611de91a636648cc2af368ec47e1", null ],
+    [ "id", "da/d88/class_slic3r_1_1_object_with_timestamp.html#afd34129dc2c72863ef538b184d2da4fe", null ],
+    [ "load_and_construct", "da/d88/class_slic3r_1_1_object_with_timestamp.html#a68f21122618731c364a58523ac05c998", null ],
+    [ "object_id_and_timestamp_match", "da/d88/class_slic3r_1_1_object_with_timestamp.html#a93eddf736fad09d12193874ffa3e1e22", null ],
+    [ "serialize", "da/d88/class_slic3r_1_1_object_with_timestamp.html#a6c5e6f4f54820030a1bfc218aeed9617", null ],
+    [ "set_invalid_id", "da/d88/class_slic3r_1_1_object_with_timestamp.html#ae18647b0d95f8efc57c7e938643849a5", null ],
+    [ "set_new_unique_id", "da/d88/class_slic3r_1_1_object_with_timestamp.html#a3c7e96e0c8788dce0477ba26d422a85a", null ],
+    [ "timestamp", "da/d88/class_slic3r_1_1_object_with_timestamp.html#ae19e9fd2b748b237661d41696554dffa", null ],
+    [ "timestamp_matches", "da/d88/class_slic3r_1_1_object_with_timestamp.html#a6683b5a9a8c275c09792d5e75f058a21", null ],
+    [ "touch", "da/d88/class_slic3r_1_1_object_with_timestamp.html#ad93d2a76b616389ce87b600c78a463af", null ],
+    [ "cereal::access", "da/d88/class_slic3r_1_1_object_with_timestamp.html#ab2f44cbb59a08132f4c843e5225bba0e", null ],
+    [ "Slic3r::UndoRedo::StackImpl", "da/d88/class_slic3r_1_1_object_with_timestamp.html#a13893faf12a0b2635afbe6c5bbf248cc", null ],
+    [ "m_id", "da/d88/class_slic3r_1_1_object_with_timestamp.html#a97d8aeb268b69dc86e9c7d9a97ee356a", null ],
+    [ "m_timestamp", "da/d88/class_slic3r_1_1_object_with_timestamp.html#af50cba234967a628d4a8b730225303f6", null ],
+    [ "s_last_id", "da/d88/class_slic3r_1_1_object_with_timestamp.html#a04f1407bfc6961ecc3afc6f411868ab1", null ],
+    [ "s_last_timestamp", "da/d88/class_slic3r_1_1_object_with_timestamp.html#a449dfc3139e12b828071ee11ab7f7bb5", null ]
+];

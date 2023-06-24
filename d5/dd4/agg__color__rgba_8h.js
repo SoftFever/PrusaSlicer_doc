@@ -1,0 +1,27 @@
+var agg__color__rgba_8h =
+[
+    [ "agg::order_rgb", "d8/de9/structagg_1_1order__rgb.html", "d8/de9/structagg_1_1order__rgb" ],
+    [ "agg::order_bgr", "db/d6f/structagg_1_1order__bgr.html", "db/d6f/structagg_1_1order__bgr" ],
+    [ "agg::order_rgba", "dd/dd5/structagg_1_1order__rgba.html", "dd/dd5/structagg_1_1order__rgba" ],
+    [ "agg::order_argb", "d3/d05/structagg_1_1order__argb.html", "d3/d05/structagg_1_1order__argb" ],
+    [ "agg::order_abgr", "d0/d36/structagg_1_1order__abgr.html", "d0/d36/structagg_1_1order__abgr" ],
+    [ "agg::order_bgra", "de/de5/structagg_1_1order__bgra.html", "de/de5/structagg_1_1order__bgra" ],
+    [ "agg::linear", "d8/d21/namespaceagg.html#d2/dc5/structagg_1_1linear", null ],
+    [ "agg::sRGB", "d8/d21/namespaceagg.html#d4/d51/structagg_1_1s_r_g_b", null ],
+    [ "agg::rgba", "d6/d67/structagg_1_1rgba.html", "d6/d67/structagg_1_1rgba" ],
+    [ "agg::rgba8T< Colorspace >", "d8/d6e/structagg_1_1rgba8_t.html", "d8/d6e/structagg_1_1rgba8_t" ],
+    [ "agg::rgba16", "d3/d4a/structagg_1_1rgba16.html", "d3/d4a/structagg_1_1rgba16" ],
+    [ "agg::rgba32", "dc/d97/structagg_1_1rgba32.html", "dc/d97/structagg_1_1rgba32" ],
+    [ "rgba8", "d5/dd4/agg__color__rgba_8h.html#a9dd2c9a629d4ec5f0b9a55013f182c9d", null ],
+    [ "srgba8", "d5/dd4/agg__color__rgba_8h.html#ab2c478bfdd1a869a19d5391c14c5d7eb", null ],
+    [ "argb8_packed", "d5/dd4/agg__color__rgba_8h.html#afaf5efbcd522779ff3e3e0e8604cccb1", null ],
+    [ "bgr8_packed", "d5/dd4/agg__color__rgba_8h.html#a840d5ebcf8c166c6a47e601ac759e88d", null ],
+    [ "operator*", "d5/dd4/agg__color__rgba_8h.html#ae82107d7c0b1a19cc9ad88326f1bda45", null ],
+    [ "operator+", "d5/dd4/agg__color__rgba_8h.html#a991a6dceb2b81b3aa6bb1a006eb7adee", null ],
+    [ "rgb8_packed", "d5/dd4/agg__color__rgba_8h.html#ab189afbf0dd555e2caf475c3c764a5ec", null ],
+    [ "rgba16_gamma_dir", "d5/dd4/agg__color__rgba_8h.html#a1f4af5c166fa51c069a1a8f2f1ab6f32", null ],
+    [ "rgba16_gamma_inv", "d5/dd4/agg__color__rgba_8h.html#a647a6730a10f4585453dd54ce3ff41df", null ],
+    [ "rgba8_gamma_dir", "d5/dd4/agg__color__rgba_8h.html#a9bbae3d6d9c303b0998bc25c307a8d5e", null ],
+    [ "rgba8_gamma_inv", "d5/dd4/agg__color__rgba_8h.html#a186b821a7965fa2e47cdcc60a33e94d5", null ],
+    [ "rgba_pre", "d5/dd4/agg__color__rgba_8h.html#aaa7b6b2dbe31756d6ce0bdf7500dc609", null ]
+];

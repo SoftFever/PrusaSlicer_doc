@@ -1,0 +1,87 @@
+<map id="Slic3r::FFFTreeSupport::TreeSupportSettings::getRadius" name="Slic3r::FFFTreeSupport::TreeSupportSettings::getRadius">
+<area shape="rect" id="Node000001" title="Get the Radius part will have based on numeric values." alt="" coords="1570,206,1727,262"/>
+<area shape="rect" id="Node000002" href="$dd/df4/namespace_slic3r_1_1_f_f_f_tree_support.html#ab438824023a3a935e925a285dff2d154" title="Converts a Polygons object representing a line into the internal format." alt="" coords="1325,99,1499,140"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1592,201,1521,161,1477,143,1479,138,1523,156,1594,196"/>
+<area shape="rect" id="Node000003" href="$dd/df4/namespace_slic3r_1_1_f_f_f_tree_support.html#a5bd26448acb9c08a9f4fd663da07c11c" title=" " alt="" coords="857,70,1021,111"/>
+<area shape="poly" id="edge14_Node000001_Node000003" title=" " alt="" coords="1555,213,1521,205,1021,108,1022,103,1522,200,1556,208"/>
+<area shape="rect" id="Node000004" href="$dd/df4/namespace_slic3r_1_1_f_f_f_tree_support.html#a30ddef5499fa931cd6a895477f7d480e" title="Evaluates if a point has to be added now. Required for a split_lines call in generate_initial_areas()..." alt="" coords="1328,20,1496,75"/>
+<area shape="poly" id="edge4_Node000001_Node000004" title=" " alt="" coords="1619,196,1576,141,1550,114,1520,90,1495,75,1497,71,1523,85,1553,110,1580,138,1624,193"/>
+<area shape="rect" id="Node000006" href="$dd/df4/namespace_slic3r_1_1_f_f_f_tree_support.html#a0931050cec7937180b5b2cb962c64fde" title="Checks if an influence area contains a valid subsection and returns the corresponding metadata and th..." alt="" coords="1085,767,1242,808"/>
+<area shape="poly" id="edge8_Node000001_Node000006" title=" " alt="" coords="1635,277,1592,381,1561,440,1524,496,1486,542,1443,585,1353,663,1268,726,1201,769,1199,765,1265,721,1350,659,1440,581,1482,538,1520,493,1556,437,1587,378,1630,275"/>
+<area shape="rect" id="Node000007" href="$d6/d18/class_slic3r_1_1_f_f_f_tree_support_1_1_tree_model_volumes.html#a06360ce54b5b9743e6d45b055dff71bd" title="Precalculate avoidances and collisions up to max_layer." alt="" coords="1302,214,1522,255"/>
+<area shape="poly" id="edge10_Node000001_Node000007" title=" " alt="" coords="1555,237,1522,237,1522,232,1555,232"/>
+<area shape="rect" id="Node000010" href="$dd/df4/namespace_slic3r_1_1_f_f_f_tree_support.html#a0fe6563863279b24725d47874451e250" title="Get the collision Radius of this Element. This can be smaller then the actual radius,..." alt="" coords="1322,426,1502,482"/>
+<area shape="poly" id="edge15_Node000001_Node000010" title=" " alt="" coords="1608,275,1445,428,1441,424,1604,271"/>
+<area shape="rect" id="Node000022" href="$dd/df4/namespace_slic3r_1_1_f_f_f_tree_support.html#a9c0f5dd4d95f10538669e32992adb86d" title="Get the Radius, that this element will have." alt="" coords="1328,903,1496,944"/>
+<area shape="poly" id="edge43_Node000001_Node000022" title=" " alt="" coords="1641,277,1597,460,1563,578,1524,695,1473,814,1427,904,1422,901,1468,812,1519,693,1558,576,1591,459,1636,276"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="1310,116,1021,98,1021,93,1310,111"/>
+<area shape="poly" id="edge3_Node000003_Node000003" title=" " alt="" coords="975,57,961,51,939,49,918,51,906,55,901,61,903,69,898,70,896,60,902,51,917,45,939,43,963,46,977,52"/>
+<area shape="poly" id="edge7_Node000004_Node000003" title=" " alt="" coords="1313,24,1258,15,1197,9,1135,10,1074,20,1045,29,1017,43,969,72,967,67,1014,38,1043,24,1072,14,1134,4,1198,4,1259,9,1314,19"/>
+<area shape="rect" id="Node000005" href="$d9/d4e/class_slic3r_1_1_f_f_f_tree_support_1_1_rich_interface_placer.html#a5cf51f0d9f9a04742a0179ed24433c9a" title=" " alt="" coords="1082,29,1246,85"/>
+<area shape="poly" id="edge5_Node000004_Node000005" title=" " alt="" coords="1314,54,1246,57,1246,51,1313,49"/>
+<area shape="poly" id="edge6_Node000005_Node000003" title=" " alt="" coords="1067,74,1021,81,1020,76,1066,69"/>
+<area shape="poly" id="edge9_Node000006_Node000006" title=" " alt="" coords="1201,755,1187,748,1164,746,1142,748,1129,753,1124,759,1126,766,1121,767,1119,757,1126,748,1141,743,1164,741,1189,743,1203,750"/>
+<area shape="rect" id="Node000008" href="$dd/df4/namespace_slic3r_1_1_f_f_f_tree_support.html#a9dda71b81c82e359530c91128bcd7abd" title="Precalculates all avoidances, that could be required." alt="" coords="430,201,587,241"/>
+<area shape="poly" id="edge11_Node000007_Node000008" title=" " alt="" coords="1288,235,587,225,587,219,1288,230"/>
+<area shape="rect" id="Node000009" href="$dd/df4/namespace_slic3r_1_1_f_f_f_tree_support.html#ab26bc295197117d2d20bc72c33be92f6" title="Create the areas that need support." alt="" coords="5,554,174,595"/>
+<area shape="poly" id="edge12_Node000008_Node000009" title=" " alt="" coords="415,214,367,215,317,222,267,237,223,262,190,293,163,331,142,372,125,414,104,495,95,554,90,553,99,494,120,413,137,369,159,328,186,290,220,258,265,232,316,217,367,210,415,209"/>
+<area shape="poly" id="edge13_Node000009_Node000009" title=" " alt="" coords="124,541,111,535,89,533,69,535,57,539,53,545,55,553,50,554,48,544,54,535,68,529,90,527,113,530,127,536"/>
+<area shape="poly" id="edge17_Node000010_Node000006" title=" " alt="" coords="1391,497,1316,634,1280,697,1256,732,1233,753,1208,769,1205,765,1230,748,1252,729,1275,694,1312,631,1386,494"/>
+<area shape="poly" id="edge16_Node000010_Node000009" title=" " alt="" coords="1380,416,1326,357,1292,328,1253,306,1209,289,1171,278,1136,273,1102,272,1031,277,940,281,507,281,472,283,438,290,372,314,311,350,255,393,205,439,164,484,107,555,103,552,159,480,201,435,251,389,308,345,370,309,437,285,472,278,507,276,940,276,1030,272,1102,267,1136,268,1172,273,1211,284,1255,301,1295,324,1330,353,1384,413"/>
+<area shape="rect" id="Node000011" href="$dd/df4/namespace_slic3r_1_1_f_f_f_tree_support.html#abb175d116e2dfb6bc27c8f0005bfd906" title=" " alt="" coords="857,470,1021,526"/>
+<area shape="poly" id="edge18_Node000010_Node000011" title=" " alt="" coords="1307,436,1253,429,1194,426,1133,428,1074,437,1028,452,987,473,984,468,1026,447,1072,432,1132,423,1194,421,1253,424,1308,431"/>
+<area shape="rect" id="Node000016" href="$dd/df4/namespace_slic3r_1_1_f_f_f_tree_support.html#a5a183ed4ab8686513525c8c6b81401af" title=" " alt="" coords="1080,470,1248,526"/>
+<area shape="poly" id="edge29_Node000010_Node000016" title=" " alt="" coords="1308,475,1249,486,1248,481,1307,470"/>
+<area shape="rect" id="Node000017" href="$dd/df4/namespace_slic3r_1_1_f_f_f_tree_support.html#ae933bab23a01546925f47e2403e6c198" title="Get the best point to connect to the model and set the result_on_layer of the relevant SupportElement..." alt="" coords="1085,574,1242,630"/>
+<area shape="poly" id="edge32_Node000010_Node000017" title=" " alt="" coords="1353,492,1213,576,1211,572,1350,488"/>
+<area shape="rect" id="Node000019" href="$dd/df4/namespace_slic3r_1_1_f_f_f_tree_support.html#ac967237dc3f772e90e6ec13a5aaffdb1" title="Applies some smoothing to the outer wall, intended to smooth out sudden jumps as they can happen when..." alt="" coords="1085,678,1242,719"/>
+<area shape="poly" id="edge37_Node000010_Node000019" title=" " alt="" coords="1386,496,1329,568,1294,608,1256,644,1206,680,1203,675,1253,640,1290,604,1325,565,1381,492"/>
+<area shape="rect" id="Node000021" href="$dd/df4/namespace_slic3r_1_1_f_f_f_tree_support.html#a413ae4b4f158f0affe88cd5cc5873c51" title=" " alt="" coords="1074,316,1253,371"/>
+<area shape="poly" id="edge42_Node000010_Node000021" title=" " alt="" coords="1333,422,1227,374,1229,370,1335,417"/>
+<area shape="poly" id="edge26_Node000011_Node000011" title=" " alt="" coords="974,458,961,452,939,449,920,451,907,456,902,462,901,470,896,470,897,460,904,451,919,446,939,444,962,447,976,454"/>
+<area shape="rect" id="Node000012" href="$dd/df4/namespace_slic3r_1_1_f_f_f_tree_support.html#ad858edd51a19e644532ce4d00379fb76" title="Merges Influence Areas if possible." alt="" coords="640,512,803,567"/>
+<area shape="poly" id="edge19_Node000011_Node000012" title=" " alt="" coords="843,519,804,527,803,521,842,514"/>
+<area shape="rect" id="Node000015" href="$dd/df4/namespace_slic3r_1_1_f_f_f_tree_support.html#ab2ce227e4f177e6b0a86047f62857854" title=" " alt="" coords="640,408,803,463"/>
+<area shape="poly" id="edge27_Node000011_Node000015" title=" " alt="" coords="842,473,803,462,805,457,844,468"/>
+<area shape="poly" id="edge25_Node000012_Node000012" title=" " alt="" coords="756,500,743,493,721,490,703,492,691,497,685,503,685,512,680,511,680,501,688,493,702,487,722,485,744,488,758,495"/>
+<area shape="rect" id="Node000013" href="$dd/df4/namespace_slic3r_1_1_f_f_f_tree_support.html#a072f8fb61613be20955808d6ea3da0eb" title="Merges Influence Areas at one layer if possible." alt="" coords="427,522,590,563"/>
+<area shape="poly" id="edge20_Node000012_Node000013" title=" " alt="" coords="625,544,591,544,591,539,625,538"/>
+<area shape="poly" id="edge24_Node000013_Node000013" title=" " alt="" coords="543,509,530,503,509,501,489,503,477,507,472,513,474,521,469,522,467,512,474,503,488,497,509,495,532,498,545,504"/>
+<area shape="rect" id="Node000014" href="$dd/df4/namespace_slic3r_1_1_f_f_f_tree_support.html#aeb49cf1fc20a86890b55d203812fd7bb" title="Propagates influence downwards, and merges overlapping ones." alt="" coords="222,523,379,564"/>
+<area shape="poly" id="edge21_Node000013_Node000014" title=" " alt="" coords="412,546,379,546,379,540,412,540"/>
+<area shape="poly" id="edge23_Node000014_Node000009" title=" " alt="" coords="208,560,174,565,174,559,207,555"/>
+<area shape="poly" id="edge22_Node000014_Node000014" title=" " alt="" coords="335,511,322,504,300,502,281,504,269,509,264,514,266,522,261,523,259,513,265,504,279,499,300,497,323,499,337,506"/>
+<area shape="poly" id="edge28_Node000015_Node000015" title=" " alt="" coords="756,396,743,389,721,386,703,388,691,393,685,399,685,408,680,407,680,397,688,389,702,383,722,381,744,384,758,391"/>
+<area shape="poly" id="edge30_Node000016_Node000011" title=" " alt="" coords="1065,501,1021,501,1021,496,1065,496"/>
+<area shape="poly" id="edge31_Node000016_Node000016" title=" " alt="" coords="1200,459,1186,452,1164,449,1144,451,1131,456,1125,462,1125,470,1120,470,1120,460,1128,451,1143,446,1164,444,1188,447,1202,454"/>
+<area shape="poly" id="edge36_Node000017_Node000017" title=" " alt="" coords="1200,563,1186,556,1164,553,1144,555,1131,560,1125,566,1125,574,1120,574,1120,564,1128,555,1143,550,1164,548,1188,551,1202,558"/>
+<area shape="rect" id="Node000018" href="$dd/df4/namespace_slic3r_1_1_f_f_f_tree_support.html#a92615f6c41e6b6715175c0ad1b804864" title="Set the result_on_layer point for all influence areas." alt="" coords="853,585,1025,625"/>
+<area shape="poly" id="edge33_Node000017_Node000018" title=" " alt="" coords="1070,606,1025,607,1025,601,1070,601"/>
+<area shape="poly" id="edge35_Node000018_Node000009" title=" " alt="" coords="838,604,174,580,174,575,838,599"/>
+<area shape="poly" id="edge34_Node000018_Node000018" title=" " alt="" coords="975,572,961,566,939,563,918,565,906,570,901,576,903,583,898,585,896,575,902,566,917,560,939,558,963,561,977,567"/>
+<area shape="poly" id="edge41_Node000019_Node000019" title=" " alt="" coords="1201,665,1187,659,1164,657,1142,659,1129,663,1124,669,1126,677,1121,678,1119,668,1126,659,1141,653,1164,651,1189,654,1203,660"/>
+<area shape="rect" id="Node000020" href="$dd/df4/namespace_slic3r_1_1_f_f_f_tree_support.html#aafe7894d0eaf4f718b69b4a8f4b9e999" title="Draws circles around result_on_layer points of the influence areas and applies some post processing." alt="" coords="222,671,379,712"/>
+<area shape="poly" id="edge38_Node000019_Node000020" title=" " alt="" coords="1070,700,379,695,379,690,1070,695"/>
+<area shape="poly" id="edge40_Node000020_Node000009" title=" " alt="" coords="248,666,127,598,129,593,251,661"/>
+<area shape="poly" id="edge39_Node000020_Node000020" title=" " alt="" coords="335,659,322,652,300,650,281,652,269,657,264,662,266,670,261,671,259,661,265,652,279,647,300,645,323,647,337,654"/>
+<area shape="poly" id="edge47_Node000022_Node000006" title=" " alt="" coords="1367,897,1253,829,1215,811,1218,806,1256,824,1370,893"/>
+<area shape="poly" id="edge48_Node000022_Node000011" title=" " alt="" coords="1341,900,1254,870,1226,864,1200,861,1155,860,1134,858,1113,852,1092,840,1071,821,1048,787,1038,754,1037,721,1041,688,1046,655,1047,621,1041,587,1023,551,1001,529,1004,525,1027,547,1046,585,1053,621,1052,655,1047,689,1042,721,1043,753,1052,785,1075,818,1095,836,1115,847,1135,853,1155,855,1201,856,1226,858,1255,865,1343,895"/>
+<area shape="poly" id="edge44_Node000022_Node000018" title=" " alt="" coords="1313,919,1175,900,1113,885,1072,866,1042,840,1017,809,997,776,979,742,955,676,942,627,947,625,960,675,984,740,1001,774,1022,806,1046,836,1074,861,1115,880,1176,894,1314,913"/>
+<area shape="poly" id="edge53_Node000022_Node000019" title=" " alt="" coords="1389,892,1334,813,1296,771,1253,734,1232,721,1234,717,1256,729,1300,767,1338,810,1394,889"/>
+<area shape="rect" id="Node000023" href="$dd/df4/namespace_slic3r_1_1_f_f_f_tree_support.html#a5b1e3e497e4086f33f972043ba757e57" title=" " alt="" coords="1085,1207,1242,1248"/>
+<area shape="poly" id="edge45_Node000022_Node000023" title=" " alt="" coords="1402,959,1381,1011,1351,1075,1309,1139,1284,1170,1256,1196,1237,1209,1234,1205,1253,1192,1280,1166,1305,1136,1346,1072,1377,1009,1397,957"/>
+<area shape="rect" id="Node000024" href="$dd/df4/namespace_slic3r_1_1_f_f_f_tree_support.html#a68cf66066ce35e90b7d041ec4af865f4" title=" " alt="" coords="1085,933,1242,973"/>
+<area shape="poly" id="edge46_Node000022_Node000024" title=" " alt="" coords="1314,938,1243,946,1243,941,1313,933"/>
+<area shape="rect" id="Node000025" href="$dd/df4/namespace_slic3r_1_1_f_f_f_tree_support.html#af8424f920968063d5aa16e27c2b7f635" title=" " alt="" coords="1073,1062,1254,1118"/>
+<area shape="poly" id="edge49_Node000022_Node000025" title=" " alt="" coords="1380,956,1324,1004,1256,1053,1235,1064,1232,1060,1253,1048,1320,1000,1376,952"/>
+<area shape="rect" id="Node000027" href="$dd/df4/namespace_slic3r_1_1_f_f_f_tree_support.html#af5b7776f37deebb6df33ac042653debb" title=" " alt="" coords="1080,998,1247,1039"/>
+<area shape="poly" id="edge54_Node000022_Node000027" title=" " alt="" coords="1345,952,1255,987,1222,1000,1220,995,1253,983,1343,947"/>
+<area shape="rect" id="Node000028" href="$dd/df4/namespace_slic3r_1_1_f_f_f_tree_support.html#a58708375463e99b2adb77d839339f51e" title=" " alt="" coords="1085,1142,1242,1183"/>
+<area shape="poly" id="edge55_Node000022_Node000028" title=" " alt="" coords="1396,959,1372,998,1341,1045,1302,1092,1256,1132,1237,1144,1234,1139,1253,1128,1298,1088,1336,1042,1368,995,1391,956"/>
+<area shape="rect" id="Node000026" href="$dd/df4/namespace_slic3r_1_1_f_f_f_tree_support.html#a5f3c278c734d77924e1f29d285aa971c" title=" " alt="" coords="638,918,805,959"/>
+<area shape="poly" id="edge50_Node000025_Node000026" title=" " alt="" coords="1066,1060,783,962,784,957,1068,1055"/>
+<area shape="poly" id="edge51_Node000026_Node000009" title=" " alt="" coords="630,916,540,886,434,844,324,791,271,760,220,726,183,694,150,659,102,597,107,594,154,656,187,691,223,722,273,755,326,786,436,839,542,881,632,911"/>
+<area shape="poly" id="edge52_Node000026_Node000026" title=" " alt="" coords="757,905,744,899,721,897,701,899,689,903,684,909,686,917,681,918,679,908,686,899,700,893,722,891,745,894,759,900"/>
+<area shape="rect" id="Node000029" href="$dd/df4/namespace_slic3r_1_1_f_f_f_tree_support.html#aa8e234e92ef7e4c1d6f24ce0e7cf53cb" title=" " alt="" coords="860,1142,1018,1183"/>
+<area shape="poly" id="edge56_Node000028_Node000029" title=" " alt="" coords="1070,1165,1018,1165,1018,1160,1070,1160"/>
+</map>

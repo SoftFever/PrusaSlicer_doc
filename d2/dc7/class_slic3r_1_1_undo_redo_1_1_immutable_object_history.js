@@ -1,0 +1,26 @@
+var class_slic3r_1_1_undo_redo_1_1_immutable_object_history =
+[
+    [ "ImmutableObjectHistory", "d2/dc7/class_slic3r_1_1_undo_redo_1_1_immutable_object_history.html#a0d281bf64e89c3727dc772494147cbad", null ],
+    [ "~ImmutableObjectHistory", "d2/dc7/class_slic3r_1_1_undo_redo_1_1_immutable_object_history.html#a55c7db9c3859019160f9039be7f39856", null ],
+    [ "empty", "d2/dc7/class_slic3r_1_1_undo_redo_1_1_immutable_object_history.html#acef39d2448fddc00e645f9b7b318a956", null ],
+    [ "has_snapshot", "d2/dc7/class_slic3r_1_1_undo_redo_1_1_immutable_object_history.html#a7b9de6b2590cd1afa920494d4273afc0", null ],
+    [ "immutable_object_ptr", "d2/dc7/class_slic3r_1_1_undo_redo_1_1_immutable_object_history.html#abb8153d28f572954cc9682ec2994a752", null ],
+    [ "is_immutable", "d2/dc7/class_slic3r_1_1_undo_redo_1_1_immutable_object_history.html#a7d6cebc3a9bb145274ef47d26773afd9", null ],
+    [ "is_mutable", "d2/dc7/class_slic3r_1_1_undo_redo_1_1_immutable_object_history.html#ae9a96150732683627aea0c729ae83e4c", null ],
+    [ "is_optional", "d2/dc7/class_slic3r_1_1_undo_redo_1_1_immutable_object_history.html#a841a02394e3e0cba9f45addaa32dc3a3", null ],
+    [ "is_serialized", "d2/dc7/class_slic3r_1_1_undo_redo_1_1_immutable_object_history.html#af86e534631e35b6b196b9c48a7a0bb71", null ],
+    [ "memsize", "d2/dc7/class_slic3r_1_1_undo_redo_1_1_immutable_object_history.html#a9bcfd446091004213023555a4d07aff8", null ],
+    [ "release_after_timestamp", "d2/dc7/class_slic3r_1_1_undo_redo_1_1_immutable_object_history.html#ad40d1f03fdacb4a776572e2a1a6f942b", null ],
+    [ "release_before_timestamp", "d2/dc7/class_slic3r_1_1_undo_redo_1_1_immutable_object_history.html#a58b33fa6207444271ba67f1b316366dc", null ],
+    [ "release_between_timestamps", "d2/dc7/class_slic3r_1_1_undo_redo_1_1_immutable_object_history.html#aaea29f2924d699b4afe6fb389e5e4227", null ],
+    [ "release_optional", "d2/dc7/class_slic3r_1_1_undo_redo_1_1_immutable_object_history.html#a9bde6cd375c83c80fb39699782abad67", null ],
+    [ "restore_optional", "d2/dc7/class_slic3r_1_1_undo_redo_1_1_immutable_object_history.html#ae4073ab24c242bc9202f33f3aa574184", null ],
+    [ "save", "d2/dc7/class_slic3r_1_1_undo_redo_1_1_immutable_object_history.html#ac079bfff5578a05a2c322a311af5c9b0", null ],
+    [ "serialized_data", "d2/dc7/class_slic3r_1_1_undo_redo_1_1_immutable_object_history.html#a11dcd45e0439c6a1e41f991294391b73", null ],
+    [ "shared_ptr", "d2/dc7/class_slic3r_1_1_undo_redo_1_1_immutable_object_history.html#a211ef413fb17877b4f82bcc353996f7a", null ],
+    [ "valid", "d2/dc7/class_slic3r_1_1_undo_redo_1_1_immutable_object_history.html#a967d517afe06dd94b8b6209457ad0efb", null ],
+    [ "m_history", "d2/dc7/class_slic3r_1_1_undo_redo_1_1_immutable_object_history.html#a97e0cd08f03e9f7df254f03e95624887", null ],
+    [ "m_optional", "d2/dc7/class_slic3r_1_1_undo_redo_1_1_immutable_object_history.html#a5cac3868c8bf9e3b3f194f682b36e835", null ],
+    [ "m_serialized", "d2/dc7/class_slic3r_1_1_undo_redo_1_1_immutable_object_history.html#a81859d7148d253981c632df360cb0445", null ],
+    [ "m_shared_object", "d2/dc7/class_slic3r_1_1_undo_redo_1_1_immutable_object_history.html#a6c9e7b30bf05c1b3225b17eb18017b0a", null ]
+];

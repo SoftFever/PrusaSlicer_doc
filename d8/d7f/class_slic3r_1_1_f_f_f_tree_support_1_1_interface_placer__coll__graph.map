@@ -1,0 +1,28 @@
+<map id="Slic3r::FFFTreeSupport::InterfacePlacer" name="Slic3r::FFFTreeSupport::InterfacePlacer">
+<area shape="rect" id="Node000001" title=" " alt="" coords="1581,164,1739,205"/>
+<area shape="rect" id="Node000002" href="$db/d2b/struct_slic3r_1_1_slicing_parameters.html" title=" " alt="" coords="1202,41,1370,67"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1386,59,1472,75,1516,87,1559,104,1604,131,1640,162,1636,166,1601,136,1556,108,1514,92,1470,80,1385,64"/>
+<area shape="rect" id="Node000003" href="$d7/df4/struct_slic3r_1_1_f_f_f_support_1_1_support_parameters.html" title=" " alt="" coords="1216,91,1357,132"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="1372,117,1462,129,1558,147,1604,161,1603,166,1557,153,1461,134,1371,122"/>
+<area shape="rect" id="Node000004" href="$d6/d0f/class_slic3r_1_1_flow.html" title=" " alt="" coords="797,75,888,100"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="903,88,1215,105,1215,110,902,93"/>
+<area shape="rect" id="Node000005" href="$db/da3/struct_slic3r_1_1_f_f_f_tree_support_1_1_tree_support_settings.html" title="This struct contains settings used in the tree support. Thanks to this most functions do not need to ..." alt="" coords="1208,208,1365,249"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="1379,219,1557,200,1580,196,1581,201,1558,205,1380,224"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="387,241,532,267"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="547,248,556,247,1207,228,1207,233,556,253,547,253"/>
+<area shape="rect" id="Node000009" href="$da/d67/struct_slic3r_1_1_f_f_f_tree_support_1_1_tree_support_mesh_group_settings.html" title=" " alt="" coords="735,279,950,320"/>
+<area shape="poly" id="edge9_Node000009_Node000006" title=" " alt="" coords="548,262,735,284,734,289,547,267"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="149,241,264,267"/>
+<area shape="poly" id="edge13_Node000001_Node000007" title=" " alt="" coords="242,231,284,210,338,189,397,173,458,166,1288,166,1444,170,1581,177,1581,182,1444,175,1288,171,459,171,398,178,339,194,287,215,244,236"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="279,251,386,251,386,257,279,257"/>
+<area shape="rect" id="Node000010" title=" " alt="" coords="556,333,711,359"/>
+<area shape="poly" id="edge11_Node000010_Node000007" title=" " alt="" coords="274,268,289,272,564,330,563,335,287,277,273,273"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="5,241,44,267"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="59,251,148,251,148,257,59,257"/>
+<area shape="poly" id="edge8_Node000005_Node000009" title=" " alt="" coords="965,288,1059,278,1158,262,1220,247,1221,252,1159,268,1060,283,965,294"/>
+<area shape="poly" id="edge10_Node000005_Node000010" title=" " alt="" coords="724,359,821,367,876,367,934,364,992,356,1050,342,1105,322,1156,293,1164,286,1168,278,1172,269,1180,260,1206,246,1208,250,1184,264,1176,272,1173,280,1168,289,1160,297,1108,326,1052,347,993,361,934,369,876,373,820,372,724,364"/>
+<area shape="rect" id="Node000011" href="$d8/dc2/class_slic3r_1_1_f_f_f_support_1_1_support_generator_layer_storage.html" title=" " alt="" coords="1182,274,1390,314"/>
+<area shape="poly" id="edge12_Node000001_Node000011" title=" " alt="" coords="1404,275,1480,259,1556,236,1624,203,1626,208,1558,241,1481,264,1405,280"/>
+<area shape="rect" id="Node000012" title=" " alt="" coords="1245,339,1328,364"/>
+<area shape="poly" id="edge14_Node000001_Node000012" title=" " alt="" coords="1342,347,1391,343,1446,333,1503,317,1556,293,1584,274,1608,250,1644,204,1648,207,1612,254,1587,278,1559,298,1504,322,1447,338,1391,348,1343,352"/>
+</map>

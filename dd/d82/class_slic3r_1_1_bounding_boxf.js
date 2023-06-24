@@ -1,0 +1,28 @@
+var class_slic3r_1_1_bounding_boxf =
+[
+    [ "PointsType", "dd/d82/class_slic3r_1_1_bounding_boxf.html#aabc400e505e11c3bf76e56d35b9ef40e", null ],
+    [ "BoundingBoxf", "dd/d82/class_slic3r_1_1_bounding_boxf.html#a1f6fae92f41e41e634272515d04e432d", null ],
+    [ "BoundingBoxf", "dd/d82/class_slic3r_1_1_bounding_boxf.html#a0919072279a21f0a6feedd221ae74a31", null ],
+    [ "BoundingBoxf", "dd/d82/class_slic3r_1_1_bounding_boxf.html#af3b855dd81e542f0b0758e9bfc841db5", null ],
+    [ "center", "dd/d82/class_slic3r_1_1_bounding_boxf.html#a742ed443778220e8188e5bcd38253a5e", null ],
+    [ "construct", "dd/d82/class_slic3r_1_1_bounding_boxf.html#a037c199f15b5341a037b1e966d7b9cfc", null ],
+    [ "contains", "dd/d82/class_slic3r_1_1_bounding_boxf.html#a0a096a9be6353c1d228011d5135872a8", null ],
+    [ "contains", "dd/d82/class_slic3r_1_1_bounding_boxf.html#a95f665e7b8a5036c835f1bdb55d5bc59", null ],
+    [ "inflated", "dd/d82/class_slic3r_1_1_bounding_boxf.html#a834fc8b5563fb33168a11dea3a91830f", null ],
+    [ "merge", "dd/d82/class_slic3r_1_1_bounding_boxf.html#a4ae0b3d782e1c2a019eb1f6de7769bc1", null ],
+    [ "merge", "dd/d82/class_slic3r_1_1_bounding_boxf.html#aa12e9ed8174db8ecec43ad6827e7a9f8", null ],
+    [ "merge", "dd/d82/class_slic3r_1_1_bounding_boxf.html#a326b78c35f99f2a5aff88a317d9cac4e", null ],
+    [ "offset", "dd/d82/class_slic3r_1_1_bounding_boxf.html#a762862fe4045a7298a040a53dfa82ca7", null ],
+    [ "operator!=", "dd/d82/class_slic3r_1_1_bounding_boxf.html#a7188e0b834c9661086b2a10d28a8fc36", null ],
+    [ "operator==", "dd/d82/class_slic3r_1_1_bounding_boxf.html#ae4a53c854dcd7c3962067e2a5104a313", null ],
+    [ "overlap", "dd/d82/class_slic3r_1_1_bounding_boxf.html#ab018a2328012cc9b90983ccf5776c9b1", null ],
+    [ "radius", "dd/d82/class_slic3r_1_1_bounding_boxf.html#ae6ae9b1c183c1f6e144868d467c48293", null ],
+    [ "reset", "dd/d82/class_slic3r_1_1_bounding_boxf.html#a7c5663e79818a8473d96509eeab925c7", null ],
+    [ "scale", "dd/d82/class_slic3r_1_1_bounding_boxf.html#a568b31b510931e0b0a2f41889fb1bb32", null ],
+    [ "size", "dd/d82/class_slic3r_1_1_bounding_boxf.html#a4536ebbe0cb273882cdc63c1d66d0371", null ],
+    [ "translate", "dd/d82/class_slic3r_1_1_bounding_boxf.html#a1f9940b0fe4b1b21eb4fc1bb15da24cb", null ],
+    [ "translate", "dd/d82/class_slic3r_1_1_bounding_boxf.html#a7a2febdc9ed051b922bc5cf728e565bb", null ],
+    [ "defined", "dd/d82/class_slic3r_1_1_bounding_boxf.html#a6c0e2282e86366eea8b08e970c75ff9b", null ],
+    [ "max", "dd/d82/class_slic3r_1_1_bounding_boxf.html#a1382e0a608cd3261f2506f7b48d60857", null ],
+    [ "min", "dd/d82/class_slic3r_1_1_bounding_boxf.html#ac249c80f8bbfde86457794be35e12ea9", null ]
+];

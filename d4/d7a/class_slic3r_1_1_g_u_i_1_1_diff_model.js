@@ -1,0 +1,28 @@
+var class_slic3r_1_1_g_u_i_1_1_diff_model =
+[
+    [ "DiffModel", "d4/d7a/class_slic3r_1_1_g_u_i_1_1_diff_model.html#a18d0274cfa9f2ea3224b78ddff121f06", null ],
+    [ "~DiffModel", "d4/d7a/class_slic3r_1_1_g_u_i_1_1_diff_model.html#ab7b7239317480bd0394199f49c738598", null ],
+    [ "AddOption", "d4/d7a/class_slic3r_1_1_g_u_i_1_1_diff_model.html#a24b231ddceb9389ad7da97042c18776a", null ],
+    [ "AddOption", "d4/d7a/class_slic3r_1_1_g_u_i_1_1_diff_model.html#a2ef280d608ea30cca8f564f05b34d496", null ],
+    [ "AddOptionWithGroup", "d4/d7a/class_slic3r_1_1_g_u_i_1_1_diff_model.html#a2fa771a5d9ff956cc46045ecd89381e8", null ],
+    [ "AddOptionWithGroupAndCategory", "d4/d7a/class_slic3r_1_1_g_u_i_1_1_diff_model.html#a33ce4428b0990beeb8df19057969d15b", null ],
+    [ "AddPreset", "d4/d7a/class_slic3r_1_1_g_u_i_1_1_diff_model.html#a5e487c9934f5cab55a78e06f18642e3b", null ],
+    [ "Clear", "d4/d7a/class_slic3r_1_1_g_u_i_1_1_diff_model.html#a51c3de06a46b93553e8a0656ecae297d", null ],
+    [ "Delete", "d4/d7a/class_slic3r_1_1_g_u_i_1_1_diff_model.html#a01b48a32cc18e92daa77c774b979e7ab", null ],
+    [ "GetChildren", "d4/d7a/class_slic3r_1_1_g_u_i_1_1_diff_model.html#aea705d4592099363cf3e74ea6424bcb6", null ],
+    [ "GetColumnCount", "d4/d7a/class_slic3r_1_1_g_u_i_1_1_diff_model.html#a71f47014470683ed208fccd9b2aea002", null ],
+    [ "GetColumnType", "d4/d7a/class_slic3r_1_1_g_u_i_1_1_diff_model.html#a63f332d2335469421293c450ef5b3fb4", null ],
+    [ "GetParent", "d4/d7a/class_slic3r_1_1_g_u_i_1_1_diff_model.html#ad49e3ca0a76eae4e146f90807743f895", null ],
+    [ "GetValue", "d4/d7a/class_slic3r_1_1_g_u_i_1_1_diff_model.html#ae48eadc96b477d6783a9b88023e27b99", null ],
+    [ "HasContainerColumns", "d4/d7a/class_slic3r_1_1_g_u_i_1_1_diff_model.html#a732421e98ef6e7915012fb4f141d7e44", null ],
+    [ "IsContainer", "d4/d7a/class_slic3r_1_1_g_u_i_1_1_diff_model.html#ad168453cb4b4c32b1b19c43cd7bac548", null ],
+    [ "IsEnabled", "d4/d7a/class_slic3r_1_1_g_u_i_1_1_diff_model.html#adc93cda90e362ac0d733ac6330c23d4b", null ],
+    [ "IsEnabledItem", "d4/d7a/class_slic3r_1_1_g_u_i_1_1_diff_model.html#a5b994dd4a9772057c61b007307907da3", null ],
+    [ "Rescale", "d4/d7a/class_slic3r_1_1_g_u_i_1_1_diff_model.html#a98cebc679ef8a6d46dfb167046d0626f", null ],
+    [ "SetAssociatedControl", "d4/d7a/class_slic3r_1_1_g_u_i_1_1_diff_model.html#a341a800809a1bd1b08461da37fc6149a", null ],
+    [ "SetValue", "d4/d7a/class_slic3r_1_1_g_u_i_1_1_diff_model.html#a854e8599462e81b5e434f15059cc29ca", null ],
+    [ "UpdateItemEnabling", "d4/d7a/class_slic3r_1_1_g_u_i_1_1_diff_model.html#aec33ebf8f41fe519152d3af86f937dea", null ],
+    [ "m_ctrl", "d4/d7a/class_slic3r_1_1_g_u_i_1_1_diff_model.html#abe80b3273d91e909e9b13025bdbaf97d", null ],
+    [ "m_parent_win", "d4/d7a/class_slic3r_1_1_g_u_i_1_1_diff_model.html#af715e5722313b3aaf36485ce5bc9cf1f", null ],
+    [ "m_preset_nodes", "d4/d7a/class_slic3r_1_1_g_u_i_1_1_diff_model.html#a8a536e9ef59ba86fc6430920ccac3083", null ]
+];

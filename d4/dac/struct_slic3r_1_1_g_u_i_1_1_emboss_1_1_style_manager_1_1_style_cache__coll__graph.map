@@ -1,0 +1,88 @@
+<map id="Slic3r::GUI::Emboss::StyleManager::StyleCache" name="Slic3r::GUI::Emboss::StyleManager::StyleCache">
+<area shape="rect" id="Node000001" title="Cache data from style to reduce amount of: 1) loading font from file 2) Create atlas of symbols for i..." alt="" coords="2101,623,2286,663"/>
+<area shape="rect" id="Node000002" href="$d2/dcb/struct_slic3r_1_1_emboss_1_1_font_file_with_cache.html" title="Add caching for shape of glyphs." alt="" coords="1837,112,2003,153"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1951,162,2014,241,2048,290,2079,342,2117,420,2149,500,2189,621,2184,623,2144,502,2112,422,2074,344,2043,293,2009,244,1947,166"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="1512,112,1693,153"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="1708,130,1837,130,1837,135,1708,135"/>
+<area shape="rect" id="Node000004" href="$d8/d5c/struct_slic3r_1_1_emboss_1_1_font_file.html" title="keep information from file about font (store file data itself)" alt="" coords="1186,153,1352,179"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="1366,153,1511,139,1512,144,1367,159"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="839,217,1022,258"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="1036,221,1161,197,1229,177,1230,182,1162,202,1037,226"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="535,217,682,258"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="697,235,839,235,839,240,697,240"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="174,184,289,209"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="295,211,338,219,441,230,535,234,534,240,440,235,338,225,294,216"/>
+<area shape="rect" id="Node000010" title=" " alt="" coords="539,138,679,194"/>
+<area shape="poly" id="edge12_Node000010_Node000007" title=" " alt="" coords="304,197,397,198,498,190,538,183,539,188,498,196,397,203,304,203"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="5,170,44,196"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="59,182,174,190,173,195,59,188"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="348,286,488,312"/>
+<area shape="poly" id="edge9_Node000009_Node000008" title=" " alt="" coords="57,202,69,208,142,235,217,257,349,286,348,291,215,262,140,240,67,212,55,206"/>
+<area shape="rect" id="Node000012" title=" " alt="" coords="161,65,302,91"/>
+<area shape="poly" id="edge14_Node000012_Node000008" title=" " alt="" coords="55,162,123,117,147,101,178,89,180,94,150,105,126,122,58,166"/>
+<area shape="rect" id="Node000014" title=" " alt="" coords="171,8,292,33"/>
+<area shape="poly" id="edge18_Node000014_Node000008" title=" " alt="" coords="33,155,47,129,66,103,93,78,124,58,185,31,187,36,127,63,96,83,70,106,52,131,38,158"/>
+<area shape="poly" id="edge8_Node000005_Node000009" title=" " alt="" coords="502,297,522,297,609,301,647,301,695,297,786,279,867,256,869,261,787,284,696,302,647,307,609,306,522,302,502,302"/>
+<area shape="poly" id="edge10_Node000004_Node000010" title=" " alt="" coords="694,163,1186,163,1186,168,694,168"/>
+<area shape="rect" id="Node000011" href="$d8/d5c/struct_slic3r_1_1_emboss_1_1_font_file.html#d3/dcf/struct_slic3r_1_1_emboss_1_1_font_file_1_1_info" title=" " alt="" coords="149,115,314,155"/>
+<area shape="poly" id="edge11_Node000010_Node000011" title=" " alt="" coords="329,140,539,157,538,163,329,146"/>
+<area shape="poly" id="edge13_Node000003_Node000012" title=" " alt="" coords="316,83,453,93,607,98,1270,98,1397,104,1512,116,1511,122,1397,109,1270,103,607,103,453,98,316,88"/>
+<area shape="rect" id="Node000013" title=" " alt="" coords="525,12,693,53"/>
+<area shape="poly" id="edge19_Node000013_Node000012" title=" " alt="" coords="316,68,498,47,524,44,524,49,498,53,317,73"/>
+<area shape="poly" id="edge15_Node000002_Node000013" title=" " alt="" coords="708,30,929,30,1604,30,1644,32,1683,38,1760,58,1828,84,1881,109,1879,114,1826,89,1758,63,1682,43,1643,37,1604,35,929,35,708,35"/>
+<area shape="poly" id="edge16_Node000013_Node000014" title=" " alt="" coords="307,20,524,27,524,32,307,25"/>
+<area shape="rect" id="Node000015" title=" " alt="" coords="5,8,44,33"/>
+<area shape="poly" id="edge17_Node000014_Node000015" title=" " alt="" coords="59,18,170,18,170,23,59,23"/>
+<area shape="rect" id="Node000016" href="$df/d93/struct_im_vector.html" title=" " alt="" coords="533,524,684,549"/>
+<area shape="poly" id="edge20_Node000001_Node000016" title=" " alt="" coords="657,515,826,459,935,430,1045,408,1230,386,1375,380,1520,388,1705,406,1761,412,1814,428,1919,474,2018,528,2102,579,2164,620,2161,624,2100,584,2015,532,1916,479,1812,434,1759,418,1704,411,1519,393,1375,385,1230,391,1046,414,936,435,828,464,659,520"/>
+<area shape="rect" id="Node000021" href="$d7/dc9/struct_im_font.html" title=" " alt="" coords="899,585,962,611"/>
+<area shape="poly" id="edge28_Node000021_Node000016" title=" " alt="" coords="699,547,816,568,900,587,898,593,815,574,698,553"/>
+<area shape="rect" id="Node000017" href="$df/d93/struct_im_vector.html" title=" " alt="" coords="178,598,285,624"/>
+<area shape="poly" id="edge21_Node000016_Node000017" title=" " alt="" coords="277,590,337,571,439,552,533,540,533,545,440,557,339,576,279,595"/>
+<area shape="rect" id="Node000020" href="$df/d93/struct_im_vector.html" title=" " alt="" coords="1195,782,1343,808"/>
+<area shape="poly" id="edge37_Node000020_Node000017" title=" " alt="" coords="248,636,284,689,309,716,339,737,395,762,453,783,512,800,573,814,696,831,817,837,933,835,1037,828,1199,806,1200,811,1038,833,933,841,817,842,696,836,572,819,511,805,451,788,393,767,337,741,306,720,280,693,243,639"/>
+<area shape="rect" id="Node000022" href="$df/d93/struct_im_vector.html" title=" " alt="" coords="547,622,670,648"/>
+<area shape="poly" id="edge27_Node000022_Node000017" title=" " alt="" coords="300,623,338,629,449,635,547,635,547,640,449,640,338,634,299,628"/>
+<area shape="rect" id="Node000023" href="$df/d93/struct_im_vector.html" title=" " alt="" coords="522,573,695,599"/>
+<area shape="poly" id="edge31_Node000023_Node000017" title=" " alt="" coords="299,604,522,589,522,594,300,609"/>
+<area shape="rect" id="Node000026" href="$df/d93/struct_im_vector.html" title=" " alt="" coords="1501,420,1704,461"/>
+<area shape="poly" id="edge42_Node000026_Node000017" title=" " alt="" coords="244,583,281,529,307,500,337,475,388,444,434,420,476,404,518,393,606,380,719,367,828,356,940,353,1051,357,1160,365,1356,389,1507,417,1507,422,1355,395,1159,370,1051,362,940,359,829,362,720,372,607,386,519,399,478,409,436,425,391,448,340,480,311,504,285,532,249,586"/>
+<area shape="rect" id="Node000028" href="$df/d93/struct_im_vector.html" title=" " alt="" coords="1514,580,1691,605"/>
+<area shape="poly" id="edge45_Node000028_Node000017" title=" " alt="" coords="282,626,339,642,430,654,522,658,663,661,807,659,1087,644,1333,622,1513,602,1514,607,1333,628,1087,650,807,664,663,666,522,663,429,660,338,647,281,632"/>
+<area shape="rect" id="Node000018" href="$d5/d9e/struct_im_font_atlas.html" title=" " alt="" coords="1874,630,1966,656"/>
+<area shape="poly" id="edge22_Node000001_Node000018" title=" " alt="" coords="1981,640,2101,640,2101,646,1981,646"/>
+<area shape="poly" id="edge33_Node000021_Node000018" title=" " alt="" coords="1859,650,1714,658,1512,663,1280,657,1161,648,1045,634,1001,624,962,612,963,606,1002,619,1046,628,1162,643,1281,652,1512,658,1714,653,1859,645"/>
+<area shape="rect" id="Node000019" href="$d7/d55/struct_im_vec2.html" title=" " alt="" coords="897,489,964,515"/>
+<area shape="poly" id="edge23_Node000018_Node000019" title=" " alt="" coords="979,501,1285,518,1493,537,1705,564,1760,574,1814,590,1858,608,1896,627,1893,632,1856,613,1813,595,1759,579,1704,570,1493,542,1284,523,979,506"/>
+<area shape="rect" id="Node000025" href="$d5/d84/struct_im_font_config.html" title=" " alt="" coords="1219,573,1319,599"/>
+<area shape="poly" id="edge35_Node000025_Node000019" title=" " alt="" coords="972,519,1047,548,1137,568,1219,579,1218,584,1136,573,1045,553,970,524"/>
+<area shape="rect" id="Node000027" href="$d1/d27/struct_im_font_atlas_custom_rect.html" title=" " alt="" coords="1186,428,1352,453"/>
+<area shape="poly" id="edge40_Node000027_Node000019" title=" " alt="" coords="961,478,1000,456,1045,439,1116,429,1185,429,1185,434,1117,434,1046,444,1002,461,964,483"/>
+<area shape="poly" id="edge24_Node000018_Node000020" title=" " alt="" coords="1358,800,1433,802,1520,802,1613,795,1704,781,1760,764,1812,734,1866,692,1905,654,1909,658,1869,696,1815,739,1763,769,1705,786,1613,801,1520,807,1433,808,1358,805"/>
+<area shape="poly" id="edge25_Node000020_Node000021" title=" " alt="" coords="954,620,1003,676,1047,719,1084,739,1124,756,1200,779,1199,784,1122,761,1082,744,1044,723,999,680,950,624"/>
+<area shape="poly" id="edge36_Node000025_Node000021" title=" " alt="" coords="977,606,1063,620,1112,622,1161,618,1200,609,1235,597,1237,602,1201,614,1162,623,1112,627,1062,625,976,612"/>
+<area shape="poly" id="edge41_Node000027_Node000021" title=" " alt="" coords="957,573,997,542,1045,513,1131,476,1212,451,1214,456,1133,481,1047,517,1000,547,960,577"/>
+<area shape="poly" id="edge26_Node000021_Node000022" title=" " alt="" coords="685,625,815,611,898,600,899,605,816,617,685,631"/>
+<area shape="poly" id="edge29_Node000021_Node000023" title=" " alt="" coords="711,587,899,594,899,599,710,592"/>
+<area shape="rect" id="Node000024" href="$db/d19/imgui_8h.html#df/d57/struct_im_font_glyph" title=" " alt="" coords="183,448,280,473"/>
+<area shape="poly" id="edge32_Node000021_Node000024" title=" " alt="" coords="294,451,338,448,475,446,531,449,583,456,634,467,688,483,816,531,868,556,910,582,908,586,866,561,814,536,686,488,633,472,582,461,531,454,475,451,338,454,295,457"/>
+<area shape="poly" id="edge30_Node000023_Node000024" title=" " alt="" coords="295,461,342,467,395,479,450,498,500,525,508,534,513,543,516,552,524,560,543,570,540,575,520,564,512,555,508,545,504,537,496,529,447,502,394,484,341,473,294,466"/>
+<area shape="poly" id="edge34_Node000021_Node000025" title=" " alt="" coords="1204,596,1162,599,1052,602,962,601,962,596,1052,597,1162,594,1203,591"/>
+<area shape="poly" id="edge44_Node000028_Node000025" title=" " alt="" coords="1334,584,1514,588,1514,593,1334,590"/>
+<area shape="poly" id="edge38_Node000018_Node000026" title=" " alt="" coords="1720,445,1769,458,1815,481,1853,516,1883,557,1904,598,1917,629,1912,631,1899,600,1878,560,1849,519,1812,485,1767,463,1718,450"/>
+<area shape="poly" id="edge39_Node000026_Node000027" title=" " alt="" coords="1367,438,1501,438,1501,443,1367,443"/>
+<area shape="poly" id="edge43_Node000018_Node000028" title=" " alt="" coords="1707,605,1814,622,1874,632,1873,637,1813,627,1706,610"/>
+<area shape="rect" id="Node000029" href="$de/d2a/struct_im_vec4.html" title=" " alt="" coords="1570,681,1636,707"/>
+<area shape="poly" id="edge46_Node000018_Node000029" title=" " alt="" coords="1650,690,1727,686,1813,674,1883,654,1884,659,1814,679,1727,691,1651,696"/>
+<area shape="rect" id="Node000030" href="$d3/d0e/struct_im_font_builder_i_o.html" title=" " alt="" coords="1545,730,1661,756"/>
+<area shape="poly" id="edge47_Node000018_Node000030" title=" " alt="" coords="1675,736,1743,725,1812,706,1862,681,1900,654,1903,659,1864,686,1814,711,1744,731,1676,741"/>
+<area shape="rect" id="Node000031" title=" " alt="" coords="1563,910,1642,936"/>
+<area shape="poly" id="edge48_Node000001_Node000031" title=" " alt="" coords="1657,927,1730,931,1819,927,1866,921,1913,910,1959,895,2001,874,2034,852,2064,826,2115,766,2154,708,2180,662,2184,665,2159,711,2119,770,2067,830,2037,856,2004,879,1961,900,1915,916,1867,926,1819,933,1730,936,1657,932"/>
+<area shape="rect" id="Node000033" href="$d6/d79/struct_slic3r_1_1_emboss_style.html" title="Style of embossed text (Path + Type) must define how to open font for using on different OS NOTE: OnE..." alt="" coords="1850,824,1990,849"/>
+<area shape="poly" id="edge51_Node000033_Node000031" title=" " alt="" coords="1657,914,1731,901,1813,881,1855,865,1892,847,1895,852,1857,870,1814,886,1732,907,1658,919"/>
+<area shape="rect" id="Node000032" title=" " alt="" coords="1206,903,1332,943"/>
+<area shape="poly" id="edge49_Node000031_Node000032" title=" " alt="" coords="1347,920,1563,920,1563,926,1347,926"/>
+<area shape="poly" id="edge50_Node000001_Node000033" title=" " alt="" coords="1950,813,2161,662,2165,666,1953,817"/>
+<area shape="rect" id="Node000034" href="$d0/d18/struct_slic3r_1_1_font_prop.html" title="User modifiable property of text style NOTE: OnEdit fix serializations: EmbossStylesSerializable,..." alt="" coords="1545,844,1660,869"/>
+<area shape="poly" id="edge52_Node000033_Node000034" title=" " alt="" coords="1675,849,1849,838,1850,843,1676,854"/>
+</map>

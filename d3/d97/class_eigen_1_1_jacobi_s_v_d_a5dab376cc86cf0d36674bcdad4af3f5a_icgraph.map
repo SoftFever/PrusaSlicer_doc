@@ -1,0 +1,47 @@
+<map id="Eigen::JacobiSVD::compute" name="Eigen::JacobiSVD::compute">
+<area shape="rect" id="Node000001" title="Method performing the decomposition of given matrix using custom options." alt="" coords="826,172,1012,198"/>
+<area shape="rect" id="Node000002" href="$dc/d25/namespaceigl.html#a7ca4f117b5802a6cc85eab33b797b04e" title=" " alt="" coords="637,67,778,108"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="875,168,752,111,755,106,877,163"/>
+<area shape="rect" id="Node000004" href="$dc/d25/namespaceigl.html#a46f5a6e912789678a86ebf66479a11a0" title=" " alt="" coords="658,200,757,226"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="811,202,757,209,757,204,811,196"/>
+<area shape="rect" id="Node000003" href="$dc/d25/namespaceigl.html#a7c199d5f8fffe9263be5a150a0e58d44" title=" " alt="" coords="408,5,589,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="639,64,588,46,550,34,551,29,590,41,641,59"/>
+<area shape="rect" id="Node000005" href="$d5/d6b/namespaceigl_1_1slim.html#a05be9f4db44adddcc36efc382dc1db8f" title=" " alt="" coords="419,55,579,96"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="683,191,641,150,588,110,566,99,568,94,591,105,645,146,687,187"/>
+<area shape="rect" id="Node000009" href="$dc/d25/namespaceigl.html#aa0e8cb752bc5c62c643022218eac435b" title=" " alt="" coords="444,285,554,311"/>
+<area shape="poly" id="edge8_Node000004_Node000009" title=" " alt="" coords="672,236,590,275,555,287,553,282,588,270,670,231"/>
+<area shape="rect" id="Node000012" href="$dc/d25/namespaceigl.html#acaa914f10f9e4a7033385e687563b918" title=" " alt="" coords="444,221,554,261"/>
+<area shape="poly" id="edge11_Node000004_Node000012" title=" " alt="" coords="644,224,555,236,554,231,643,219"/>
+<area shape="rect" id="Node000013" href="$dc/d25/namespaceigl.html#ad2d0c0f580125e75d5ed46f5abff31fc" title=" " alt="" coords="450,387,548,412"/>
+<area shape="poly" id="edge14_Node000004_Node000013" title=" " alt="" coords="695,240,654,305,625,339,591,370,550,390,547,385,588,365,621,336,650,301,690,238"/>
+<area shape="rect" id="Node000015" href="$dc/d25/namespaceigl.html#af37e9b5132a0005d6394d7bf21409cf3" title=" " alt="" coords="226,336,329,362"/>
+<area shape="poly" id="edge22_Node000004_Node000015" title=" " alt="" coords="690,240,649,285,621,308,590,326,522,348,452,358,385,360,329,357,330,352,385,355,451,353,521,343,588,321,618,304,645,282,686,236"/>
+<area shape="rect" id="Node000020" href="$dc/d25/namespaceigl.html#ab4ef7d9cd54b9ec709683011cca82f2c" title=" " alt="" coords="450,120,548,146"/>
+<area shape="poly" id="edge21_Node000004_Node000020" title=" " alt="" coords="660,196,588,167,538,149,540,144,590,162,662,191"/>
+<area shape="rect" id="Node000021" href="$d5/d6b/namespaceigl_1_1slim.html#a18fdbabfa4f5013fe156433796bb9a69" title=" " alt="" coords="195,162,360,203"/>
+<area shape="poly" id="edge23_Node000004_Node000021" title=" " alt="" coords="644,211,360,191,361,185,644,206"/>
+<area shape="rect" id="Node000006" href="$d5/d6b/namespaceigl_1_1slim.html#ac5fbe495d7e27c4d6c14072f3d30fd52" title=" " alt="" coords="215,75,340,116"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="405,87,340,93,340,87,404,81"/>
+<area shape="rect" id="Node000007" href="$dc/d25/namespaceigl.html#af98f87fe72dc406d15af8bc2b5de33df" title="Slim Implementation." alt="" coords="5,83,147,108"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="200,98,147,98,147,93,200,93"/>
+<area shape="rect" id="Node000008" href="$dc/d25/namespaceigl.html#a6e398f664b41f25e30ece7af735d7166" title=" " alt="" coords="24,151,128,176"/>
+<area shape="poly" id="edge7_Node000006_Node000008" title=" " alt="" coords="202,124,118,153,116,147,200,119"/>
+<area shape="rect" id="Node000010" href="$dc/d25/namespaceigl.html#ab9c5abd3a5fc23a79394e2060e9a9a66" title=" " alt="" coords="208,283,347,308"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="429,300,347,299,347,294,429,295"/>
+<area shape="rect" id="Node000011" href="$dc/d25/namespaceigl.html#ae56177254e1311cdc21f592a4e7b9ac7" title=" " alt="" coords="225,231,330,256"/>
+<area shape="poly" id="edge10_Node000009_Node000011" title=" " alt="" coords="429,284,330,259,331,254,431,279"/>
+<area shape="poly" id="edge12_Node000012_Node000010" title=" " alt="" coords="430,260,333,285,332,279,429,255"/>
+<area shape="poly" id="edge13_Node000012_Node000011" title=" " alt="" coords="429,244,331,246,331,240,429,239"/>
+<area shape="rect" id="Node000014" href="$dc/d25/namespaceigl.html#a83219c9a394203e76b8888eaf4fc2b4f" title=" " alt="" coords="228,387,327,412"/>
+<area shape="poly" id="edge15_Node000013_Node000014" title=" " alt="" coords="435,402,327,402,327,397,435,397"/>
+<area shape="poly" id="edge16_Node000013_Node000015" title=" " alt="" coords="435,388,329,363,330,358,436,383"/>
+<area shape="rect" id="Node000016" href="$dc/d25/namespaceigl.html#a9342f33226f737de51207cea97dce35c" title=" " alt="" coords="24,261,128,287"/>
+<area shape="poly" id="edge17_Node000015_Node000016" title=" " alt="" coords="220,333,194,323,146,301,118,290,120,285,148,296,196,318,222,328"/>
+<area shape="rect" id="Node000017" href="$dc/d25/namespaceigl.html#aa34f40c5c988bec306c7b38e10a4e228" title=" " alt="" coords="24,311,128,336"/>
+<area shape="poly" id="edge18_Node000015_Node000017" title=" " alt="" coords="211,343,128,333,129,327,211,338"/>
+<area shape="rect" id="Node000018" href="$dc/d25/namespaceigl.html#af79a15af145a19b05eae81942fc6d974" title=" " alt="" coords="24,360,128,386"/>
+<area shape="poly" id="edge19_Node000015_Node000018" title=" " alt="" coords="211,359,129,369,128,364,211,354"/>
+<area shape="rect" id="Node000019" href="$dc/d25/namespaceigl.html#a6c3d45ab8af86f53a0c5cdebd89fc4ab" title=" " alt="" coords="24,409,128,435"/>
+<area shape="poly" id="edge20_Node000015_Node000019" title=" " alt="" coords="215,369,196,377,148,401,120,411,118,406,146,396,194,372,214,364"/>
+<area shape="poly" id="edge24_Node000021_Node000008" title=" " alt="" coords="180,176,128,171,129,166,180,170"/>
+</map>

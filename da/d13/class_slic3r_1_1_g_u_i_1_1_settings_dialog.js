@@ -1,0 +1,28 @@
+var class_slic3r_1_1_g_u_i_1_1_settings_dialog =
+[
+    [ "SettingsDialog", "da/d13/class_slic3r_1_1_g_u_i_1_1_settings_dialog.html#a9b940db2d4045a7a961f4695246c7cad", null ],
+    [ "~SettingsDialog", "da/d13/class_slic3r_1_1_g_u_i_1_1_settings_dialog.html#a2bbfc04a2bf7ca677e789a188a2e8e43", null ],
+    [ "em_unit", "da/d13/class_slic3r_1_1_g_u_i_1_1_settings_dialog.html#a10bf715638840dfd1312a054e64f8571", null ],
+    [ "enable_force_rescale", "da/d13/class_slic3r_1_1_g_u_i_1_1_settings_dialog.html#a7042ce8086749b7827d0d492524fab03", null ],
+    [ "is_new_scale_factor", "da/d13/class_slic3r_1_1_g_u_i_1_1_settings_dialog.html#abfd12731f8eafdafa323c1a378c37daa", null ],
+    [ "menubar", "da/d13/class_slic3r_1_1_g_u_i_1_1_settings_dialog.html#a9bbf80184130c4c400338e320226dca4", null ],
+    [ "normal_font", "da/d13/class_slic3r_1_1_g_u_i_1_1_settings_dialog.html#a592af0ff0463093da80d75501e0d45a8", null ],
+    [ "on_dpi_changed", "da/d13/class_slic3r_1_1_g_u_i_1_1_settings_dialog.html#afd3d81636f433ac3bda1ecaa72e099b3", null ],
+    [ "on_sys_color_changed", "da/d13/class_slic3r_1_1_g_u_i_1_1_settings_dialog.html#aa9a3f51aa1dfc33e30036f0e4f2ef85b", null ],
+    [ "prev_scale_factor", "da/d13/class_slic3r_1_1_g_u_i_1_1_settings_dialog.html#a60c17342c872d7a2b5159102675c1c45", null ],
+    [ "rescale", "da/d13/class_slic3r_1_1_g_u_i_1_1_settings_dialog.html#a258b26af2e6efa84a0850aba92b6953c", null ],
+    [ "scale_controls_fonts", "da/d13/class_slic3r_1_1_g_u_i_1_1_settings_dialog.html#a3893005e85b3ebee35f1a3e06b1017ff", null ],
+    [ "scale_factor", "da/d13/class_slic3r_1_1_g_u_i_1_1_settings_dialog.html#a57e939dda20ddd73d8bb889a122ef7ea", null ],
+    [ "scale_win_font", "da/d13/class_slic3r_1_1_g_u_i_1_1_settings_dialog.html#a5064b405f33d5018cf7ff9e87df05a32", null ],
+    [ "set_tabpanel", "da/d13/class_slic3r_1_1_g_u_i_1_1_settings_dialog.html#ac131227832bc68fa92c69144dbb83190", null ],
+    [ "m_can_rescale", "da/d13/class_slic3r_1_1_g_u_i_1_1_settings_dialog.html#add762f67570a33eb2867602e134123e7", null ],
+    [ "m_em_unit", "da/d13/class_slic3r_1_1_g_u_i_1_1_settings_dialog.html#acdf0ee3e3d61e745c9b086f0ee6b9067", null ],
+    [ "m_force_rescale", "da/d13/class_slic3r_1_1_g_u_i_1_1_settings_dialog.html#a60829dcb43545d64c4c9f7d06d4561c1", null ],
+    [ "m_main_frame", "da/d13/class_slic3r_1_1_g_u_i_1_1_settings_dialog.html#a401da4fe0d593326b849053a3e7fd52d", null ],
+    [ "m_menubar", "da/d13/class_slic3r_1_1_g_u_i_1_1_settings_dialog.html#a4ad767d99f4d8d98d217e0074f001b83", null ],
+    [ "m_new_font_point_size", "da/d13/class_slic3r_1_1_g_u_i_1_1_settings_dialog.html#a7feebac54815d18bd0ee2f8716af198c", null ],
+    [ "m_normal_font", "da/d13/class_slic3r_1_1_g_u_i_1_1_settings_dialog.html#a9a1874336905239b5e38ce58e8b2a715", null ],
+    [ "m_prev_scale_factor", "da/d13/class_slic3r_1_1_g_u_i_1_1_settings_dialog.html#a80542b0c17e71cfaa38d3eae48986200", null ],
+    [ "m_scale_factor", "da/d13/class_slic3r_1_1_g_u_i_1_1_settings_dialog.html#a3fa12f47ced5c4158abef290c18d32a6", null ],
+    [ "m_tabpanel", "da/d13/class_slic3r_1_1_g_u_i_1_1_settings_dialog.html#a546279e377132b3d421d4e9d330d641c", null ]
+];

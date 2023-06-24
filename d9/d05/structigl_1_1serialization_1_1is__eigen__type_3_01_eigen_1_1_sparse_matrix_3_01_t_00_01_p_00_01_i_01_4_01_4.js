@@ -1,0 +1,4 @@
+var structigl_1_1serialization_1_1is__eigen__type_3_01_eigen_1_1_sparse_matrix_3_01_t_00_01_p_00_01_i_01_4_01_4 =
+[
+    [ "value", "d9/d05/structigl_1_1serialization_1_1is__eigen__type_3_01_eigen_1_1_sparse_matrix_3_01_t_00_01_p_00_01_i_01_4_01_4.html#a634af71f65da1271bee88a49c4644547", null ]
+];

@@ -1,0 +1,4 @@
+var classigl_1_1copyleft_1_1cgal_1_1_binary_winding_number_operations_3_01_m_e_s_h___b_o_o_l_e_a_n___t_y_p_e___u_n_i_o_n_01_4 =
+[
+    [ "operator()", "d3/d94/classigl_1_1copyleft_1_1cgal_1_1_binary_winding_number_operations_3_01_m_e_s_h___b_o_o_l_e_a_n___t_y_p_e___u_n_i_o_n_01_4.html#ae546e0b15fb6309bdf23609e2c2e848a", null ]
+];

@@ -1,0 +1,25 @@
+var struct_slic3r_1_1_g_u_i_1_1_page_printers =
+[
+    [ "PagePrinters", "db/d86/struct_slic3r_1_1_g_u_i_1_1_page_printers.html#ac5c590813649736741d3f3c9456827e0", null ],
+    [ "any_selected", "db/d86/struct_slic3r_1_1_g_u_i_1_1_page_printers.html#a926c718d925de984812cbe0def36b522", null ],
+    [ "append", "db/d86/struct_slic3r_1_1_g_u_i_1_1_page_printers.html#a1e3837d982f499db4cad401d3cd6c15e", null ],
+    [ "append_spacer", "db/d86/struct_slic3r_1_1_g_u_i_1_1_page_printers.html#a854cf81386f9002e1cd3583df9dea17a", null ],
+    [ "append_text", "db/d86/struct_slic3r_1_1_g_u_i_1_1_page_printers.html#ae1e4711f819fadaab5f3db16027cfc1a", null ],
+    [ "apply_custom_config", "db/d86/struct_slic3r_1_1_g_u_i_1_1_page_printers.html#ad8ee75b42ae80142d9878754d0c0d61c", null ],
+    [ "get_selected_models", "db/d86/struct_slic3r_1_1_g_u_i_1_1_page_printers.html#ab9b83d5a10dee9946aff374d00e51a76", null ],
+    [ "get_vendor_id", "db/d86/struct_slic3r_1_1_g_u_i_1_1_page_printers.html#a2e07fdb6906a40c9cf46b492622243ef", null ],
+    [ "get_width", "db/d86/struct_slic3r_1_1_g_u_i_1_1_page_printers.html#a2328244c99804ad678ff7c1ca1c2d4bd", null ],
+    [ "on_activate", "db/d86/struct_slic3r_1_1_g_u_i_1_1_page_printers.html#a670f470b93533b73f587d69623ab5639", null ],
+    [ "select_all", "db/d86/struct_slic3r_1_1_g_u_i_1_1_page_printers.html#a69b2332a785f7a5704d5d81efbf030be", null ],
+    [ "set_run_reason", "db/d86/struct_slic3r_1_1_g_u_i_1_1_page_printers.html#a56b7f9b6edae2aa214f5e195b79595d0", null ],
+    [ "wizard_p", "db/d86/struct_slic3r_1_1_g_u_i_1_1_page_printers.html#a7bc9320c8f97ad5e2f8e2d71460ff8c7", null ],
+    [ "content", "db/d86/struct_slic3r_1_1_g_u_i_1_1_page_printers.html#ab7257abe2043e52a5c0187baf8cf0955", null ],
+    [ "has_printers", "db/d86/struct_slic3r_1_1_g_u_i_1_1_page_printers.html#a26adc165a662e950d4c0ee738a75071c", null ],
+    [ "indent", "db/d86/struct_slic3r_1_1_g_u_i_1_1_page_printers.html#a60c30e01f55e86d8b3bc8c64c7b21240", null ],
+    [ "install", "db/d86/struct_slic3r_1_1_g_u_i_1_1_page_printers.html#ad00110558f085b90d9830e5671a92f2c", null ],
+    [ "is_primary_printer_page", "db/d86/struct_slic3r_1_1_g_u_i_1_1_page_printers.html#a026803c9c5108fc521cffe0681cd629e", null ],
+    [ "parent", "db/d86/struct_slic3r_1_1_g_u_i_1_1_page_printers.html#a807a60c6457abc7f0d42c63429b5e83b", null ],
+    [ "printer_pickers", "db/d86/struct_slic3r_1_1_g_u_i_1_1_page_printers.html#a499e992b4f54615aa8d4a698eccb04a3", null ],
+    [ "shortname", "db/d86/struct_slic3r_1_1_g_u_i_1_1_page_printers.html#abbed03ab308c4873ce5f54521e880e0d", null ],
+    [ "technology", "db/d86/struct_slic3r_1_1_g_u_i_1_1_page_printers.html#a5fe502ab664555dd6184f3b063f100aa", null ]
+];

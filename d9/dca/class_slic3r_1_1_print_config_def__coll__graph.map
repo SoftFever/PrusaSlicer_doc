@@ -1,0 +1,43 @@
+<map id="Slic3r::PrintConfigDef" name="Slic3r::PrintConfigDef">
+<area shape="rect" id="Node000001" title=" " alt="" coords="2402,147,2550,172"/>
+<area shape="rect" id="Node000002" href="$d8/d3c/class_slic3r_1_1_config_def.html" title=" " alt="" coords="2231,367,2352,392"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="2311,353,2461,171,2466,174,2315,357"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="1855,495,2061,536"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="2023,486,2257,390,2259,395,2025,491"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="198,335,277,360"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="257,371,303,433,336,471,374,508,417,542,464,570,515,590,569,597,1671,597,1739,590,1805,575,1864,554,1913,534,1915,539,1866,559,1806,580,1739,596,1671,602,568,602,514,595,462,575,414,547,370,512,332,474,299,437,253,374"/>
+<area shape="rect" id="Node000006" href="$d1/dce/class_slic3r_1_1_config_option_def.html" title=" " alt="" coords="1590,295,1750,320"/>
+<area shape="poly" id="edge6_Node000006_Node000004" title=" " alt="" coords="292,349,522,367,822,384,918,387,1015,384,1175,371,1334,353,1590,317,1590,323,1335,358,1176,376,1015,389,918,392,822,389,522,373,292,355"/>
+<area shape="rect" id="Node000010" title=" " alt="" coords="499,118,641,158"/>
+<area shape="poly" id="edge11_Node000010_Node000004" title=" " alt="" coords="275,325,319,306,361,298,397,299,429,295,445,287,461,274,470,263,474,252,474,228,474,203,477,190,485,176,509,157,512,161,489,180,482,192,479,204,479,228,479,253,475,265,465,278,448,292,431,300,397,304,362,303,320,311,277,330"/>
+<area shape="rect" id="Node000015" title=" " alt="" coords="487,247,653,272"/>
+<area shape="poly" id="edge16_Node000015_Node000004" title=" " alt="" coords="292,346,374,340,419,333,462,321,512,297,550,271,553,275,514,302,464,326,420,338,374,346,292,351"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="5,327,131,368"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="145,345,198,345,198,350,145,350"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="1703,327,1929,492,1926,497,1700,331"/>
+<area shape="rect" id="Node000018" title=" " alt="" coords="1866,359,2050,400"/>
+<area shape="poly" id="edge23_Node000018_Node000006" title=" " alt="" coords="1739,322,1874,356,1873,361,1738,327"/>
+<area shape="rect" id="Node000007" href="$df/d17/class_slic3r_1_1clonable__ptr.html" title=" " alt="" coords="1254,156,1452,197"/>
+<area shape="poly" id="edge7_Node000006_Node000007" title=" " alt="" coords="1419,201,1638,292,1635,296,1417,206"/>
+<area shape="rect" id="Node000008" href="$de/d87/class_slic3r_1_1_config_option.html" title=" " alt="" coords="849,115,988,140"/>
+<area shape="poly" id="edge8_Node000007_Node000008" title=" " alt="" coords="1002,134,1220,158,1253,162,1253,167,1220,163,1002,139"/>
+<area shape="rect" id="Node000009" href="$df/d17/class_slic3r_1_1clonable__ptr.html" title=" " alt="" coords="836,164,1001,190"/>
+<area shape="poly" id="edge9_Node000007_Node000009" title=" " alt="" coords="1015,174,1253,174,1253,179,1015,179"/>
+<area shape="rect" id="Node000013" href="$df/d17/class_slic3r_1_1clonable__ptr.html" title=" " alt="" coords="1244,263,1461,304"/>
+<area shape="poly" id="edge20_Node000013_Node000009" title=" " alt="" coords="996,192,1016,198,1040,210,1144,240,1244,262,1243,267,1143,245,1038,214,1014,203,994,197"/>
+<area shape="poly" id="edge10_Node000006_Node000010" title=" " alt="" coords="655,118,809,95,907,86,1013,81,1126,82,1240,91,1353,111,1462,142,1495,156,1526,174,1583,217,1629,259,1659,292,1655,296,1625,263,1580,221,1524,179,1493,161,1460,147,1352,116,1239,97,1125,88,1014,86,907,91,810,100,655,123"/>
+<area shape="rect" id="Node000011" title=" " alt="" coords="180,185,295,211"/>
+<area shape="poly" id="edge12_Node000010_Node000011" title=" " alt="" coords="308,179,319,177,499,146,500,151,320,182,309,184"/>
+<area shape="rect" id="Node000014" href="$d6/d0e/class_slic3r_1_1_config_option_enum_def.html" title=" " alt="" coords="822,213,1015,239"/>
+<area shape="poly" id="edge18_Node000014_Node000011" title=" " alt="" coords="310,197,528,203,798,214,821,215,821,221,798,219,528,208,310,202"/>
+<area shape="poly" id="edge17_Node000015_Node000011" title=" " alt="" coords="279,215,320,229,406,245,487,253,486,259,405,251,319,234,278,220"/>
+<area shape="poly" id="edge13_Node000006_Node000013" title=" " alt="" coords="1477,290,1590,299,1590,304,1476,295"/>
+<area shape="poly" id="edge14_Node000013_Node000014" title=" " alt="" coords="988,242,1017,256,1028,269,1040,280,1090,295,1142,303,1194,304,1243,300,1244,306,1194,309,1142,308,1089,300,1038,285,1025,273,1013,260,986,247"/>
+<area shape="poly" id="edge25_Node000001_Node000015" title=" " alt="" coords="609,237,651,213,698,181,733,152,770,126,821,100,896,70,962,50,1022,37,1079,31,1199,30,1351,33,2293,33,2322,36,2350,46,2400,77,2440,113,2467,144,2463,148,2436,117,2397,81,2348,51,2321,41,2293,38,1351,38,1199,35,1079,36,1023,43,964,55,898,75,823,104,772,130,737,157,702,185,654,218,612,241"/>
+<area shape="poly" id="edge15_Node000014_Node000015" title=" " alt="" coords="668,254,797,244,847,237,848,242,798,249,668,259"/>
+<area shape="rect" id="Node000016" title=" " alt="" coords="509,447,631,472"/>
+<area shape="poly" id="edge21_Node000003_Node000016" title=" " alt="" coords="621,475,680,494,753,514,834,529,917,535,1671,535,1765,532,1854,525,1855,530,1765,537,1671,541,917,541,834,534,752,519,678,499,619,480"/>
+<area shape="poly" id="edge19_Node000014_Node000016" title=" " alt="" coords="598,435,820,256,865,237,867,242,823,260,601,439"/>
+<area shape="poly" id="edge24_Node000018_Node000016" title=" " alt="" coords="646,457,917,457,1671,457,1738,451,1803,436,1862,417,1911,398,1913,403,1864,422,1804,441,1739,456,1671,462,917,462,646,462"/>
+<area shape="poly" id="edge22_Node000002_Node000018" title=" " alt="" coords="2065,377,2231,377,2231,382,2065,382"/>
+</map>

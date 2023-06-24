@@ -1,0 +1,55 @@
+var exact__geodesic_8cpp =
+[
+    [ "igl::geodesic::SimlpeMemoryAllocator< T >", "d7/d33/classigl_1_1geodesic_1_1_simlpe_memory_allocator.html", "d7/d33/classigl_1_1geodesic_1_1_simlpe_memory_allocator" ],
+    [ "igl::geodesic::MemoryAllocator< T >", "dc/d7b/classigl_1_1geodesic_1_1_memory_allocator.html", "dc/d7b/classigl_1_1geodesic_1_1_memory_allocator" ],
+    [ "igl::geodesic::OutputBuffer", "dc/d0c/classigl_1_1geodesic_1_1_output_buffer.html", "dc/d0c/classigl_1_1geodesic_1_1_output_buffer" ],
+    [ "igl::geodesic::SimpleVector< Data >", "de/d03/classigl_1_1geodesic_1_1_simple_vector.html", "de/d03/classigl_1_1geodesic_1_1_simple_vector" ],
+    [ "igl::geodesic::MeshElementBase", "df/d83/classigl_1_1geodesic_1_1_mesh_element_base.html", "df/d83/classigl_1_1geodesic_1_1_mesh_element_base" ],
+    [ "igl::geodesic::Point3D", "d5/d4a/classigl_1_1geodesic_1_1_point3_d.html", "d5/d4a/classigl_1_1geodesic_1_1_point3_d" ],
+    [ "igl::geodesic::Vertex", "d0/de8/classigl_1_1geodesic_1_1_vertex.html", "d0/de8/classigl_1_1geodesic_1_1_vertex" ],
+    [ "igl::geodesic::Face", "db/d47/classigl_1_1geodesic_1_1_face.html", "db/d47/classigl_1_1geodesic_1_1_face" ],
+    [ "igl::geodesic::Edge", "d5/d1b/classigl_1_1geodesic_1_1_edge.html", "d5/d1b/classigl_1_1geodesic_1_1_edge" ],
+    [ "igl::geodesic::SurfacePoint", "de/ddb/classigl_1_1geodesic_1_1_surface_point.html", "de/ddb/classigl_1_1geodesic_1_1_surface_point" ],
+    [ "igl::geodesic::HalfEdge", "d8/d1c/namespaceigl_1_1geodesic.html#da/d19/structigl_1_1geodesic_1_1_half_edge", [
+      [ "face_id", "d8/d1c/namespaceigl_1_1geodesic.html#ad476a946c93c1fb42521dc2d9e53562c", null ],
+      [ "vertex_0", "d8/d1c/namespaceigl_1_1geodesic.html#a8f269fe80944ab520fca9d961cc65449", null ],
+      [ "vertex_1", "d8/d1c/namespaceigl_1_1geodesic.html#ac99fd1216ad48cd18dc0b9148c25acc1", null ]
+    ] ],
+    [ "igl::geodesic::edge_visible_from_source", "d8/d1c/namespaceigl_1_1geodesic.html#d5/d0f/structigl_1_1geodesic_1_1edge__visible__from__source", [
+      [ "edge", "d8/d1c/namespaceigl_1_1geodesic.html#aaec8b684f5ce408e52593fe2471a6556", null ],
+      [ "source", "d8/d1c/namespaceigl_1_1geodesic.html#aa9fae14c6da088b38cd55f64ea357e5e", null ]
+    ] ],
+    [ "igl::geodesic::Mesh", "df/d2b/classigl_1_1geodesic_1_1_mesh.html", "df/d2b/classigl_1_1geodesic_1_1_mesh" ],
+    [ "igl::geodesic::Interval", "db/dd0/classigl_1_1geodesic_1_1_interval.html", "db/dd0/classigl_1_1geodesic_1_1_interval" ],
+    [ "igl::geodesic::IntervalWithStop", "dd/d94/structigl_1_1geodesic_1_1_interval_with_stop.html", "dd/d94/structigl_1_1geodesic_1_1_interval_with_stop" ],
+    [ "igl::geodesic::IntervalList", "d3/d8c/classigl_1_1geodesic_1_1_interval_list.html", "d3/d8c/classigl_1_1geodesic_1_1_interval_list" ],
+    [ "igl::geodesic::SurfacePointWithIndex", "db/d1d/classigl_1_1geodesic_1_1_surface_point_with_index.html", "db/d1d/classigl_1_1geodesic_1_1_surface_point_with_index" ],
+    [ "igl::geodesic::SortedSources", "d0/d6b/classigl_1_1geodesic_1_1_sorted_sources.html", "d0/d6b/classigl_1_1geodesic_1_1_sorted_sources" ],
+    [ "igl::geodesic::GeodesicAlgorithmBase", "df/de8/classigl_1_1geodesic_1_1_geodesic_algorithm_base.html", "df/de8/classigl_1_1geodesic_1_1_geodesic_algorithm_base" ],
+    [ "igl::geodesic::GeodesicAlgorithmExact", "d2/d42/classigl_1_1geodesic_1_1_geodesic_algorithm_exact.html", "d2/d42/classigl_1_1geodesic_1_1_geodesic_algorithm_exact" ],
+    [ "base_pointer", "d4/d20/exact__geodesic_8cpp.html#a9177b32d54ba1c58c740b325948c3ceb", null ],
+    [ "edge_pointer", "d4/d20/exact__geodesic_8cpp.html#a1b0bc88df55cec0b964f8d6bc75e86d5", null ],
+    [ "face_pointer", "d4/d20/exact__geodesic_8cpp.html#a4d45e213b0f1051478bf4437bd85e2d1", null ],
+    [ "interval_pointer", "d4/d20/exact__geodesic_8cpp.html#a616395d13608f11b3f99730f52c66bc6", null ],
+    [ "list_pointer", "d4/d20/exact__geodesic_8cpp.html#a62c49100f08756ac90fe053e7009084d", null ],
+    [ "mesh_pointer", "d4/d20/exact__geodesic_8cpp.html#a910154893e843cc10bafc7b25dbb77e2", null ],
+    [ "vertex_pointer", "d4/d20/exact__geodesic_8cpp.html#adad5056cf49a1ce86c418948e50eb834", null ],
+    [ "PointType", "d4/d20/exact__geodesic_8cpp.html#a829f4ad8961279e8f59138955da02ac8", [
+      [ "VERTEX", "d4/d20/exact__geodesic_8cpp.html#a829f4ad8961279e8f59138955da02ac8a7438eea93ab525d72154e82f52ed902c", null ],
+      [ "EDGE", "d4/d20/exact__geodesic_8cpp.html#a829f4ad8961279e8f59138955da02ac8af0e4b9cba7288ca5f07938f6d3b31457", null ],
+      [ "FACE", "d4/d20/exact__geodesic_8cpp.html#a829f4ad8961279e8f59138955da02ac8accc1ec29aa724051afcd8e171a90f18c", null ],
+      [ "UNDEFINED_POINT", "d4/d20/exact__geodesic_8cpp.html#a829f4ad8961279e8f59138955da02ac8a24f7d000bea98683342a359b0510802d", null ]
+    ] ],
+    [ "angle_from_edges", "d4/d20/exact__geodesic_8cpp.html#a2de94151198086e13690b5125cf20c36", null ],
+    [ "cos_from_edges", "d4/d20/exact__geodesic_8cpp.html#a5623a9553a56f540ebbc0e46f17a040f", null ],
+    [ "fill_surface_point_double", "d4/d20/exact__geodesic_8cpp.html#a01c16578a90c56369dfe0ea277c97575", null ],
+    [ "fill_surface_point_structure", "d4/d20/exact__geodesic_8cpp.html#a284aa5c99277e346a63420a901a1626a", null ],
+    [ "length", "d4/d20/exact__geodesic_8cpp.html#ad6930bcd8e292dbfa2523142d9c6a301", null ],
+    [ "operator!=", "d4/d20/exact__geodesic_8cpp.html#add1828e6005e4a073eb58a75cec86323", null ],
+    [ "operator<", "d4/d20/exact__geodesic_8cpp.html#aa9525f795e4cd39801da2a492d5ac30c", null ],
+    [ "operator==", "d4/d20/exact__geodesic_8cpp.html#ab604117c5cc32015cee9c5c198f5a843", null ],
+    [ "print_info_about_path", "d4/d20/exact__geodesic_8cpp.html#aa4a771ad57f7439f08393cd174d99ec2", null ],
+    [ "read_mesh_from_file", "d4/d20/exact__geodesic_8cpp.html#acd20890f39557387ca91991dc3b90a78", null ],
+    [ "GEODESIC_INF", "d4/d20/exact__geodesic_8cpp.html#a7679f8fc6dce9065ab1899c3aaa7349b", null ],
+    [ "SMALLEST_INTERVAL_RATIO", "d4/d20/exact__geodesic_8cpp.html#a5098d05a06b4cb87c66f669bf709ce0c", null ]
+];

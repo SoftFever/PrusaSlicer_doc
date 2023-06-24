@@ -1,0 +1,4 @@
+var struct_eigen_1_1internal_1_1traits_3_01_ref_3_01const_01_sparse_vector_3_01_mat_scalar_00_01_mat15c4780d000a619e80140ca70456913a =
+[
+    [ "PlainObjectType", "d6/da7/struct_eigen_1_1internal_1_1traits_3_01_ref_3_01const_01_sparse_vector_3_01_mat_scalar_00_01_mat15c4780d000a619e80140ca70456913a.html#aaf4444213ac3f213f1ce25c88f4562e7", null ]
+];

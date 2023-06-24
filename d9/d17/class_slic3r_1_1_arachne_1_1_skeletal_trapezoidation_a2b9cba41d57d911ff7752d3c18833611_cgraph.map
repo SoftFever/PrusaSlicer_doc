@@ -1,0 +1,83 @@
+<map id="Slic3r::Arachne::SkeletalTrapezoidation::generateTransitioningRibs" name="Slic3r::Arachne::SkeletalTrapezoidation::generateTransitioningRibs">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,657,271,698"/>
+<area shape="rect" id="Node000002" href="$d9/d17/class_slic3r_1_1_arachne_1_1_skeletal_trapezoidation.html#ade7687b1e6903b420f78f71cd5277c9f" title=" " alt="" coords="950,253,1159,294"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="167,655,235,610,317,562,485,480,619,423,931,310,970,297,972,302,933,315,621,428,487,485,320,567,238,614,170,659"/>
+<area shape="rect" id="Node000011" href="$de/db8/namespace_slic3r.html#a1d1423286c406123371c37ceada9ebae" title=" " alt="" coords="375,877,529,903"/>
+<area shape="poly" id="edge11_Node000001_Node000011" title=" " alt="" coords="161,697,229,760,273,797,320,830,359,851,399,869,397,873,357,856,317,835,270,801,225,764,157,700"/>
+<area shape="rect" id="Node000013" href="$d9/d17/class_slic3r_1_1_arachne_1_1_skeletal_trapezoidation.html#aecf41f4a4c6d50a4df5f8b9926a7383f" title=" " alt="" coords="647,467,871,507"/>
+<area shape="poly" id="edge13_Node000001_Node000013" title=" " alt="" coords="206,654,675,510,676,515,208,659"/>
+<area shape="rect" id="Node000023" href="$d9/d17/class_slic3r_1_1_arachne_1_1_skeletal_trapezoidation.html#a54f1fa425cc686b47bcafa4ea431d823" title=" " alt="" coords="319,657,585,698"/>
+<area shape="poly" id="edge29_Node000001_Node000023" title=" " alt="" coords="271,675,304,675,304,680,271,680"/>
+<area shape="rect" id="Node000032" href="$d9/d17/class_slic3r_1_1_arachne_1_1_skeletal_trapezoidation.html#abafa5cb311d3baca882217b68ef6bf8b" title=" " alt="" coords="327,780,577,821"/>
+<area shape="poly" id="edge46_Node000001_Node000032" title=" " alt="" coords="193,696,385,772,383,777,191,701"/>
+<area shape="rect" id="Node000003" href="$d0/dcc/class_slic3r_1_1_arachne_1_1_skeletal_trapezoidation_graph.html#aa172659cabcb561bb08904c78ab05403" title=" " alt="" coords="1245,95,1457,135"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="1116,250,1175,225,1305,141,1308,146,1178,229,1118,255"/>
+<area shape="rect" id="Node000008" href="$d7/d9b/class_slic3r_1_1_arachne_1_1_skeletal_trapezoidation_edge.html#aaf3f757d8d576693f901b34e0fb360c7" title=" " alt="" coords="1253,361,1449,402"/>
+<area shape="poly" id="edge8_Node000002_Node000008" title=" " alt="" coords="1125,292,1178,310,1287,353,1286,358,1176,315,1123,297"/>
+<area shape="rect" id="Node000009" href="$de/db8/namespace_slic3r.html#a1eea52f5cabe9f6172fcec07fb0fed76" title=" " alt="" coords="1591,261,1688,287"/>
+<area shape="poly" id="edge9_Node000002_Node000009" title=" " alt="" coords="1160,271,1576,271,1576,276,1160,276"/>
+<area shape="rect" id="Node000010" href="$dc/da5/namespace_slic3r_1_1_arachne.html#ace185656a6f43768ff1ad821e3cd50b0" title=" " alt="" coords="1272,210,1430,236"/>
+<area shape="poly" id="edge10_Node000002_Node000010" title=" " alt="" coords="1159,253,1257,236,1258,242,1160,258"/>
+<area shape="rect" id="Node000004" href="$d0/dcc/class_slic3r_1_1_arachne_1_1_skeletal_trapezoidation_graph.html#a8541af08555882f1ea6e8f628587de79" title=" " alt="" coords="1539,95,1740,135"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="1458,112,1524,112,1524,118,1458,118"/>
+<area shape="rect" id="Node000005" href="$d6/d3b/class_slic3r_1_1_line.html#a82d50986d5a325648e62c24fa24557b0" title=" " alt="" coords="1838,29,1982,70"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="1726,91,1823,68,1824,73,1727,97"/>
+<area shape="rect" id="Node000006" href="$d0/dcc/class_slic3r_1_1_arachne_1_1_skeletal_trapezoidation_graph.html#ac6074f4735e96b5345610f90defb25a6" title=" " alt="" coords="1806,95,2014,135"/>
+<area shape="poly" id="edge6_Node000004_Node000006" title=" " alt="" coords="1741,112,1791,112,1791,118,1741,118"/>
+<area shape="rect" id="Node000007" href="$d7/d9b/class_slic3r_1_1_arachne_1_1_skeletal_trapezoidation_edge.html#ac6a512d25c276d19178a044c7bffdf7c" title=" " alt="" coords="1802,160,2018,201"/>
+<area shape="poly" id="edge7_Node000004_Node000007" title=" " alt="" coords="1727,133,1810,153,1808,159,1726,139"/>
+<area shape="poly" id="edge5_Node000005_Node000005" title=" " alt="" coords="1860,29,1857,19,1865,10,1883,5,1910,3,1940,5,1957,12,1955,17,1938,10,1910,8,1884,10,1868,15,1862,21,1865,28"/>
+<area shape="rect" id="Node000012" href="$de/db8/namespace_slic3r.html#ac51717140f8f8baf8f5c0e98129ecb18" title=" " alt="" coords="682,903,836,943"/>
+<area shape="poly" id="edge12_Node000011_Node000012" title=" " alt="" coords="530,895,667,910,666,916,529,901"/>
+<area shape="rect" id="Node000014" href="$d9/d17/class_slic3r_1_1_arachne_1_1_skeletal_trapezoidation.html#a8bff28e077b2bbe8dde81150dc2d4a06" title=" " alt="" coords="941,349,1168,404"/>
+<area shape="poly" id="edge14_Node000013_Node000014" title=" " alt="" coords="815,464,964,407,966,412,816,469"/>
+<area shape="rect" id="Node000015" href="$d9/d17/class_slic3r_1_1_arachne_1_1_skeletal_trapezoidation.html#a6980cb34fff06acb7b51fc4d59432ce7" title=" " alt="" coords="952,503,1157,559"/>
+<area shape="poly" id="edge16_Node000013_Node000015" title=" " alt="" coords="872,501,938,511,937,516,871,506"/>
+<area shape="rect" id="Node000016" href="$dc/d81/class_slic3r_1_1_arachne_1_1_beading_strategy.html#a71f7903c6766764748567e92ad0ab619" title=" " alt="" coords="1246,427,1456,467"/>
+<area shape="poly" id="edge28_Node000013_Node000016" title=" " alt="" coords="871,470,932,464,1088,454,1231,448,1232,453,1088,459,933,470,871,476"/>
+<area shape="rect" id="Node000019" href="$d9/d17/class_slic3r_1_1_arachne_1_1_skeletal_trapezoidation.html#aea36e60c2a5f5cd4642864b725fa4167" title=" " alt="" coords="945,159,1164,215"/>
+<area shape="poly" id="edge21_Node000013_Node000019" title=" " alt="" coords="767,465,791,420,827,360,874,296,931,240,960,220,963,224,934,244,878,300,832,363,796,422,772,467"/>
+<area shape="rect" id="Node000020" href="$dc/d81/class_slic3r_1_1_arachne_1_1_beading_strategy.html#afd5b6e98d9b6ab274a5aeffe59ea97dd" title=" " alt="" coords="946,723,1163,763"/>
+<area shape="poly" id="edge24_Node000013_Node000020" title=" " alt="" coords="779,506,887,644,908,679,917,693,934,708,943,713,940,718,931,712,914,697,903,682,882,647,775,510"/>
+<area shape="poly" id="edge15_Node000014_Node000014" title=" " alt="" coords="997,348,998,338,1008,329,1027,324,1055,322,1087,325,1105,332,1104,337,1085,330,1054,327,1028,329,1011,334,1003,340,1003,348"/>
+<area shape="poly" id="edge17_Node000015_Node000015" title=" " alt="" coords="997,503,998,493,1008,484,1027,478,1055,477,1087,479,1105,487,1104,492,1085,485,1054,482,1028,484,1011,489,1003,495,1003,503"/>
+<area shape="poly" id="edge18_Node000015_Node000016" title=" " alt="" coords="1148,500,1224,478,1255,469,1256,474,1225,483,1149,505"/>
+<area shape="rect" id="Node000017" href="$d7/d9b/class_slic3r_1_1_arachne_1_1_skeletal_trapezoidation_edge.html#a795a47a38ab7988a7edab30962e17fc5" title=" " alt="" coords="1527,545,1753,586"/>
+<area shape="poly" id="edge19_Node000015_Node000017" title=" " alt="" coords="1157,554,1225,566,1373,574,1512,571,1512,577,1373,579,1224,571,1157,560"/>
+<area shape="rect" id="Node000018" href="$d7/d9b/class_slic3r_1_1_arachne_1_1_skeletal_trapezoidation_edge.html#afdb9d1d0b3a4cec08a51fa366ce65c03" title=" " alt="" coords="1525,409,1754,450"/>
+<area shape="poly" id="edge20_Node000015_Node000018" title=" " alt="" coords="1087,501,1130,461,1175,415,1187,395,1195,378,1205,361,1223,347,1259,331,1290,322,1319,318,1348,318,1406,329,1478,347,1541,370,1596,399,1594,404,1539,375,1476,352,1405,334,1347,324,1320,323,1291,327,1261,336,1226,352,1209,365,1200,380,1192,398,1179,418,1134,465,1091,505"/>
+<area shape="poly" id="edge23_Node000019_Node000009" title=" " alt="" coords="1164,175,1235,173,1314,174,1397,181,1478,195,1548,220,1606,251,1604,255,1546,225,1476,200,1396,186,1314,179,1235,178,1164,180"/>
+<area shape="poly" id="edge22_Node000019_Node000019" title=" " alt="" coords="997,159,998,149,1008,140,1027,134,1055,133,1087,135,1105,143,1104,148,1085,141,1054,138,1028,140,1011,145,1003,151,1003,159"/>
+<area shape="rect" id="Node000021" href="$dc/d81/class_slic3r_1_1_arachne_1_1_beading_strategy.html#a7cbafdf108d141341c51990aed4b853f" title=" " alt="" coords="1539,819,1740,859"/>
+<area shape="poly" id="edge25_Node000020_Node000021" title=" " alt="" coords="1133,762,1178,779,1202,797,1212,805,1226,811,1301,831,1379,841,1455,846,1524,845,1524,850,1455,851,1379,847,1300,836,1224,816,1209,809,1199,801,1175,784,1132,766"/>
+<area shape="rect" id="Node000022" href="$dc/d81/class_slic3r_1_1_arachne_1_1_beading_strategy.html#ac5d83351ec34bc882ff180397a95c380" title=" " alt="" coords="1244,941,1458,982"/>
+<area shape="poly" id="edge26_Node000020_Node000022" title=" " alt="" coords="1153,762,1179,780,1193,799,1200,818,1203,855,1206,892,1213,909,1227,926,1234,932,1230,937,1223,930,1208,912,1200,893,1198,856,1195,819,1188,801,1175,784,1150,766"/>
+<area shape="poly" id="edge27_Node000022_Node000021" title=" " alt="" coords="1451,938,1475,926,1490,913,1499,899,1508,884,1523,870,1534,864,1537,868,1527,874,1512,888,1503,902,1494,916,1479,931,1454,943"/>
+<area shape="rect" id="Node000024" href="$d9/d17/class_slic3r_1_1_arachne_1_1_skeletal_trapezoidation.html#adccedc3fb7c61774fa3ac830d36298a8" title=" " alt="" coords="633,657,884,698"/>
+<area shape="poly" id="edge30_Node000023_Node000024" title=" " alt="" coords="585,675,618,675,618,680,585,680"/>
+<area shape="poly" id="edge45_Node000024_Node000016" title=" " alt="" coords="818,654,932,619,970,611,1003,608,1061,608,1088,606,1115,600,1144,589,1175,569,1186,559,1192,548,1198,525,1205,501,1223,478,1232,472,1235,476,1227,482,1210,504,1204,527,1197,550,1190,562,1178,573,1146,593,1117,606,1089,611,1062,613,1003,614,970,617,933,624,820,659"/>
+<area shape="poly" id="edge44_Node000024_Node000020" title=" " alt="" coords="855,696,946,716,945,722,853,701"/>
+<area shape="rect" id="Node000025" href="$d9/d17/class_slic3r_1_1_arachne_1_1_skeletal_trapezoidation.html#a08e4c9acfa45218f47ab7ee106b9445b" title=" " alt="" coords="932,657,1177,698"/>
+<area shape="poly" id="edge31_Node000024_Node000025" title=" " alt="" coords="885,675,917,675,917,680,885,680"/>
+<area shape="poly" id="edge35_Node000025_Node000008" title=" " alt="" coords="1086,655,1132,618,1155,595,1174,570,1185,548,1191,528,1193,489,1198,451,1207,432,1223,413,1238,402,1241,406,1227,417,1211,435,1203,453,1198,489,1196,528,1190,550,1179,572,1159,599,1136,622,1090,659"/>
+<area shape="poly" id="edge32_Node000025_Node000025" title=" " alt="" coords="1000,657,997,647,1006,638,1025,633,1055,631,1088,633,1106,640,1105,645,1086,639,1054,636,1026,638,1008,643,1002,649,1005,656"/>
+<area shape="rect" id="Node000026" href="$d7/d9b/class_slic3r_1_1_arachne_1_1_skeletal_trapezoidation_edge.html#a82863b1df324e2aa9f8342da40bed003" title=" " alt="" coords="1226,696,1476,737"/>
+<area shape="poly" id="edge33_Node000025_Node000026" title=" " alt="" coords="1177,691,1212,695,1211,701,1177,696"/>
+<area shape="rect" id="Node000027" href="$d7/d9b/class_slic3r_1_1_arachne_1_1_skeletal_trapezoidation_edge.html#ac75688c28a1258f63f47cecfe0a58a0c" title=" " alt="" coords="1225,761,1477,802"/>
+<area shape="poly" id="edge34_Node000025_Node000027" title=" " alt="" coords="1148,696,1178,709,1202,728,1212,737,1226,746,1242,753,1240,758,1223,751,1209,741,1199,732,1175,713,1146,701"/>
+<area shape="rect" id="Node000028" href="$d9/d17/class_slic3r_1_1_arachne_1_1_skeletal_trapezoidation.html#a7c386be91af30e010f99f84d0559f417" title=" " alt="" coords="1255,516,1447,557"/>
+<area shape="poly" id="edge36_Node000025_Node000028" title=" " alt="" coords="1098,654,1292,561,1294,566,1100,659"/>
+<area shape="rect" id="Node000029" href="$d9/da5/class_slic3r_1_1_arachne_1_1_s_t_half_edge.html#ad9c5f9cbeb911a9d0092baf1ebab31cc" title=" " alt="" coords="1256,876,1446,917"/>
+<area shape="poly" id="edge41_Node000025_Node000029" title=" " alt="" coords="1160,696,1178,709,1198,734,1205,760,1211,785,1227,812,1259,842,1296,866,1293,871,1256,846,1223,815,1206,787,1200,761,1193,737,1175,713,1157,701"/>
+<area shape="rect" id="Node000031" href="$d7/d9b/class_slic3r_1_1_arachne_1_1_skeletal_trapezoidation_edge.html#a27fa6fa355c55b4d7e5c88a6e8ed97d6" title=" " alt="" coords="1226,631,1476,671"/>
+<area shape="poly" id="edge43_Node000025_Node000031" title=" " alt="" coords="1177,664,1211,661,1212,666,1177,669"/>
+<area shape="poly" id="edge40_Node000028_Node000009" title=" " alt="" coords="1416,513,1447,497,1475,477,1492,458,1501,439,1509,419,1523,396,1569,340,1612,295,1616,299,1573,344,1527,399,1514,422,1506,442,1496,461,1479,481,1450,502,1418,518"/>
+<area shape="poly" id="edge37_Node000028_Node000017" title=" " alt="" coords="1448,543,1512,550,1512,555,1447,549"/>
+<area shape="poly" id="edge38_Node000028_Node000018" title=" " alt="" coords="1407,513,1568,453,1570,458,1409,518"/>
+<area shape="poly" id="edge39_Node000028_Node000028" title=" " alt="" coords="1297,516,1294,506,1303,497,1322,491,1351,489,1383,492,1401,499,1400,504,1382,497,1351,495,1323,497,1306,501,1300,507,1302,515"/>
+<area shape="rect" id="Node000030" href="$d9/da5/class_slic3r_1_1_arachne_1_1_s_t_half_edge.html#a6af3aa913defc735c45a681593862acd" title=" " alt="" coords="1545,884,1734,925"/>
+<area shape="poly" id="edge42_Node000029_Node000030" title=" " alt="" coords="1446,896,1530,899,1530,904,1446,902"/>
+<area shape="poly" id="edge48_Node000032_Node000022" title=" " alt="" coords="577,797,725,804,805,812,885,823,982,845,1057,869,1130,895,1225,926,1256,934,1255,939,1224,931,1128,900,1055,874,981,850,884,828,805,817,724,809,577,803"/>
+<area shape="rect" id="Node000033" href="$dc/d81/class_slic3r_1_1_arachne_1_1_beading_strategy.html#a1b96202fae11bed6f99787b0f723b8d9" title=" " alt="" coords="656,837,862,878"/>
+<area shape="poly" id="edge47_Node000032_Node000033" title=" " alt="" coords="565,819,641,833,640,838,564,824"/>
+</map>

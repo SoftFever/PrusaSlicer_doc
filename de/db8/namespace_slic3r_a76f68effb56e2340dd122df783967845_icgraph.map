@@ -1,0 +1,31 @@
+<map id="Slic3r::collect_duplicates" name="Slic3r::collect_duplicates">
+<area shape="rect" id="Node000001" title=" " alt="" coords="937,181,1103,207"/>
+<area shape="rect" id="Node000002" href="$dc/db2/namespacepriv.html#ae16fce2cc73fd2b088678da4adc5a08f" title=" " alt="" coords="714,13,851,39"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1000,170,954,110,923,79,887,53,851,38,853,33,890,49,926,75,958,107,1005,167"/>
+<area shape="rect" id="Node000004" href="$d9/d22/namespace_slic3r_1_1_emboss.html#a1028fca66476755d3c5b219c114e946c" title="Fix duplicit points and self intersections in polygons. Also try to reduce amount of points and remov..." alt="" coords="711,87,854,127"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="975,177,888,142,853,130,855,125,890,136,977,172"/>
+<area shape="rect" id="Node000011" href="$d9/d22/namespace_slic3r_1_1_emboss.html#aa1cdf1fce2c8577361ec5244c71205d6" title="Create triangle model for text." alt="" coords="676,152,889,177"/>
+<area shape="poly" id="edge12_Node000001_Node000011" title=" " alt="" coords="922,184,889,180,889,175,923,179"/>
+<area shape="rect" id="Node000012" href="$d0/d9f/class_slic3r_1_1_triangulation.html#ae2a20e3b54117d1cc4bff8dadb415cc2" title=" " alt="" coords="714,201,851,242"/>
+<area shape="poly" id="edge13_Node000001_Node000012" title=" " alt="" coords="922,208,851,216,851,211,922,203"/>
+<area shape="rect" id="Node000013" href="$d0/d9f/class_slic3r_1_1_triangulation.html#ac8cb8e959eb19f52bbdb96303436dac9" title="Triangulation for expolygons, speed up when points are already collected NOTE: Not working properly f..." alt="" coords="714,267,851,307"/>
+<area shape="poly" id="edge14_Node000001_Node000013" title=" " alt="" coords="980,216,890,256,852,270,850,265,888,251,978,211"/>
+<area shape="rect" id="Node000014" href="$dc/db2/namespacepriv.html#a7696c1dc2a5f426287f16fde0c3b44ec" title=" " alt="" coords="716,332,849,357"/>
+<area shape="poly" id="edge15_Node000001_Node000014" title=" " alt="" coords="1002,220,955,272,924,299,890,321,850,337,848,332,887,317,921,294,951,268,998,217"/>
+<area shape="rect" id="Node000003" href="$d9/d22/namespace_slic3r_1_1_emboss.html#a0bbd87a14faa060a933596b7b7751749" title="NOTE: call Slic3r::union_ex before this call." alt="" coords="486,5,628,46"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="700,28,629,28,629,23,700,23"/>
+<area shape="poly" id="edge10_Node000004_Node000004" title=" " alt="" coords="820,74,806,68,782,65,761,67,748,72,743,78,745,85,740,87,738,77,745,68,760,62,783,60,807,63,822,69"/>
+<area shape="rect" id="Node000005" href="$dc/db2/namespacepriv.html#a8a20e217d0a417f14a606fe4111a7473" title=" " alt="" coords="504,82,610,108"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="696,105,611,100,611,95,697,100"/>
+<area shape="rect" id="Node000008" href="$d9/d22/namespace_slic3r_1_1_emboss.html#aa5fbe431098f53310e51041a5b17a228" title="Convert text into polygons." alt="" coords="249,133,438,159"/>
+<area shape="poly" id="edge11_Node000004_Node000008" title=" " alt="" coords="697,117,439,140,438,135,696,112"/>
+<area shape="rect" id="Node000006" href="$dc/db2/namespacepriv.html#a7434c1f0d26f86612573170b552a5c0e" title=" " alt="" coords="290,34,397,60"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="489,83,396,61,398,56,490,77"/>
+<area shape="rect" id="Node000007" href="$d9/d22/namespace_slic3r_1_1_emboss.html#ad8f20adaf6e1fd3c1f1c78e5b09f391e" title="convert letter into polygons" alt="" coords="251,84,436,109"/>
+<area shape="poly" id="edge6_Node000005_Node000007" title=" " alt="" coords="489,98,437,98,437,93,489,93"/>
+<area shape="poly" id="edge7_Node000005_Node000008" title=" " alt="" coords="490,113,401,135,400,130,489,108"/>
+<area shape="rect" id="Node000009" href="$d1/d78/class_slic3r_1_1_g_u_i_1_1_create_font_image_job.html#a75525859b8bc886320c0e7130739a42f" title="Rasterize text into image (result)" alt="" coords="5,89,201,130"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="239,133,201,127,201,122,239,127"/>
+<area shape="rect" id="Node000010" href="$dd/d9c/class_slic3r_1_1_g_u_i_1_1_emboss_1_1_create_font_style_images_job.html#a9eab8f3c1409b49f45c3b52dd74a88a4" title=" " alt="" coords="9,154,197,210"/>
+<area shape="poly" id="edge9_Node000008_Node000010" title=" " alt="" coords="239,164,198,170,197,165,239,159"/>
+</map>

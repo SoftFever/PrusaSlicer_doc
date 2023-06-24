@@ -1,0 +1,39 @@
+<map id="Slic3r::GUI::GLCanvas3D::Mouse::set_start_position_3D_as_invalid" name="Slic3r::GUI::GLCanvas3D::Mouse::set_start_position_3D_as_invalid">
+<area shape="rect" id="Node000001" title=" " alt="" coords="1195,321,1374,376"/>
+<area shape="rect" id="Node000002" href="$d0/d2b/class_slic3r_1_1_g_u_i_1_1_g_l_canvas3_d.html#aefcd3b3899d2aecafa741a86e733ea80" title=" " alt="" coords="974,271,1147,311"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1180,324,1142,315,1143,309,1181,319"/>
+<area shape="rect" id="Node000014" href="$d0/d2b/class_slic3r_1_1_g_u_i_1_1_g_l_canvas3_d.html#a15fc8ce385048544064e6e434e09de23" title=" " alt="" coords="749,324,923,365"/>
+<area shape="poly" id="edge20_Node000001_Node000014" title=" " alt="" coords="1180,350,923,348,923,342,1180,345"/>
+<area shape="rect" id="Node000017" href="$d0/d2b/class_slic3r_1_1_g_u_i_1_1_g_l_canvas3_d.html#aa811f0a583e17a1b5102893f9ef44d53" title=" " alt="" coords="749,389,923,430"/>
+<area shape="poly" id="edge17_Node000001_Node000017" title=" " alt="" coords="1181,365,924,401,923,395,1180,360"/>
+<area shape="rect" id="Node000003" href="$d1/d3c/class_slic3r_1_1_g_u_i_1_1_g_l_gizmo_base.html#ad34a29823d84589ff42bc7c2591460f6" title=" " alt="" coords="746,235,926,275"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="959,277,926,272,927,267,959,272"/>
+<area shape="poly" id="edge13_Node000002_Node000014" title=" " alt="" coords="960,318,924,326,923,321,959,312"/>
+<area shape="rect" id="Node000004" href="$d1/d3c/class_slic3r_1_1_g_u_i_1_1_g_l_gizmo_base.html#a3443b47e35cee0d38455f69806ec6296" title="function which Set up m_dragging and call functions on_start_dragging / on_dragging / on_stop_draggin..." alt="" coords="519,235,698,275"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="731,258,699,258,699,252,731,252"/>
+<area shape="rect" id="Node000005" href="$d8/d38/class_slic3r_1_1_g_u_i_1_1_g_l_gizmo_cut3_d.html#ae651caaf8df0ece0848a7cb03c29e65d" title="Drag of plane." alt="" coords="272,5,450,46"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="590,223,571,185,544,141,510,98,469,61,448,49,451,44,473,57,514,94,548,138,575,182,595,220"/>
+<area shape="rect" id="Node000006" href="$da/d2c/class_slic3r_1_1_g_u_i_1_1_g_l_gizmo_hollow.html#ae39e7b568ef6b08c288538eabc13e708" title="Postpone to Grabber for move Detect move of object by dragging." alt="" coords="266,71,456,111"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="580,225,532,174,502,149,470,127,444,114,446,110,472,122,505,145,535,171,584,221"/>
+<area shape="rect" id="Node000007" href="$db/d9b/class_slic3r_1_1_g_u_i_1_1_g_l_gizmo_move3_d.html#a23b3019352aeb3ea241963e4fce91a83" title="Postpone to Grabber for move." alt="" coords="267,136,455,177"/>
+<area shape="poly" id="edge6_Node000004_Node000007" title=" " alt="" coords="554,230,470,192,435,180,437,175,472,187,556,225"/>
+<area shape="rect" id="Node000008" href="$d4/df7/class_slic3r_1_1_g_u_i_1_1_g_l_gizmo_rotate.html#a3d20f68f16db7ee649bec46ac70bc6b2" title="Postpone to Grabber for move Detect move of object by dragging." alt="" coords="267,201,455,242"/>
+<area shape="poly" id="edge7_Node000004_Node000008" title=" " alt="" coords="504,244,455,237,456,232,505,238"/>
+<area shape="rect" id="Node000009" href="$d7/d96/class_slic3r_1_1_g_u_i_1_1_g_l_gizmo_rotate3_d.html#aaff08e7973069c9c878d8dd067c06e73" title="Postpone to Rotation." alt="" coords="263,267,459,307"/>
+<area shape="poly" id="edge8_Node000004_Node000009" title=" " alt="" coords="505,271,459,277,459,272,504,266"/>
+<area shape="rect" id="Node000010" href="$d1/d6b/class_slic3r_1_1_g_u_i_1_1_g_l_gizmo_scale3_d.html#ad11a80bc883cbf3aa0d06b6f6231480f" title="Postpone to Grabber for scale." alt="" coords="266,332,456,373"/>
+<area shape="poly" id="edge9_Node000004_Node000010" title=" " alt="" coords="555,285,472,321,436,334,434,329,470,317,553,280"/>
+<area shape="rect" id="Node000011" href="$d9/d0e/class_slic3r_1_1_g_u_i_1_1_g_l_gizmo_sla_supports.html#a656338e2e62ab9c80c946e736ce8791c" title="Process mouse event." alt="" coords="251,397,471,438"/>
+<area shape="poly" id="edge10_Node000004_Node000011" title=" " alt="" coords="557,286,521,314,507,333,499,351,490,369,473,386,451,399,448,395,469,382,485,366,494,349,502,330,517,310,554,281"/>
+<area shape="rect" id="Node000012" href="$dd/df1/class_slic3r_1_1_g_u_i_1_1_g_l_gizmo_emboss.html#abf2d2e2d64e1ac7b57c5a06d045bccad" title=" " alt="" coords="262,463,460,503"/>
+<area shape="poly" id="edge11_Node000004_Node000012" title=" " alt="" coords="553,286,521,314,510,332,504,350,500,384,495,417,487,434,473,452,456,464,453,460,469,448,483,432,490,416,495,383,499,348,505,330,517,311,549,282"/>
+<area shape="rect" id="Node000013" href="$dd/df1/class_slic3r_1_1_g_u_i_1_1_g_l_gizmo_emboss.html#acac6ee7c40ce0415d7a14394ab672ea0" title="Rotate by text on dragging rotate grabers." alt="" coords="5,463,203,503"/>
+<area shape="poly" id="edge12_Node000012_Node000013" title=" " alt="" coords="247,486,203,486,203,480,247,480"/>
+<area shape="poly" id="edge15_Node000014_Node000014" title=" " alt="" coords="873,311,859,305,836,303,815,305,802,309,797,315,799,323,794,324,792,314,799,305,813,299,836,297,861,300,875,306"/>
+<area shape="rect" id="Node000015" href="$d0/d2b/class_slic3r_1_1_g_u_i_1_1_g_l_canvas3_d.html#a9ba6503e9ea6e8ea3050de89e6835f52" title=" " alt="" coords="522,324,695,365"/>
+<area shape="poly" id="edge14_Node000014_Node000015" title=" " alt="" coords="735,347,696,347,696,342,735,342"/>
+<area shape="rect" id="Node000016" href="$d0/d2b/class_slic3r_1_1_g_u_i_1_1_g_l_canvas3_d.html#a16e40798bb4d5ad13209c3feaea9b21d" title=" " alt="" coords="522,389,695,430"/>
+<area shape="poly" id="edge16_Node000014_Node000016" title=" " alt="" coords="750,372,683,391,681,386,749,367"/>
+<area shape="poly" id="edge18_Node000017_Node000015" title=" " alt="" coords="749,387,681,368,683,363,750,382"/>
+<area shape="poly" id="edge19_Node000017_Node000016" title=" " alt="" coords="735,412,696,412,696,407,735,407"/>
+</map>

@@ -1,0 +1,77 @@
+<map id="Slic3r::FFFTreeSupport::tree_supports_show_error" name="Slic3r::FFFTreeSupport::tree_supports_show_error">
+<area shape="rect" id="Node000001" title=" " alt="" coords="1426,585,1606,626"/>
+<area shape="rect" id="Node000002" href="$d9/d4e/class_slic3r_1_1_f_f_f_tree_support_1_1_rich_interface_placer.html#a6b4a4eb0fe390582a4a53610a55305aa" title=" " alt="" coords="875,31,1072,86"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1508,571,1491,463,1463,323,1446,253,1425,190,1402,140,1376,107,1343,84,1307,66,1268,53,1227,45,1146,40,1072,44,1072,39,1146,35,1228,40,1269,48,1309,61,1346,79,1380,103,1406,137,1430,188,1451,252,1469,322,1497,462,1513,570"/>
+<area shape="rect" id="Node000005" href="$dd/df4/namespace_slic3r_1_1_f_f_f_tree_support.html#aeb49cf1fc20a86890b55d203812fd7bb" title="Propagates influence downwards, and merges overlapping ones." alt="" coords="222,673,379,714"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="1422,632,1379,640,1266,655,1177,662,975,665,731,665,542,673,380,687,379,682,541,667,731,660,975,660,1177,657,1265,650,1378,635,1421,627"/>
+<area shape="rect" id="Node000007" href="$dd/df4/namespace_slic3r_1_1_f_f_f_tree_support.html#a92615f6c41e6b6715175c0ad1b804864" title="Set the result_on_layer point for all influence areas." alt="" coords="646,769,819,810"/>
+<area shape="poly" id="edge9_Node000001_Node000007" title=" " alt="" coords="1475,636,1430,662,1379,684,1305,704,1240,715,1183,719,1128,719,1016,720,951,727,875,741,828,755,784,771,782,766,826,750,874,736,950,722,1016,715,1128,714,1182,713,1240,709,1304,699,1377,679,1428,657,1472,632"/>
+<area shape="rect" id="Node000008" href="$dd/df4/namespace_slic3r_1_1_f_f_f_tree_support.html#a79f6974d8c9affbf8ae2f7f1963cf22d" title="Eensures that every line segment is about distance in length. The resulting lines may differ from the..." alt="" coords="638,5,827,61"/>
+<area shape="poly" id="edge12_Node000001_Node000008" title=" " alt="" coords="1507,571,1493,509,1469,432,1452,391,1431,352,1406,315,1376,282,1315,231,1257,198,1200,178,1143,166,1021,147,951,129,874,101,825,76,800,64,803,59,828,71,876,96,953,124,1022,141,1144,161,1202,173,1259,193,1318,227,1380,278,1410,311,1435,349,1457,389,1474,430,1499,508,1512,570"/>
+<area shape="rect" id="Node000009" href="$d6/d18/class_slic3r_1_1_f_f_f_tree_support_1_1_tree_model_volumes.html#ac25a22a562e32a0dbbae800969c56f3c" title="Provides the areas that have to be avoided by the tree&#39;s branches in order to reach the build plate." alt="" coords="1135,292,1363,332"/>
+<area shape="poly" id="edge14_Node000001_Node000009" title=" " alt="" coords="1500,572,1482,527,1455,474,1420,419,1377,371,1348,351,1316,335,1319,330,1351,346,1380,367,1424,416,1459,471,1487,525,1505,570"/>
+<area shape="rect" id="Node000012" href="$dd/df4/namespace_slic3r_1_1_f_f_f_tree_support.html#a0931050cec7937180b5b2cb962c64fde" title="Checks if an influence area contains a valid subsection and returns the corresponding metadata and th..." alt="" coords="895,534,1052,575"/>
+<area shape="poly" id="edge45_Node000001_Node000012" title=" " alt="" coords="1422,584,1378,576,1291,566,1204,560,1052,557,1053,551,1204,555,1292,561,1379,571,1423,579"/>
+<area shape="rect" id="Node000013" href="$d6/d18/class_slic3r_1_1_f_f_f_tree_support_1_1_tree_model_volumes.html#af880ece6544ec2816bc0444aeec378bb" title="Provides the areas that have to be avoided by the tree&#39;s branches to prevent collision with the model..." alt="" coords="1141,381,1358,422"/>
+<area shape="poly" id="edge23_Node000001_Node000013" title=" " alt="" coords="1489,574,1440,517,1410,487,1377,461,1343,441,1309,424,1311,420,1346,436,1380,456,1413,484,1444,514,1493,571"/>
+<area shape="rect" id="Node000018" href="$d6/d18/class_slic3r_1_1_f_f_f_tree_support_1_1_tree_model_volumes.html#aa4ec69ff8db9d124309cd9824faa278b" title="Provides the areas that have to be avoided by the tree&#39;s branches to prevent collision with the model..." alt="" coords="1141,916,1358,972"/>
+<area shape="poly" id="edge37_Node000001_Node000018" title=" " alt="" coords="1510,641,1495,697,1469,766,1432,837,1408,870,1380,899,1353,918,1350,913,1377,895,1404,866,1427,834,1464,763,1490,695,1505,639"/>
+<area shape="rect" id="Node000019" href="$d6/d18/class_slic3r_1_1_f_f_f_tree_support_1_1_tree_model_volumes.html#a4009d3da8dedb156a3924e639aced26a" title="Provides the area represents all areas on the model where the branch does completely fit on the given..." alt="" coords="1120,801,1378,842"/>
+<area shape="poly" id="edge38_Node000001_Node000019" title=" " alt="" coords="1500,640,1452,713,1419,752,1380,785,1346,803,1343,798,1377,780,1415,748,1448,710,1495,637"/>
+<area shape="rect" id="Node000020" href="$dd/df4/namespace_slic3r_1_1_f_f_f_tree_support.html#ae933bab23a01546925f47e2403e6c198" title="Get the best point to connect to the model and set the result_on_layer of the relevant SupportElement..." alt="" coords="895,775,1052,830"/>
+<area shape="poly" id="edge52_Node000001_Node000020" title=" " alt="" coords="1492,639,1444,689,1413,714,1379,734,1319,754,1233,772,1053,797,1052,792,1232,766,1317,749,1377,729,1410,709,1440,685,1488,635"/>
+<area shape="rect" id="Node000021" href="$d6/d18/class_slic3r_1_1_f_f_f_tree_support_1_1_tree_model_volumes.html#acef503499bda1c89dcda124a408ca6b2" title="Provides the area that represents the walls, as in the printed area, of the model...." alt="" coords="1122,585,1377,626"/>
+<area shape="poly" id="edge42_Node000001_Node000021" title=" " alt="" coords="1411,608,1377,608,1377,603,1411,603"/>
+<area shape="rect" id="Node000022" href="$dd/df4/namespace_slic3r_1_1_f_f_f_tree_support.html#a10d42159133e647bd0231c3b574ad951" title="Offsets (increases the area of) a polygons object in multiple steps to ensure that it does not lag th..." alt="" coords="1171,470,1328,511"/>
+<area shape="poly" id="edge46_Node000001_Node000022" title=" " alt="" coords="1468,579,1425,555,1377,532,1327,514,1329,509,1379,527,1427,550,1471,574"/>
+<area shape="rect" id="Node000023" href="$dd/df4/namespace_slic3r_1_1_f_f_f_tree_support.html#a5d3a0c486b78654286cf3541d8a6b5d6" title="Sets the result_on_layer for all parents based on the SupportElement supplied." alt="" coords="895,878,1052,919"/>
+<area shape="poly" id="edge49_Node000001_Node000023" title=" " alt="" coords="1509,641,1493,691,1467,750,1430,808,1407,834,1380,855,1355,867,1320,877,1234,891,1139,898,1052,901,1052,895,1139,893,1234,885,1319,872,1353,862,1377,851,1403,830,1426,805,1463,747,1488,689,1504,639"/>
+<area shape="rect" id="Node000003" href="$d9/d4e/class_slic3r_1_1_f_f_f_tree_support_1_1_rich_interface_placer.html#a5cf51f0d9f9a04742a0179ed24433c9a" title=" " alt="" coords="650,85,815,141"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="861,87,816,97,814,92,860,82"/>
+<area shape="rect" id="Node000004" href="$dd/df4/namespace_slic3r_1_1_f_f_f_tree_support.html#a5bd26448acb9c08a9f4fd663da07c11c" title=" " alt="" coords="427,188,590,228"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="653,150,560,189,558,185,651,145"/>
+<area shape="poly" id="edge4_Node000004_Node000004" title=" " alt="" coords="543,175,530,169,509,166,489,168,477,173,472,179,474,186,469,187,467,178,474,169,488,163,509,161,532,163,545,170"/>
+<area shape="poly" id="edge6_Node000005_Node000005" title=" " alt="" coords="335,660,322,654,300,651,281,653,269,658,264,664,266,672,261,673,259,663,265,654,279,648,300,646,323,649,337,655"/>
+<area shape="rect" id="Node000006" href="$dd/df4/namespace_slic3r_1_1_f_f_f_tree_support.html#ab26bc295197117d2d20bc72c33be92f6" title="Create the areas that need support." alt="" coords="5,673,174,714"/>
+<area shape="poly" id="edge7_Node000005_Node000006" title=" " alt="" coords="207,696,174,696,174,691,207,691"/>
+<area shape="poly" id="edge8_Node000006_Node000006" title=" " alt="" coords="124,660,111,654,89,651,69,653,57,658,53,664,55,672,50,673,48,663,54,654,68,648,90,646,113,649,127,655"/>
+<area shape="poly" id="edge11_Node000007_Node000006" title=" " alt="" coords="632,783,441,761,221,728,170,717,171,711,222,723,442,756,632,777"/>
+<area shape="poly" id="edge10_Node000007_Node000007" title=" " alt="" coords="769,756,756,750,732,747,711,749,698,754,693,760,695,768,690,769,688,759,695,750,710,744,733,742,757,745,772,751"/>
+<area shape="poly" id="edge13_Node000008_Node000004" title=" " alt="" coords="647,71,640,75,606,103,574,133,527,189,523,185,571,130,602,99,637,71,644,66"/>
+<area shape="poly" id="edge22_Node000009_Node000004" title=" " alt="" coords="1212,284,1150,239,1111,218,1071,202,1008,188,942,178,876,174,811,174,690,181,591,195,590,189,689,176,811,168,876,169,943,173,1009,182,1073,197,1114,213,1152,234,1216,280"/>
+<area shape="rect" id="Node000010" href="$dd/df4/namespace_slic3r_1_1_f_f_f_tree_support.html#ab438824023a3a935e925a285dff2d154" title="Converts a Polygons object representing a line into the internal format." alt="" coords="887,292,1060,332"/>
+<area shape="poly" id="edge15_Node000009_Node000010" title=" " alt="" coords="1120,315,1060,315,1060,309,1120,309"/>
+<area shape="rect" id="Node000011" href="$dd/df4/namespace_slic3r_1_1_f_f_f_tree_support.html#a30ddef5499fa931cd6a895477f7d480e" title="Evaluates if a point has to be added now. Required for a split_lines call in generate_initial_areas()..." alt="" coords="890,212,1057,268"/>
+<area shape="poly" id="edge17_Node000009_Node000011" title=" " alt="" coords="1154,290,1057,264,1058,259,1155,285"/>
+<area shape="poly" id="edge20_Node000009_Node000012" title=" " alt="" coords="1163,341,1141,354,1122,371,1110,387,1103,402,1098,433,1093,466,1086,483,1074,500,1052,520,1027,536,1025,531,1049,516,1070,497,1081,480,1088,464,1093,433,1098,401,1105,384,1118,367,1138,350,1161,337"/>
+<area shape="poly" id="edge16_Node000010_Node000004" title=" " alt="" coords="871,292,590,229,591,223,873,287"/>
+<area shape="poly" id="edge18_Node000011_Node000003" title=" " alt="" coords="904,207,786,144,788,139,907,202"/>
+<area shape="poly" id="edge19_Node000011_Node000004" title=" " alt="" coords="875,236,591,216,591,211,875,230"/>
+<area shape="poly" id="edge21_Node000012_Node000012" title=" " alt="" coords="1013,521,999,515,973,513,950,515,936,520,931,525,933,533,928,534,926,524,933,515,949,510,973,508,1000,510,1015,517"/>
+<area shape="poly" id="edge36_Node000013_Node000004" title=" " alt="" coords="1125,395,1019,382,895,361,764,330,699,310,637,286,584,259,538,231,541,226,586,255,639,281,701,305,765,324,896,356,1019,377,1126,390"/>
+<area shape="poly" id="edge24_Node000013_Node000010" title=" " alt="" coords="1169,378,1038,335,1040,330,1171,373"/>
+<area shape="poly" id="edge25_Node000013_Node000011" title=" " alt="" coords="1171,377,1144,363,1118,346,1103,329,1094,313,1085,297,1070,282,1053,270,1056,266,1074,278,1090,294,1098,310,1107,326,1122,342,1146,359,1173,372"/>
+<area shape="poly" id="edge26_Node000013_Node000012" title=" " alt="" coords="1181,430,1121,461,1097,480,1074,501,1016,536,1013,531,1070,496,1094,476,1119,456,1178,425"/>
+<area shape="rect" id="Node000014" href="$dd/df4/namespace_slic3r_1_1_f_f_f_tree_support.html#abb175d116e2dfb6bc27c8f0005bfd906" title=" " alt="" coords="892,431,1055,486"/>
+<area shape="poly" id="edge27_Node000013_Node000014" title=" " alt="" coords="1135,428,1056,444,1055,439,1133,422"/>
+<area shape="poly" id="edge33_Node000014_Node000014" title=" " alt="" coords="1012,419,998,412,973,409,952,411,938,416,932,422,932,430,926,430,927,420,935,411,951,406,973,404,999,407,1015,414"/>
+<area shape="rect" id="Node000015" href="$dd/df4/namespace_slic3r_1_1_f_f_f_tree_support.html#ad858edd51a19e644532ce4d00379fb76" title="Merges Influence Areas if possible." alt="" coords="651,519,814,574"/>
+<area shape="poly" id="edge28_Node000014_Node000015" title=" " alt="" coords="883,494,812,521,810,516,881,489"/>
+<area shape="rect" id="Node000017" href="$dd/df4/namespace_slic3r_1_1_f_f_f_tree_support.html#ab2ce227e4f177e6b0a86047f62857854" title=" " alt="" coords="651,415,814,470"/>
+<area shape="poly" id="edge34_Node000014_Node000017" title=" " alt="" coords="877,455,815,451,815,445,877,449"/>
+<area shape="poly" id="edge32_Node000015_Node000015" title=" " alt="" coords="769,507,755,500,732,497,713,499,700,504,694,510,694,518,689,518,689,508,697,499,712,494,733,492,757,495,771,502"/>
+<area shape="rect" id="Node000016" href="$dd/df4/namespace_slic3r_1_1_f_f_f_tree_support.html#a072f8fb61613be20955808d6ea3da0eb" title="Merges Influence Areas at one layer if possible." alt="" coords="427,530,590,571"/>
+<area shape="poly" id="edge29_Node000015_Node000016" title=" " alt="" coords="636,551,591,552,591,546,636,546"/>
+<area shape="poly" id="edge30_Node000016_Node000005" title=" " alt="" coords="467,582,333,675,330,670,464,577"/>
+<area shape="poly" id="edge31_Node000016_Node000016" title=" " alt="" coords="543,517,530,511,509,509,489,511,477,515,472,521,474,529,469,530,467,520,474,511,488,506,509,504,532,506,545,513"/>
+<area shape="poly" id="edge35_Node000017_Node000017" title=" " alt="" coords="769,403,755,396,732,393,713,395,700,400,694,406,694,414,689,414,689,404,697,395,712,390,733,388,757,391,771,398"/>
+<area shape="poly" id="edge39_Node000019_Node000020" title=" " alt="" coords="1105,814,1052,810,1053,805,1105,809"/>
+<area shape="poly" id="edge40_Node000020_Node000007" title=" " alt="" coords="880,800,819,797,819,791,880,795"/>
+<area shape="poly" id="edge41_Node000020_Node000020" title=" " alt="" coords="1012,763,998,756,973,753,952,755,938,760,932,766,932,774,926,774,927,764,935,755,951,750,973,748,999,751,1015,758"/>
+<area shape="poly" id="edge43_Node000021_Node000006" title=" " alt="" coords="1107,611,734,614,507,614,363,616,301,623,222,640,175,656,131,675,129,670,173,651,221,635,300,617,363,610,507,609,734,609,1107,605"/>
+<area shape="poly" id="edge44_Node000021_Node000012" title=" " alt="" coords="1120,584,1052,572,1053,566,1121,579"/>
+<area shape="poly" id="edge47_Node000022_Node000012" title=" " alt="" coords="1156,515,1053,539,1052,534,1155,509"/>
+<area shape="poly" id="edge48_Node000022_Node000014" title=" " alt="" coords="1155,482,1055,471,1056,465,1156,477"/>
+<area shape="poly" id="edge50_Node000023_Node000007" title=" " alt="" coords="913,874,778,813,781,808,915,869"/>
+<area shape="poly" id="edge51_Node000023_Node000023" title=" " alt="" coords="1013,865,999,859,973,857,950,859,936,864,931,869,933,877,928,878,926,868,933,859,949,854,973,852,1000,854,1015,861"/>
+</map>

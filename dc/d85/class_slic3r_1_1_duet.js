@@ -1,0 +1,38 @@
+var class_slic3r_1_1_duet =
+[
+    [ "ErrorFn", "dc/d85/class_slic3r_1_1_duet.html#ab3e46aef9bd21fc0c62e5f198873e084", null ],
+    [ "InfoFn", "dc/d85/class_slic3r_1_1_duet.html#ab2e64ff9918ec06c2dd9d5cb66c21840", null ],
+    [ "ProgressFn", "dc/d85/class_slic3r_1_1_duet.html#abe8cb2e65db7140df4346a0643da097b", null ],
+    [ "ConnectionType", "dc/d85/class_slic3r_1_1_duet.html#a0562bfbff0c5bf7b65044310c98d8118", [
+      [ "rrf", "dc/d85/class_slic3r_1_1_duet.html#a0562bfbff0c5bf7b65044310c98d8118a346525fbb8acae04058f16d0199e6502", null ],
+      [ "dsf", "dc/d85/class_slic3r_1_1_duet.html#a0562bfbff0c5bf7b65044310c98d8118ad4b2758da0205c1e0aa9512cd188002a", null ],
+      [ "error", "dc/d85/class_slic3r_1_1_duet.html#a0562bfbff0c5bf7b65044310c98d8118acb5e100e5a9a3e7f6d1fd97512215282", null ]
+    ] ],
+    [ "Duet", "dc/d85/class_slic3r_1_1_duet.html#a3f248578e9c8c826c589b59c75bc622d", null ],
+    [ "~Duet", "dc/d85/class_slic3r_1_1_duet.html#a7cd1ad430615b4787d1f9bb49d4de441", null ],
+    [ "can_test", "dc/d85/class_slic3r_1_1_duet.html#ae03675681331518b839fa046f2e4003e", null ],
+    [ "connect", "dc/d85/class_slic3r_1_1_duet.html#aeb0733cf8e3af8b409840bf7cee67b08", null ],
+    [ "disconnect", "dc/d85/class_slic3r_1_1_duet.html#a9c223f4d6702e3158d9265f3222fcecb", null ],
+    [ "format_error", "dc/d85/class_slic3r_1_1_duet.html#a2b438ba6d49fea2ccb877b326fd2850c", null ],
+    [ "get_base_url", "dc/d85/class_slic3r_1_1_duet.html#a03e7789492f30ecfa83283fcbf82c358", null ],
+    [ "get_connect_url", "dc/d85/class_slic3r_1_1_duet.html#a95d0b50e3349801916e94f227fce40f3", null ],
+    [ "get_err_code_from_body", "dc/d85/class_slic3r_1_1_duet.html#a46a5918947b133e8fb34d5d6e91c43df", null ],
+    [ "get_groups", "dc/d85/class_slic3r_1_1_duet.html#ad5e2d0b1bd597e32089ad765797e23c3", null ],
+    [ "get_host", "dc/d85/class_slic3r_1_1_duet.html#a3fac2251ab908f593613908b37fc51d6", null ],
+    [ "get_name", "dc/d85/class_slic3r_1_1_duet.html#a4d1fe40ff3139df1acac95594ea71ce0", null ],
+    [ "get_post_upload_actions", "dc/d85/class_slic3r_1_1_duet.html#a148238eae26b6d65bd2d1ea63bc6fc7e", null ],
+    [ "get_print_host", "dc/d85/class_slic3r_1_1_duet.html#a2588472cbc3bf597f1ef22ca972aaf20", null ],
+    [ "get_printers", "dc/d85/class_slic3r_1_1_duet.html#a160168d5840aeb941e487e4485abd13e", null ],
+    [ "get_storage", "dc/d85/class_slic3r_1_1_duet.html#a9c1796843baab74f64a11246027e1b34", null ],
+    [ "get_test_failed_msg", "dc/d85/class_slic3r_1_1_duet.html#ad79e6209f34b2e50ddbaf1a8b4d635ce", null ],
+    [ "get_test_ok_msg", "dc/d85/class_slic3r_1_1_duet.html#ab4698b1fd1acf705fb1589b67ea5382c", null ],
+    [ "get_upload_url", "dc/d85/class_slic3r_1_1_duet.html#a6e004d2923aae1b224bbddf84a2b9204", null ],
+    [ "has_auto_discovery", "dc/d85/class_slic3r_1_1_duet.html#a0f8e9976b8eaa8530120ed2963a8913c", null ],
+    [ "start_print", "dc/d85/class_slic3r_1_1_duet.html#acb24d18785009ed042d0901af3a6da0f", null ],
+    [ "supports_multiple_printers", "dc/d85/class_slic3r_1_1_duet.html#ab142cd5d4492992c8c0021eff140caeb", null ],
+    [ "test", "dc/d85/class_slic3r_1_1_duet.html#abdff9cd0d0e8b64f1b4825ffa5c228f1", null ],
+    [ "timestamp_str", "dc/d85/class_slic3r_1_1_duet.html#a46fae5ae27b0fe6a2894e479a57f1b84", null ],
+    [ "upload", "dc/d85/class_slic3r_1_1_duet.html#a8648ce8b433c2833f869a65cf6364cf4", null ],
+    [ "host", "dc/d85/class_slic3r_1_1_duet.html#a2274b2127bf24875d6f258ba6532a657", null ],
+    [ "password", "dc/d85/class_slic3r_1_1_duet.html#ae7c56196f74db328304d9bec80153e85", null ]
+];

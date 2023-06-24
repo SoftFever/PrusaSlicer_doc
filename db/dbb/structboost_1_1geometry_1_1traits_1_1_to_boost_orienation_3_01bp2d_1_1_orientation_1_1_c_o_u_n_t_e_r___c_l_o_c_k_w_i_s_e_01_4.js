@@ -1,0 +1,4 @@
+var structboost_1_1geometry_1_1traits_1_1_to_boost_orienation_3_01bp2d_1_1_orientation_1_1_c_o_u_n_t_e_r___c_l_o_c_k_w_i_s_e_01_4 =
+[
+    [ "Value", "db/dbb/structboost_1_1geometry_1_1traits_1_1_to_boost_orienation_3_01bp2d_1_1_orientation_1_1_c_o_u_n_t_e_r___c_l_o_c_k_w_i_s_e_01_4.html#a798bb2509a68b7a32e086ab3f990ef56", null ]
+];

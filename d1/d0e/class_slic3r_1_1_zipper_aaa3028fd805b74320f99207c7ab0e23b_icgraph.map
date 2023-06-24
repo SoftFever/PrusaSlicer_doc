@@ -1,0 +1,21 @@
+<map id="Slic3r::Zipper::finish_entry" name="Slic3r::Zipper::finish_entry">
+<area shape="rect" id="Node000001" title="Finishing an entry means that subsequent writes will no longer be appended to the previous entry...." alt="" coords="795,89,932,129"/>
+<area shape="rect" id="Node000002" href="$d1/d0e/class_slic3r_1_1_zipper.html#a4b461dafa93a6efeab9e78d68782e565" title=" " alt="" coords="596,5,747,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="815,83,746,46,715,34,717,29,748,41,818,78"/>
+<area shape="rect" id="Node000003" href="$d1/d0e/class_slic3r_1_1_zipper.html#a6d6791b0ea9f692ad655d7c82cb98a4b" title="Adding an entry means a file inside the new archive. Name param is the name of the new file...." alt="" coords="608,55,735,96"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="780,97,735,89,736,84,781,92"/>
+<area shape="rect" id="Node000008" href="$d1/d0e/class_slic3r_1_1_zipper.html#a92247e2cb27094542ef91be0a1fbc692" title="Add a new binary file entry with an instantly given byte buffer. This method throws exactly like fini..." alt="" coords="608,121,735,161"/>
+<area shape="poly" id="edge8_Node000001_Node000008" title=" " alt="" coords="781,125,736,133,735,128,780,120"/>
+<area shape="rect" id="Node000009" href="$d1/d0e/class_slic3r_1_1_zipper.html#a3c60c3d88e714b20b657e273b40b658e" title=" " alt="" coords="398,173,545,199"/>
+<area shape="poly" id="edge9_Node000001_Node000009" title=" " alt="" coords="823,140,787,160,747,175,696,187,643,193,546,194,546,189,642,187,695,181,746,170,785,155,820,135"/>
+<area shape="rect" id="Node000004" href="$d4/d0b/class_slic3r_1_1_s_l1_archive.html#af214a5d13975b20cf5ca0c59a8d9bd5a" title=" " alt="" coords="218,106,347,147"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="593,83,499,90,395,103,348,113,347,107,395,98,498,85,593,77"/>
+<area shape="rect" id="Node000007" href="$de/db8/namespace_slic3r.html#a36daecafb32a60b39d486741291a998b" title=" " alt="" coords="395,113,548,139"/>
+<area shape="poly" id="edge6_Node000003_Node000007" title=" " alt="" coords="594,98,526,115,525,110,593,93"/>
+<area shape="rect" id="Node000005" href="$d4/d0b/class_slic3r_1_1_s_l1_archive.html#a9735ea3bd5f34c92ce6a8375af7b9064" title=" " alt="" coords="23,73,152,113"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="202,115,152,107,153,101,203,110"/>
+<area shape="rect" id="Node000006" href="$dc/d46/class_slic3r_1_1_s_l1___s_v_g_archive.html#af7b25d1286a8cde1d8b1217d55ae9bbc" title=" " alt="" coords="5,138,170,179"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="203,142,171,147,170,142,202,137"/>
+<area shape="poly" id="edge7_Node000007_Node000004" title=" " alt="" coords="380,129,348,129,348,124,380,124"/>
+<area shape="poly" id="edge10_Node000009_Node000004" title=" " alt="" coords="414,171,347,149,348,144,416,166"/>
+</map>

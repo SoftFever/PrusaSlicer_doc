@@ -1,0 +1,49 @@
+<map id="Slic3r::GUI::OptionsGroup::activate" name="Slic3r::GUI::OptionsGroup::activate">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,611,180,651"/>
+<area shape="rect" id="Node000002" href="$db/dac/class_slic3r_1_1_g_u_i_1_1_options_group.html#aff5bcef7075da0ef6b1be9f972482c5a" title=" " alt="" coords="235,545,409,586"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="165,608,233,588,235,593,167,613"/>
+<area shape="rect" id="Node000021" href="$db/dac/class_slic3r_1_1_g_u_i_1_1_options_group.html#a52f9e6af59f3d0332e9d39f2ae5ab2e8" title=" " alt="" coords="235,611,409,651"/>
+<area shape="poly" id="edge24_Node000001_Node000021" title=" " alt="" coords="180,628,219,628,219,634,180,634"/>
+<area shape="rect" id="Node000022" href="$db/d93/class_slic3r_1_1_g_u_i_1_1_o_g___custom_ctrl.html#a06fbb55c16f370f43405b13780f31824" title=" " alt="" coords="228,676,416,717"/>
+<area shape="poly" id="edge25_Node000001_Node000022" title=" " alt="" coords="167,649,235,669,233,674,165,654"/>
+<area shape="rect" id="Node000003" href="$db/dac/class_slic3r_1_1_g_u_i_1_1_options_group.html#a51cb81d9c7b200a81fa028886b605adf" title="Generate a wxSizer or wxWindow from a configuration option Precondition: opt resolves to a known Conf..." alt="" coords="464,193,638,234"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="334,543,526,245,531,248,339,546"/>
+<area shape="rect" id="Node000006" href="$db/dac/class_slic3r_1_1_g_u_i_1_1_options_group.html#a84023d50778d8b9e52f31192265f22f1" title=" " alt="" coords="686,5,861,46"/>
+<area shape="poly" id="edge10_Node000002_Node000006" title=" " alt="" coords="323,544,334,477,359,382,377,329,400,276,428,226,462,180,510,135,566,98,624,70,679,49,681,54,626,75,569,103,514,139,466,183,433,229,405,279,382,331,364,383,340,478,328,545"/>
+<area shape="rect" id="Node000007" href="$db/dac/class_slic3r_1_1_g_u_i_1_1_options_group.html#ad158fd54bc3227d1b579b882b1e44b0d" title="Returns a copy of the pointer of the parent wxWindow. Accessor function is because users are not allo..." alt="" coords="909,193,1083,234"/>
+<area shape="poly" id="edge23_Node000002_Node000007" title=" " alt="" coords="334,543,355,514,384,479,421,444,463,417,520,395,571,387,618,387,663,393,708,398,755,398,804,389,859,366,896,341,928,309,954,276,974,245,978,248,958,279,932,313,899,345,862,371,806,394,755,403,708,403,663,398,618,393,571,392,521,400,465,421,424,449,388,482,359,517,338,546"/>
+<area shape="rect" id="Node000010" href="$d0/d58/class_slic3r_1_1_g_u_i_1_1_field.html#ab9fe0cfd774b3813ec50eb42fbb89e20" title=" " alt="" coords="486,431,617,471"/>
+<area shape="poly" id="edge11_Node000002_Node000010" title=" " alt="" coords="353,543,404,512,463,481,475,475,477,480,465,485,407,517,356,547"/>
+<area shape="rect" id="Node000011" href="$d7/d58/wx_extensions_8cpp.html#a1ee9ba171a3fbe7352176a4315fee795" title=" " alt="" coords="518,496,585,521"/>
+<area shape="poly" id="edge12_Node000002_Node000011" title=" " alt="" coords="405,542,503,517,504,523,406,547"/>
+<area shape="rect" id="Node000014" href="$d2/de1/class_slic3r_1_1_g_u_i_1_1_line.html#abfcc7fcc0be641b61b8338659700dd86" title=" " alt="" coords="488,545,615,586"/>
+<area shape="poly" id="edge15_Node000002_Node000014" title=" " alt="" coords="410,563,473,563,473,568,410,568"/>
+<area shape="rect" id="Node000015" href="$d2/de1/class_slic3r_1_1_g_u_i_1_1_line.html#a12c93f30220ca574361bb04165276821" title=" " alt="" coords="488,611,614,651"/>
+<area shape="poly" id="edge16_Node000002_Node000015" title=" " alt="" coords="396,584,474,606,473,612,395,589"/>
+<area shape="rect" id="Node000016" href="$db/dac/class_slic3r_1_1_g_u_i_1_1_options_group.html#a532fb9ae725be6add4ac2a1adfaf0fe6" title=" " alt="" coords="464,676,638,717"/>
+<area shape="poly" id="edge17_Node000002_Node000016" title=" " alt="" coords="396,584,418,597,434,613,442,630,451,645,466,661,473,666,470,671,462,665,446,648,438,632,429,616,414,601,393,589"/>
+<area shape="rect" id="Node000017" href="$d2/de1/class_slic3r_1_1_g_u_i_1_1_line.html#a23194594d3bfa6fadf18517eb8f4d17b" title=" " alt="" coords="488,741,614,782"/>
+<area shape="poly" id="edge18_Node000002_Node000017" title=" " alt="" coords="401,584,418,597,431,614,438,631,443,663,447,695,454,711,466,726,477,735,473,739,462,730,449,713,442,696,438,664,433,632,427,617,414,601,398,589"/>
+<area shape="rect" id="Node000018" href="$d9/d45/namespace_slic3r_1_1_g_u_i.html#aa3e8187c2a79ce8082038937edfcbdcd" title="Covenience function to determine whether this field is a valid sizer field." alt="" coords="482,807,621,847"/>
+<area shape="poly" id="edge19_Node000002_Node000018" title=" " alt="" coords="403,584,418,597,435,622,443,647,445,672,443,696,441,720,443,744,450,768,466,792,471,797,467,801,462,795,445,770,437,745,436,720,438,696,439,672,438,648,430,625,414,601,399,589"/>
+<area shape="rect" id="Node000020" href="$d9/d45/namespace_slic3r_1_1_g_u_i.html#a2e7f89829793f0d808e7ac7ab11658bc" title="Covenience function to determine whether this field is a valid window field." alt="" coords="474,872,629,913"/>
+<area shape="poly" id="edge21_Node000002_Node000020" title=" " alt="" coords="403,585,418,597,439,631,448,664,448,697,443,729,439,761,438,792,446,824,466,857,469,860,465,864,462,861,441,827,433,793,433,760,438,728,442,697,442,665,434,633,414,601,400,589"/>
+<area shape="rect" id="Node000004" href="$db/dac/class_slic3r_1_1_g_u_i_1_1_options_group.html#a8538941968942a46d5e2e5185cd2fd9e" title=" " alt="" coords="686,71,861,111"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="578,191,627,157,685,122,699,115,701,120,688,127,630,161,581,195"/>
+<area shape="rect" id="Node000005" href="$db/dac/class_slic3r_1_1_g_u_i_1_1_options_group.html#a504d6e481b6460dcee44f35b192d9551" title=" " alt="" coords="686,136,861,177"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="632,190,677,178,679,183,633,195"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="567,191,633,113,685,57,694,51,697,56,688,61,637,117,571,195"/>
+<area shape="poly" id="edge9_Node000003_Node000007" title=" " alt="" coords="639,211,894,211,894,216,639,216"/>
+<area shape="rect" id="Node000008" href="$db/dac/class_slic3r_1_1_g_u_i_1_1_options_group.html#a1f0a272c0e183fab0024c32da7150738" title=" " alt="" coords="686,251,861,291"/>
+<area shape="poly" id="edge7_Node000003_Node000008" title=" " alt="" coords="633,232,679,244,677,249,632,237"/>
+<area shape="rect" id="Node000009" href="$db/dac/class_slic3r_1_1_g_u_i_1_1_options_group.html#a1fdaee04730bf55424e977f5f07ffe0f" title=" " alt="" coords="686,316,861,357"/>
+<area shape="poly" id="edge8_Node000003_Node000009" title=" " alt="" coords="581,232,630,266,688,301,701,307,699,312,685,305,627,271,578,237"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="840,44,862,57,897,85,928,118,976,179,971,183,924,121,893,89,859,61,838,49"/>
+<area shape="rect" id="Node000012" href="$d7/d9a/class_slic3r_1_1_g_u_i_1_1_d_p_i_aware.html#a10bf715638840dfd1312a054e64f8571" title=" " alt="" coords="696,460,851,501"/>
+<area shape="poly" id="edge13_Node000011_Node000012" title=" " alt="" coords="585,501,681,489,682,495,586,507"/>
+<area shape="rect" id="Node000013" href="$d9/d45/namespace_slic3r_1_1_g_u_i.html#a160756cff7bc7f94456fb6b61614f579" title=" " alt="" coords="690,525,857,566"/>
+<area shape="poly" id="edge14_Node000011_Node000013" title=" " alt="" coords="586,511,675,527,675,532,585,517"/>
+<area shape="rect" id="Node000019" href="$d9/d45/namespace_slic3r_1_1_g_u_i.html#af5b185fa0ca62da4044fb446f66cb23b" title="Convenience function, accepts a const reference to t_field and checks to see whether or not both wx p..." alt="" coords="707,839,840,879"/>
+<area shape="poly" id="edge20_Node000018_Node000019" title=" " alt="" coords="622,834,693,845,692,850,621,840"/>
+<area shape="poly" id="edge22_Node000020_Node000019" title=" " alt="" coords="629,878,692,868,693,874,630,883"/>
+</map>

@@ -1,0 +1,45 @@
+var class_slic3r_1_1_pressure_equalizer =
+[
+    [ "ExtrusionRateSlope", "df/dc1/class_slic3r_1_1_pressure_equalizer.html#d6/d98/struct_slic3r_1_1_pressure_equalizer_1_1_extrusion_rate_slope", [
+      [ "negative", "df/dc1/class_slic3r_1_1_pressure_equalizer.html#a6326581d4ac7e3782432d51954c85af1", null ],
+      [ "positive", "df/dc1/class_slic3r_1_1_pressure_equalizer.html#a07b13124b953b628a787222660f24ed9", null ]
+    ] ],
+    [ "GCodeLine", "d6/d5b/struct_slic3r_1_1_pressure_equalizer_1_1_g_code_line.html", "d6/d5b/struct_slic3r_1_1_pressure_equalizer_1_1_g_code_line" ],
+    [ "GCodeLineType", "df/dc1/class_slic3r_1_1_pressure_equalizer.html#a2bc9ebc23913233d3446e3e6594487d3", [
+      [ "GCODELINETYPE_INVALID", "df/dc1/class_slic3r_1_1_pressure_equalizer.html#a2bc9ebc23913233d3446e3e6594487d3a0c0fa09d6d2f96672cfa48aa389e846c", null ],
+      [ "GCODELINETYPE_NOOP", "df/dc1/class_slic3r_1_1_pressure_equalizer.html#a2bc9ebc23913233d3446e3e6594487d3aa2e825883b670f6f1e2c10f661dce5e3", null ],
+      [ "GCODELINETYPE_OTHER", "df/dc1/class_slic3r_1_1_pressure_equalizer.html#a2bc9ebc23913233d3446e3e6594487d3a448c822040f4f5ff7af238451aa2a41d", null ],
+      [ "GCODELINETYPE_RETRACT", "df/dc1/class_slic3r_1_1_pressure_equalizer.html#a2bc9ebc23913233d3446e3e6594487d3a0e7bdcd90a82f76f724f7932037d1ec1", null ],
+      [ "GCODELINETYPE_UNRETRACT", "df/dc1/class_slic3r_1_1_pressure_equalizer.html#a2bc9ebc23913233d3446e3e6594487d3a5f9e922bef65aad8d255813ef7d295bb", null ],
+      [ "GCODELINETYPE_TOOL_CHANGE", "df/dc1/class_slic3r_1_1_pressure_equalizer.html#a2bc9ebc23913233d3446e3e6594487d3a38eea761b33972b20bc9d6613523b1ba", null ],
+      [ "GCODELINETYPE_MOVE", "df/dc1/class_slic3r_1_1_pressure_equalizer.html#a2bc9ebc23913233d3446e3e6594487d3a54b598dd0f1833fb28dd3560b32a7a9d", null ],
+      [ "GCODELINETYPE_EXTRUDE", "df/dc1/class_slic3r_1_1_pressure_equalizer.html#a2bc9ebc23913233d3446e3e6594487d3a14b5a84f343634097e748ed1757f46cc", null ]
+    ] ],
+    [ "PressureEqualizer", "df/dc1/class_slic3r_1_1_pressure_equalizer.html#a8c75142bedf6def8a5791957758b39b5", null ],
+    [ "PressureEqualizer", "df/dc1/class_slic3r_1_1_pressure_equalizer.html#a78f5d4e6f19f64c461b76828f5a9d837", null ],
+    [ "~PressureEqualizer", "df/dc1/class_slic3r_1_1_pressure_equalizer.html#a10053465132907c50510745db03e5e0a", null ],
+    [ "adjust_volumetric_rate", "df/dc1/class_slic3r_1_1_pressure_equalizer.html#a5a255c3a2a5660cb7a71c669fd4332cf", null ],
+    [ "output_gcode_line", "df/dc1/class_slic3r_1_1_pressure_equalizer.html#a84b9172290fb049048a8329aa4676145", null ],
+    [ "process_layer", "df/dc1/class_slic3r_1_1_pressure_equalizer.html#a009099eb03f4c5c4be964a4d1d527d83", null ],
+    [ "process_layer", "df/dc1/class_slic3r_1_1_pressure_equalizer.html#a126bccdfe0fdf401615d5f8448eddd04", null ],
+    [ "process_line", "df/dc1/class_slic3r_1_1_pressure_equalizer.html#a892ffafabdf695569abb097c8c31c3f1", null ],
+    [ "push_line_to_output", "df/dc1/class_slic3r_1_1_pressure_equalizer.html#a2ba19986b77b70ea99d479ddc1b87a95", null ],
+    [ "push_to_output", "df/dc1/class_slic3r_1_1_pressure_equalizer.html#ae0aaba620850c17c26d72df367403c80", null ],
+    [ "push_to_output", "df/dc1/class_slic3r_1_1_pressure_equalizer.html#a7a674e6f8286b77b1bbbaa93e0f78e8e", null ],
+    [ "push_to_output", "df/dc1/class_slic3r_1_1_pressure_equalizer.html#a6f7d0f756e8e0fc2e8846037e5f3176a", null ],
+    [ "m_current_extruder", "df/dc1/class_slic3r_1_1_pressure_equalizer.html#af02ff71ba26a5ff45d7a80dff8417a2e", null ],
+    [ "m_current_extrusion_role", "df/dc1/class_slic3r_1_1_pressure_equalizer.html#a4f3a8c757a0c54bdbcc4c3f8afc43ce3", null ],
+    [ "m_current_pos", "df/dc1/class_slic3r_1_1_pressure_equalizer.html#aa9d5580a8cc37de2e9e08a29018916fb", null ],
+    [ "m_filament_crossections", "df/dc1/class_slic3r_1_1_pressure_equalizer.html#af7a7bce58cdf6e3855edc1cb065c8721", null ],
+    [ "m_gcode_lines", "df/dc1/class_slic3r_1_1_pressure_equalizer.html#aad81c9bab1ab47d8b61cc7c4941cafef", null ],
+    [ "m_layer_results", "df/dc1/class_slic3r_1_1_pressure_equalizer.html#a0b16c699f96f3ab16281f6e339f126be", null ],
+    [ "m_max_volumetric_extrusion_rate_slope_negative", "df/dc1/class_slic3r_1_1_pressure_equalizer.html#a49260de54b7acfc0bbe553dc39a9b665", null ],
+    [ "m_max_volumetric_extrusion_rate_slope_positive", "df/dc1/class_slic3r_1_1_pressure_equalizer.html#a7c092476bf2f6c10d83552b8656001e2", null ],
+    [ "m_max_volumetric_extrusion_rate_slopes", "df/dc1/class_slic3r_1_1_pressure_equalizer.html#aadea450fd6da4d590cfc37257e310b00", null ],
+    [ "m_retracted", "df/dc1/class_slic3r_1_1_pressure_equalizer.html#ada145e484fd018fa98a179d2f056cefc", null ],
+    [ "m_use_relative_e_distances", "df/dc1/class_slic3r_1_1_pressure_equalizer.html#a3999ead56d5ecd8b6555bee6b7b35e25", null ],
+    [ "opened_extrude_set_speed_block", "df/dc1/class_slic3r_1_1_pressure_equalizer.html#aaa1868f4960ea478bd291d69dbecadd8", null ],
+    [ "output_buffer", "df/dc1/class_slic3r_1_1_pressure_equalizer.html#a174cab6c7c29d14f582bb8dbc3008a53", null ],
+    [ "output_buffer_length", "df/dc1/class_slic3r_1_1_pressure_equalizer.html#a838a09fa022e01f820c7a99d134ff8f3", null ],
+    [ "output_buffer_prev_length", "df/dc1/class_slic3r_1_1_pressure_equalizer.html#ac2f55f9b1078bd61df1b8ddba4db80cb", null ]
+];

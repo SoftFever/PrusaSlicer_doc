@@ -1,0 +1,25 @@
+var class_slic3r_1_1_extrusion_entity =
+[
+    [ "~ExtrusionEntity", "de/d7c/class_slic3r_1_1_extrusion_entity.html#a4c77ecbcdf547a3e587883ba11504aac", null ],
+    [ "as_polyline", "de/d7c/class_slic3r_1_1_extrusion_entity.html#a544c006b473b7583da8dcd97d94c25bb", null ],
+    [ "as_polylines", "de/d7c/class_slic3r_1_1_extrusion_entity.html#a6d8199b0bed7c83ec6f491d9ca14fd4e", null ],
+    [ "can_reverse", "de/d7c/class_slic3r_1_1_extrusion_entity.html#a5ad631079efcccb38ac309f8988c4c66", null ],
+    [ "clone", "de/d7c/class_slic3r_1_1_extrusion_entity.html#a10835c866b730ea4dfc171ebe7051084", null ],
+    [ "clone_move", "de/d7c/class_slic3r_1_1_extrusion_entity.html#a6c677e28428be5a1bc1dfc3c3100b54d", null ],
+    [ "collect_points", "de/d7c/class_slic3r_1_1_extrusion_entity.html#af844ab42db49563626a423dd1eccb51d", null ],
+    [ "collect_polylines", "de/d7c/class_slic3r_1_1_extrusion_entity.html#a9ea4f6e11fa5784b4ebda8c34ae2cfa3", null ],
+    [ "first_point", "de/d7c/class_slic3r_1_1_extrusion_entity.html#a2d4bb978a8504799b0500c32d6e3c757", null ],
+    [ "is_collection", "de/d7c/class_slic3r_1_1_extrusion_entity.html#ab890d542e670e7a028a17b651ccba125", null ],
+    [ "is_loop", "de/d7c/class_slic3r_1_1_extrusion_entity.html#a5fb27216be0e6841ae1e4c30e5de6396", null ],
+    [ "last_point", "de/d7c/class_slic3r_1_1_extrusion_entity.html#add5cf57a1fbaf910ed82a88c25d77f3b", null ],
+    [ "length", "de/d7c/class_slic3r_1_1_extrusion_entity.html#a0b2e8372a696c6d64d54f2456d213012", null ],
+    [ "middle_point", "de/d7c/class_slic3r_1_1_extrusion_entity.html#aa15078a94da0c308a6a1e61160003813", null ],
+    [ "min_mm3_per_mm", "de/d7c/class_slic3r_1_1_extrusion_entity.html#aa4d49386c46dc2f961c8bdfb7e97a3f6", null ],
+    [ "polygons_covered_by_spacing", "de/d7c/class_slic3r_1_1_extrusion_entity.html#a8f0db3428f57688f6566412d7816e639", null ],
+    [ "polygons_covered_by_spacing", "de/d7c/class_slic3r_1_1_extrusion_entity.html#a59d10b28ef406b074e98ec780d7ccf30", null ],
+    [ "polygons_covered_by_width", "de/d7c/class_slic3r_1_1_extrusion_entity.html#a94091f9c16a48f010b6446fe0f4ef0b7", null ],
+    [ "polygons_covered_by_width", "de/d7c/class_slic3r_1_1_extrusion_entity.html#a8221aa740785a95b26b0d638fcfe9de7", null ],
+    [ "reverse", "de/d7c/class_slic3r_1_1_extrusion_entity.html#a956d60dbffc7feb869912a027b8bfd42", null ],
+    [ "role", "de/d7c/class_slic3r_1_1_extrusion_entity.html#a6b1e28b60ecc15255957036f7860a2e5", null ],
+    [ "total_volume", "de/d7c/class_slic3r_1_1_extrusion_entity.html#af847da82c8819fe2f4c4fb8b355ad3c5", null ]
+];

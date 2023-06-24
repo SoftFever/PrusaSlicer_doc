@@ -1,0 +1,28 @@
+var searchData=
+[
+  ['qoi_2eh_0',['qoi.h',['../d8/d3a/qoi_8h.html',1,'']]],
+  ['qoilib_2ec_1',['qoilib.c',['../d5/d65/qoilib_8c.html',1,'']]],
+  ['qslim_2ecpp_2',['qslim.cpp',['../d8/d50/qslim_8cpp.html',1,'']]],
+  ['qslim_2eh_3',['qslim.h',['../d9/d9c/qslim_8h.html',1,'']]],
+  ['qslim_5foptimal_5fcollapse_5fedge_5fcallbacks_2ecpp_4',['qslim_optimal_collapse_edge_callbacks.cpp',['../da/d0c/qslim__optimal__collapse__edge__callbacks_8cpp.html',1,'']]],
+  ['qslim_5foptimal_5fcollapse_5fedge_5fcallbacks_2eh_5',['qslim_optimal_collapse_edge_callbacks.h',['../d0/d65/qslim__optimal__collapse__edge__callbacks_8h.html',1,'']]],
+  ['quad_5fplanarity_2ecpp_6',['quad_planarity.cpp',['../de/d17/quad__planarity_8cpp.html',1,'']]],
+  ['quad_5fplanarity_2eh_7',['quad_planarity.h',['../de/d62/quad__planarity_8h.html',1,'']]],
+  ['quadprog_2ecpp_8',['quadprog.cpp',['../d5/dd8/quadprog_8cpp.html',1,'']]],
+  ['quadprog_2eh_9',['quadprog.h',['../da/dbe/quadprog_8h.html',1,'']]],
+  ['quadric_5fbinary_5fplus_5foperator_2ecpp_10',['quadric_binary_plus_operator.cpp',['../d5/d03/quadric__binary__plus__operator_8cpp.html',1,'']]],
+  ['quadric_5fbinary_5fplus_5foperator_2eh_11',['quadric_binary_plus_operator.h',['../d9/da9/quadric__binary__plus__operator_8h.html',1,'']]],
+  ['quadricedgecollapse_2ecpp_12',['QuadricEdgeCollapse.cpp',['../d5/dbf/_quadric_edge_collapse_8cpp.html',1,'']]],
+  ['quadricedgecollapse_2ehpp_13',['QuadricEdgeCollapse.hpp',['../d0/de6/_quadric_edge_collapse_8hpp.html',1,'']]],
+  ['quat_5fconjugate_2ecpp_14',['quat_conjugate.cpp',['../de/df5/quat__conjugate_8cpp.html',1,'']]],
+  ['quat_5fconjugate_2eh_15',['quat_conjugate.h',['../d2/ddc/quat__conjugate_8h.html',1,'']]],
+  ['quat_5fmult_2ecpp_16',['quat_mult.cpp',['../dc/d41/quat__mult_8cpp.html',1,'']]],
+  ['quat_5fmult_2eh_17',['quat_mult.h',['../d1/d1a/quat__mult_8h.html',1,'']]],
+  ['quat_5fto_5faxis_5fangle_2ecpp_18',['quat_to_axis_angle.cpp',['../d7/dc0/quat__to__axis__angle_8cpp.html',1,'']]],
+  ['quat_5fto_5faxis_5fangle_2eh_19',['quat_to_axis_angle.h',['../da/d97/quat__to__axis__angle_8h.html',1,'']]],
+  ['quat_5fto_5fmat_2ecpp_20',['quat_to_mat.cpp',['../d2/def/quat__to__mat_8cpp.html',1,'']]],
+  ['quat_5fto_5fmat_2eh_21',['quat_to_mat.h',['../d1/d42/quat__to__mat_8h.html',1,'']]],
+  ['quaternion_2eh_22',['Quaternion.h',['../df/d7d/_quaternion_8h.html',1,'']]],
+  ['quats_5fto_5fcolumn_2ecpp_23',['quats_to_column.cpp',['../d8/d33/quats__to__column_8cpp.html',1,'']]],
+  ['quats_5fto_5fcolumn_2eh_24',['quats_to_column.h',['../d8/d79/quats__to__column_8h.html',1,'']]]
+];
